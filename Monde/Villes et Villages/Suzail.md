@@ -1,3 +1,5 @@
-- **Région** : [[Cormyr]]
-- Type : #capitale
-- 
+---
+Région: "[[Cormyr]]"
+Type: Ville
+Capitale: Oui
+---
