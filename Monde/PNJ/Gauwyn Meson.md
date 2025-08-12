@@ -6,7 +6,7 @@ Relation: Ami
 Profession: Lord Maréchal
 Lieu: "[[Suzail]]"
 ---
-**![An illustrative sketch of an advanced-age man, well past fifty, with deep wrinkles marking his face, creating maps of past battles on his forehead](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFr-QxUrU42EcwdI_JszoqFwCmXvmlmARwkploDjUx1o6LBHZkQLK0i-93zxrEL1yUPF7Ixagy1b7H6XEtuZP_Bs47xoX2I41I1P7zLwqQ4659ZaKytGNx5lvBawNjiCg5J-TZeoHeDrspsW31tTE?key=f20fUraZRdyhaJR7QEfoVE-N)**
+
 # Description
 
 Un homme dont l'âge, bien qu'avancé, ne ternit en rien l'acuité de son regard. La cinquantaine largement dépassée a marqué son visage de profondes rides, traçant des cartes de batailles passées sur son front. Ses cheveux, d'un blanc immaculé, sont coupés court, soulignant la rigueur de ses traits.
