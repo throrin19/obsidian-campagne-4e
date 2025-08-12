@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "z_assets",
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "z_templates/"
+  ]
 }
