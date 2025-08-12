@@ -1,0 +1,3 @@
+- **Région** : [[Cormyr]]
+- Type : #capitale
+- 
