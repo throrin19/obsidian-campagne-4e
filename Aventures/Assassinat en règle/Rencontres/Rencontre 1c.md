@@ -3,9 +3,10 @@ Nom: Rivan l'informateur
 aliases:
   - "Rencontre 1c : Rivan l'informateur"
 Lieu: "[[Suzail]]"
-Personnages: 
-Niveau: 
-Complexité: 
+Personnages:
+  - "[[Rivan l'informateur]]"
+Niveau: "5"
+Complexité: "2"
 XP:
 ---
 # Installation

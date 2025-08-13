@@ -2,9 +2,9 @@
 Race: Humain
 Alignement: Non aligné
 Statut: Vivant
-Relation: Ami
-Profession: Lord Maréchal
-Lieu:
+Relation: Inconnu
+Profession: Informateur
+Lieu: "[[Suzail]]"
 ---
 ![picture]
 # Description
