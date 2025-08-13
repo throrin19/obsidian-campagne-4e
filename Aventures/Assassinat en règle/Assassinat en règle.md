@@ -1,5 +1,4 @@
 ---
-aliases: []
 Niveau: "5"
 Lieu: "[[Suzail]]"
 ---
@@ -37,3 +36,16 @@ Ils peuvent obtenir les informations suivantes de la part du Lord Maréchal :
 - Il militaient pour empêcher l’adoption d’un projet de loi visant à rouvrir les échanges commerciaux avec la Sembie. Le projet devait être soumis à un vote au Conseil restreint sous peu.
 - Officiellement présenté comme un cambriolage, mais rien d’important n’a été volé. La mise en scène semble masquer un assassinat ciblé. L’arme utilisée est fine et précise, probablement une dague.
 - Gauwyn ne peut pas faire confiance à ses enquêteurs habituels, car l’affaire est politiquement sensible. Il a besoin de personnes compétentes et indépendantes.
+
+De plus, les joueurs peuvent obtenir différentes informations complémentaires ou contextuelles au travers dde différents tests :
+
+- **Diplomatie DD 15** : Gauwyn suggère qu’un vieil indic, un certain Rivan, pourrait en savoir plus. Travaillant pour les couteaux enflammés, il devrait avoir entendu des rumeurs sur un prétendu assassinat d’un noble.  
+- **Diplomatie DD 20** : Il donne le nom d’un autre noble inquiet pour sa vie, que les PJ pourront interroger.  
+- **Intuition DD 12**: Les PJ comprennent qu’il craint que l’assassinat ne soit que le début, mais il ne veut pas semer la panique.  
+- **Intuition DD 17** : Gauwyn fait confiance aux PJ, mais il leur cache qu’il subit lui-même des pressions pour “classer” l’affaire rapidement.
+# Quêtes
+
+- [[Trouver l'assassin]]
+
+# La suite
+
