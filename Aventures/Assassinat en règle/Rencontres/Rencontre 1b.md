@@ -46,10 +46,7 @@ Berric confirme les soupçons de Halanthur mais n’a aucune preuve concrète.
 ### Échecs et Complications
 
 **Échec Diplomatie** : Berric se ferme complètement, pensant que les PJ pourraient être des espions : _“Je… je n’ai rien à ajouter. Peut-être devriez-vous partir maintenant.”_
-
 _Solution_ : Un test de Diplomatie DD 15 pour le rassurer ou mentionner spécifiquement Gauwyn Meson.
-
-  
 
 **Échec Intimidation** : Berric panique et appelle ses gardes. Les PJ doivent soit partir rapidement, soit convaincre Berric qu’ils ne lui veulent pas de mal (Diplomatie DD 18).
 # Suite
