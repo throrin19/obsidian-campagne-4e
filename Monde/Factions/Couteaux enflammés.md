@@ -1,7 +1,9 @@
 ---
 Origine: "[[Port Ponant]]"
 Type: Organisation criminelle
-Chef:
+Chef officiel: 
+Chef officieux: 
+Alignement: Mauvais
 ---
 # Chefs par régions
 
