@@ -49,3 +49,5 @@ De plus, les joueurs peuvent obtenir différentes informations complémentaires 
 
 # La suite
 
+- [[Rencontre 1a|Rencontre 1a : Scène du crime]] : La piste la plus directe. Les PJ peuvent se rendre sur les lieux du meurtre pour examiner la scène, interroger les domestiques, détecter des traces suspectes ou des incohérences dans la version officielle du cambriolage. Cette rencontre sert à ancrer le meurtre dans le réel et à ouvrir des soupçons sur sa mise en scène.
+- 
