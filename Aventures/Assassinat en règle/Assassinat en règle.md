@@ -50,4 +50,5 @@ De plus, les joueurs peuvent obtenir différentes informations complémentaires 
 # La suite
 
 - [[Rencontre 1a|Rencontre 1a : Scène du crime]] : La piste la plus directe. Les PJ peuvent se rendre sur les lieux du meurtre pour examiner la scène, interroger les domestiques, détecter des traces suspectes ou des incohérences dans la version officielle du cambriolage. Cette rencontre sert à ancrer le meurtre dans le réel et à ouvrir des soupçons sur sa mise en scène.
-- 
+- [[Rencontre 1b|Rencontre 1b : Sir Berric Thornevale]] : Si les PJ ont appris qu’un autre noble se sent menacé ou si Gauwyn le leur a révélé, ils peuvent aller interroger Sir Berric Thornevale. Ce dernier partageait certaines idées avec Deryan Halanthur et craint d’être la prochaine cible. Il peut apporter un témoignage précieux, voire leur transmettre un document ou une piste menant au mobile politique du meurtre.
+- [[Rencontre 1c|Rencontre 1c : Rivan l'informateur]] : Si les PJ ont obtenu l’existence de Rivan, un informateur discret connaissant les mouvements des Couteaux Enflammés, ils peuvent chercher à le rencontrer. Il acceptera de parler moyennant une contrepartie ou un service, mais peut aussi les orienter vers les responsables de l’exécution du meurtre ou des contacts suspects liés à Erzoured.
