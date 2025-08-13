@@ -11,8 +11,10 @@ XP:
 
 # Défi de compétence
 
-- Compétences principales
-- Compétences secondaires
+- Objectif :
+- Compétences principales :
+- Compétences secondaires :
+
 
 # Suite
 
