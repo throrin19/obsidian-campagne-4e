@@ -51,3 +51,6 @@ _Solution_ : Un test de Diplomatie DD 15 pour le rassurer ou mentionner spécif
 **Échec Intimidation** : Berric panique et appelle ses gardes. Les PJ doivent soit partir rapidement, soit convaincre Berric qu’ils ne lui veulent pas de mal (Diplomatie DD 18).
 # Suite
 
+- [[Rencontre 1c|Rencontre 1c : Rivan l'informateur]] : S’ils ont eu l’information de Gauwyn
+- [[Rencontre 1d|Rencontre 1d : Au rapport]] : Partager les informations, conseils pour la suite
+- **Rencontre 3 : Cargaisons suspectes** : S’ils veulent tenter leur chance au travers des cargaisons mentionnées
