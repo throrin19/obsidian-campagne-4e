@@ -19,6 +19,3 @@ Dans le manoir, se trouvent les gardes surveillant la scène de crime ainsi que 
 
 # Défi de compétence
 
-| Défi | Succès | Échec |
-| ---- | ------ | ----- |
-|      |        |       |
