@@ -46,4 +46,4 @@ Si les PJ veulent plus de moyen pour avancer, Gauwyn peut leur fournir les chose
 # Suite
 
 - [[Rencontre 2a|Rencontre 2a : Confrontation avec Vrax]] : S’ils on eu les informations pour contacter Vrax, ils peuvent tenter d’y aller.
-- **Rencontre 3 : Cargaisons suspectes**. : Ils peuvent aller enquêter sur la piste que suivait Halanthur.
+- [[Rencontre 3c|Rencontre 3c : Le douanier]] : Ils peuvent aller enquêter sur la piste que suivait Halanthur.

@@ -51,4 +51,7 @@ Si les joueurs parlent de cargaisons suspectes recherchées par Deryan Halanthur
 Si tout s'est bien passé, Ils ont établis le contact avec Vrax, il fera peut-être affaire avec eux.
 Sinon, ils se sont fait un ennemi dans Suzail.
 
-
+- [[Rencontre 3a|Rencontre 3a : Au rapport]] : Pour partager les informations avec Gawyn ou se débloquer
+- [[Rencontre 3b|Rencontre 3b : Protection de témoins]]: S'ils ont pu négocier avec Vrax, les autres assassinats n'auront pas lieu, ils peuvent donc aller avertir les cibles
+- [[Rencontre 3c|Rencontre 3c : Le douanier]]Pour tenter d'en savoir plus sur les cargaisons
+- [[Rencontre 4a|Rencontre 4a : Entrepôt secret]] : S'ils ont pu avoir les informations de Vrax, ils peuvent directement se rendre à l'entrepot
