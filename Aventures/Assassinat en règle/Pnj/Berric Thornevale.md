@@ -9,3 +9,4 @@ Lieu: "[[Suzail]]"
 # Description
 
 # Événements
+- Rencontre dans [[Assassinat en règle]]

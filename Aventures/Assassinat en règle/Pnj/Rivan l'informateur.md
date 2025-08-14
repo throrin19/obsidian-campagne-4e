@@ -20,3 +20,4 @@ Mais sous ces airs pas très flatteur, Rivan entend tout et sait tout ce qu'il s
 Rivan opère dans une vieille herboristerie abandonnée, dans les ruelles détrempées du quartier des docks. On dit que si tu veux un poison, un tuyau ou un nom, c’est là qu’il faut frapper.
 
 # Événements
+- Rencontre dans [[Assassinat en règle]]

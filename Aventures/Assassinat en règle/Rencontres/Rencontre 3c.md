@@ -3,7 +3,8 @@ Nom: Le douanier
 aliases:
   - "Rencontre 3c : Le douanier"
 Lieu: "[[Suzail]]"
-Personnages: 
+Personnages:
+  - "[[Marcus Flintwick]]"
 Niveau: 
 Complexité: 
 XP:
