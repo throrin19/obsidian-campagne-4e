@@ -1,7 +1,8 @@
 ---
-Nom: 
-aliases: 
-Lieu: 
+Nom: Le douanier
+aliases:
+  - "Rencontre 3c : Le douanier"
+Lieu: "[[Suzail]]"
 Personnages: 
 Niveau: 
 Complexité: 

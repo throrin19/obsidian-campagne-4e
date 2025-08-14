@@ -42,3 +42,4 @@ _Intuition DD 14_ : Les PJ comprennent que Rivan en sait plus qu’il ne le dit
 | Échec  | Rivan se ferme. Si les joueurs paient, Rivan leur indique que les couteaux enflammés ont bien exécuté le contrat mais il ne leur donne pas d'autre information, les invitant à repartir.                                                                                                                                                                                                  |
 - [[Rencontre 1d|Rencontre 1d : Au rapport]] : Ils peuvent aller directement voir Gauwyn pour partager leurs informations ou débloquer d'autres pistes.
 - [[Rencontre 2a|Rencontre 2a : Confrontation avec Vrax]] : S'ils ont réussit le défi, ils peuvent tenter d'aller voir Vrax.
+- [[Rencontre 3c|Rencontre 3c : Le douanier]] : S'ils ont eu l'information des cargaisons.
