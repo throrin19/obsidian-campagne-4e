@@ -9,7 +9,7 @@ aliases:
   - Foril II
   - Roi Foril
 ---
-![picture]
+![[foril_obarskyr.webp]]
 # Description
 
 Foril II Obarskyr est un roi sage et bienveillant, mais aussi ferme et déterminé. 

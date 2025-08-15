@@ -8,7 +8,7 @@ Lieu: "[[Suzail]]"
 aliases:
   - Lord maréchal
 ---
-
+![[gauwyn_meson.webp]]
 # Description
 
 Un homme dont l'âge, bien qu'avancé, ne ternit en rien l'acuité de son regard. La cinquantaine largement dépassée a marqué son visage de profondes rides, traçant des cartes de batailles passées sur son front. Ses cheveux, d'un blanc immaculé, sont coupés court, soulignant la rigueur de ses traits.
