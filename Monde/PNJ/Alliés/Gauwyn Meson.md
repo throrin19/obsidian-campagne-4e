@@ -5,6 +5,8 @@ Statut: Vivant
 Relation: Ami
 Profession: Lord Maréchal
 Lieu: "[[Suzail]]"
+aliases:
+  - Lord maréchal
 ---
 
 # Description

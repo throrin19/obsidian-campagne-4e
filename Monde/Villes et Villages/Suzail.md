@@ -2,6 +2,7 @@
 Région: "[[Cormyr]]"
 Type: Ville
 Capitale: Oui
+Maire: "[[Gauwyn Meson]]"
 ---
 # Carte
 
@@ -25,7 +26,7 @@ marker: , 441, 353, [[Temple de Tymora]]
 marker: , 362, 429, [[Temple de Torm]]
 
 # Lieux de pouvoir
-marker: , 464, 647, [[Palais Royal]]
+marker: , 464, 647, [[Palais Royaux]]
 marker: , 356, 234, [[Forteresse des dragons pourpres]] 
 marker: , 362, 808, [[Palais du Lord Maréchal]]
 
