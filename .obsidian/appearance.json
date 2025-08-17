@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Baseline"
+  "cssTheme": "",
+  "theme": "system",
+  "accentColor": "#005aad"
 }
