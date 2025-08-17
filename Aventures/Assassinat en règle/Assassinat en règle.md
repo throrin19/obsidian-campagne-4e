@@ -14,7 +14,7 @@ L’enquête les mènera dans les rues sombres de Suzail, sur la trace d’un co
 
 À travers cette aventure, les PJ seront confrontés aux complexités des luttes politiques, aux jeux d’influence entre maisons nobles, et à une vérité plus sombre dissimulée sous les apparences officielles. En fonction de leurs choix, ils pourront révéler l’ampleur de la conspiration, empêcher de nouveaux meurtres… ou au contraire, se heurter à des forces bien plus insidieuses, œuvrant encore dans l’ombre de Suzail.
 
-### Introduction aux joueurs
+# Introduction aux joueurs
 
 Les personnages sont convoqués dans l’une des salles de réunion austères du quartier général des Dragons Pourpres, au cœur de Suzail. On les y conduit sans attendre, escortés par un soldat en armure au regard fermé. Les couloirs sont silencieux, seulement troublés par les échos lointains d’ordres donnés dans la cour.
 
