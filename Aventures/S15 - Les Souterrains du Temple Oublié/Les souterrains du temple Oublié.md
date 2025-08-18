@@ -11,9 +11,9 @@ En réalité, les ouvriers ont mis au jour un ancien passage, muré depuis des c
 
 [[Aela Brise-Fer]] vient à parler du problème aux joueurs d'une manière ou d'une autre. Cela peut être soit lors de la visite régulière du temple par l'un des joueurs ou alors au travers du [[Gauwyn Meson|Lord maréchal]] voir même une entrevue directe au coin de la rue ou directement à l'auberge.
 
+
 # Quête
 
-
-
+Voir [[Quête]]
 # La suite
 

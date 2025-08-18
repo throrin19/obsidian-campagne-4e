@@ -5,6 +5,6 @@ Les joueurs doivent nettoyer et purifier le temple découvert afin d'arrêter le
 
 Les joueurs doivent découvrir, avec l'aide d'[[Aela Brise-Fer]] pourquoi la zone a été murée en visitant les archives de Suzail et/ou du temple (optionnel).
 
-En récompense, Aela remettra un objet magique de niveau 8 en rapport avec le Dieu [[Torm]] aux joueurs s'ils réussissent l'ensemble des objectifs.
+En récompense, [[Aela Brise-Fer]] remettra un objet magique de niveau 8 en rapport avec le Dieu [[Torm]] aux joueurs s'ils réussissent l'ensemble des objectifs.
 
-Sinon elle remet à la place un objet magique de niveau 6 en rapport au Dieu [[Torm]] aux joueurs.
+Sinon elle remet à la place un objet magique de niveau 6 en rapport au Dieu [[Torm]] aux joueurs. De plus seul la moitié des XP sera donnée aux joueurs.
