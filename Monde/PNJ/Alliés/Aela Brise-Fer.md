@@ -4,7 +4,7 @@ Alignement: Non aligné
 Statut: Vivant
 Relation: Ami
 Profession: Prêtresse de Torm
-Lieu: "[[Suzail]]"
+Lieu: "[[Temple de Torm]]"
 ---
 ![[aela_brise-fer.webp]]
 # Description
