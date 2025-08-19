@@ -4,9 +4,9 @@ Lieu: "[[Temple de Torm]]"
 ---
 # Introduction au MJ
 
-Pendant des travaux d'extension près du sanctuaire de Torm, les ouvriers découvrent une entrée murée menant à un ancien complexe souterrain. [[Aela Brise-Fer]] fait appel aux joueurs car d'étranges phénomènes se manifestent depuis l'ouverture : lumières mystérieuses la nuit, bruits de chaînes, et plusieurs ouvriers rapportent des cauchemars récurrents de batailles anciennes.
+Pendant des travaux d'extension près du sanctuaire de Torm, les ouvriers découvrent une entrée murée menant à un ancien complexe souterrain. [[Aela Brise-Fer]] fait appel aux joueurs car d'étranges phénomènes se manifestent depuis l'ouverture : murmures dans l'obscurité, froid surnaturel, et plusieurs ouvriers rapportent des cauchemars récurrents de rituels sombres et de secrets inavouables.
 
-En réalité, les ouvriers ont mis au jour un ancien passage, muré depuis des centaines d'années et couvert de runes, menant à un ancien temple de mercenaires-prêtres de Tempus, actif avant la destruction de Suzail en 1018 CV. En l'ouvrant, ils ont réveillé ce qui était endormi depuis plus de 460 ans.
+En réalité, les ouvriers ont mis au jour un ancien passage, muré depuis des centaines d'années et couvert de runes, menant à un ancien sanctuaire dédié à la déesse Shar. En l'ouvrant, ils ont réveillé ce qui était endormi depuis plus de 1000 ans.
 # Introduction aux joueurs
 
 [[Aela Brise-Fer]] vient à parler du problème aux joueurs d'une manière ou d'une autre. Cela peut être soit lors de la visite régulière du temple par l'un des joueurs ou alors au travers du [[Gauwyn Meson|Lord maréchal]] voir même une entrevue directe au coin de la rue ou directement à l'auberge.
@@ -17,20 +17,20 @@ _"Mes amis, j'ai un besoin urgent de votre aide ! Hier, nous effectuions des tra
 
 _Elle semble inquiète, parlant plus rapidement
 
-_"Depuis hier soir, la situation se dégrade rapidement. Cette nuit, nous avons entendu des bruits étranges provenant des profondeurs : des échos métalliques, comme des chaînes qui traînent. Mais ce matin, c'est bien pire..."_
+_"Hier soir, des prêtres ont aperçu des ombres apparaître et disparaître subrepticement dans le temple, avec à chaque fois une profonde sensation de désespoir."_
 
-_"Trois de mes ouvriers se sont battus à coups de poing pour une broutille ! Gareth le Tailleur de Pierre, habituellement si calme, a menacé un collègue avec son marteau. Ils deviennent tous agressifs, irritables, ils parlent de 'prouver leur valeur' et de 'gloire au combat'. Ce ne sont plus les mêmes hommes !"_
+_"Trois de mes ouvriers ne sont pas revenu ce matin ! Gareth le Tailleur de Pierre, habituellement si travailleur et ayant une grande joie de vivre,  a sombré dans le désespoir le plus total et a tenté de se suicider dans la nuit disant que des ombres étaient à son chevet à l'attendre. Les deux autres ouvriers sont mort de peur dans leur sommeil."_
 
-_"Et mes prières... Torm ne m'entend plus clairement. Une présence hostile émane de ce passage, une aura de violence qui grandit d'heure en heure. Si cela continue, je crains que mes ouvriers ne s'entretuent avant ce soir !"_
+_"Et mes prières... Torm ne m'entend plus clairement. Une présence hostile émane de ce passage, une aura d'ombre et de désespoir qui grandit d'heure en heure. Si cela continue, je crains que le mal n'envahisse Suzail."_
 
-_"J'ai besoin que vous descendiez immédiatement explorer ces souterrains et neutralisiez cette menace, avant que quelqu'un ne soit gravement blessé. Acceptez-vous de m'aider ?"_
+_"J'ai besoin que vous descendiez immédiatement explorer ces souterrains et neutralisiez cette menace, avant que le mal ne grandisse trop. Acceptez-vous de m'aider ?"_
 
 De plus, s'ils le demandent, ils peuvent obtenir les informations suivantes : 
 
-- La découverte remonte à la veille dans l'après-midi et les manifestations se sont produites pour la première fois en début de soirée.
+- La découverte remonte à la veille dans l'après-midi et les manifestations se sont produites dans la nuit.
 - Aela ne sait pas quelles runes ornaient le mur, la plupart ont été détruites lors des travaux,
-- À sa connaissance, il ne devrait y avoir aucun passage ici, en tout cas, le peu qu'elle a regardé dans les archives du tempe n'en font pas mention
-- Les personnes ont l'air de plus en plus violentes aux abords du passage, les ouvriers sont de plus en plus violents les uns avec les autres, cherchant toutes les excuses pour se battre.
+- À sa connaissance, il ne devrait y avoir aucun passage ici, en tout cas, le peu qu'elle a regardé dans les archives du tempe n'en font pas mention. Elle pense qu'une recherche approfondie devrait aider à en apprendre plus.
+- Si aucun indice n'existe dans les archives du temple, peut-être qu'il faut regarder dans celles de la ville : potentiellement cette zone est plus ancienne que le temple et remonte à sa construction.
 - C'est la contre-maître des travaux, [[Mira Cœur-Vaillant]] qui a ordonner d'ouvrir le mur. Elle était impatiente de découvrir ce qu'il y avait de l'autre côté.
 # Quête
 
@@ -40,5 +40,5 @@ Voir [[Quête]]
 Les joueurs peuvent au choix : 
 
 - Chercher des renseignements sur le passage muré dans les archives du temple ou bien directement dans celles de la ville. Rendez-vous à la Rencontre 1 : Les archives
-	- Ils peuvent aussi descendre directement dans le temple pour essayer d'éradiquer le mal. Dans ce cas, rendez-vous à _**Temple oublié des mercenaires de Tempus**_
+- Ils peuvent aussi descendre directement dans le temple pour essayer d'éradiquer le mal. Dans ce cas, rendez-vous à [[Ancien sanctuaire de Shar]]_
 
