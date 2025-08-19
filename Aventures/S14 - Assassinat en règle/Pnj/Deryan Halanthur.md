@@ -1,12 +1,17 @@
 ---
 Type: Pnj
 Race: Humain
-Alignement: Bon
-Statut: Mort
-Relation: Aucune
-Profession: Noble
-Lieu: "[[Suzail]]"
+Alignement: Non aligné
+Statut: Vivant
+Relation: Ami
+Profession: Lord Maréchal
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
+![picture]
+# Description
+
+# Événements
 # Description
 Le seigneur Deryan Halanthur, un noble influent faisant parti du conseil électeur des lois du Cormyr, a été retrouvé mort dans son bureau, tué d’un coup précis au cœur.
 

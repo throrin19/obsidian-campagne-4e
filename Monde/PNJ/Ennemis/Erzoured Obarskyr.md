@@ -5,7 +5,8 @@ Alignement: Mauvais
 Statut: Vivant
 Relation: Ennemi
 Profession: Neveu du roi
-Lieu: "[[Suzail]]"
+Lieu: "[[Palais Royaux]]"
+Ville/Village: "[[Suzail]]"
 ---
 ![[erzoured_obarskyr.png]]
 # Description

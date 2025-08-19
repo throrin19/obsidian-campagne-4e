@@ -5,7 +5,8 @@ Alignement: Non aligné
 Statut: Vivant
 Relation: Ennemi
 Profession: Noble
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 ![[darlan_ormestar.png]]
 # Description

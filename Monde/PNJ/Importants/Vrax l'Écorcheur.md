@@ -5,7 +5,8 @@ Alignement: Mauvais
 Statut: Vivant
 Relation: Inconnu
 Profession: Chef des Couteaux enflammés
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 ![[vrax.png]]
 # Description

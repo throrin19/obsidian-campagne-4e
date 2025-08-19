@@ -5,7 +5,8 @@ Alignement: Loyal bon
 Statut: Vivant
 Relation: Ami
 Profession: Espion
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 
 # Description

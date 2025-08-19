@@ -1,12 +1,17 @@
 ---
 Type: Pnj
 Race: Humain
-Alignement: Bon
+Alignement: Non aligné
 Statut: Vivant
-Relation: Inconnu
-Profession: Noble
-Lieu: "[[Suzail]]"
+Relation: Ami
+Profession: Lord Maréchal
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
+![picture]
+# Description
+
+# Événements
 # Description
 
 # Événements

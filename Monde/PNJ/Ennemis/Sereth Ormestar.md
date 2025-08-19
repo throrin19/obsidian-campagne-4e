@@ -5,7 +5,8 @@ Alignement: Mauvais
 Statut: Vivant
 Relation: Ennemi
 Profession: Noble déchu
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 ![[sereth_ormestar.png]]
 # Description

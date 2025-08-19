@@ -5,10 +5,11 @@ Alignement: Loyal bon
 Statut: Vivant
 Relation: Inconnu
 Profession: Roi du Cormyr
-Lieu: "[[Suzail]]"
+Lieu: "[[Palais Royaux]]"
 aliases:
   - Foril II
   - Roi Foril
+Ville/Village: "[[Suzail]]"
 ---
 ![[foril_obarskyr.webp]]
 # Description

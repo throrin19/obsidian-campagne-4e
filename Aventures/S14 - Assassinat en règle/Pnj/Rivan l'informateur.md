@@ -5,7 +5,8 @@ Alignement: Non aligné
 Statut: Vivant
 Relation: Inconnu
 Profession: Informateur / herboriste
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 ![[rivan.png]]
 # Description

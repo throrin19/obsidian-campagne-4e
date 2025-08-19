@@ -5,7 +5,8 @@ Alignement: Loyal bon
 Statut: Vivant
 Relation: Ami
 Profession: Lord Maréchal
-Lieu: "[[Suzail]]"
+Lieu: "[[Palais du Lord Maréchal]]"
+Ville/Village: "[[Suzail]]"
 aliases:
   - Lord maréchal
 ---

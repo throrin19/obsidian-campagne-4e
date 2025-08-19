@@ -6,6 +6,7 @@ Statut: Vivant
 Relation: Ami
 Profession: Prêtresse de Torm
 Lieu: "[[Temple de Torm]]"
+Ville/Village: "[[Suzail]]"
 ---
 ![[aela_brise-fer.webp]]
 # Description

@@ -5,7 +5,8 @@ Alignement: Loyal bon
 Statut: Vivant
 Relation: Inconnu
 Profession: Douanier maritime
-Lieu: "[[Suzail]]"
+Lieu:
+Ville/Village: "[[Suzail]]"
 ---
 ![[marcus_flintwick.png]]
 # Description
