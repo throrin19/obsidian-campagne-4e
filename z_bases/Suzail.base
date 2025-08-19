@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("Monde/Lieux/Suzail")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Type
+      - Habitants
+    columnSize:
+      note.Type: 159
+  - type: cards
+    name: Quartiers
+    filters:
+      and:
+        - file.inFolder("Monde/Lieux/Suzail/Quartiers")
