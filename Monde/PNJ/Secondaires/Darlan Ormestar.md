@@ -2,11 +2,12 @@
 Type: Pnj
 Race: Humain
 Alignement: Non aligné
-Statut: Vivant
+Statut: Mort
 Relation: Ennemi
 Profession: Noble
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image: "[[darlan_ormestar.png]]"
 ---
 ![[darlan_ormestar.png]]
 # Description

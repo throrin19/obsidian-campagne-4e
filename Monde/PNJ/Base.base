@@ -50,5 +50,6 @@ views:
     filters:
       and:
         - note["Ville/Village"] == link("Suzail")
+        - Statut == "Vivant"
     image: note.Image
     cardSize: 160

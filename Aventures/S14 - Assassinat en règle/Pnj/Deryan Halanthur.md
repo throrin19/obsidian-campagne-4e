@@ -2,7 +2,7 @@
 Type: Pnj
 Race: Humain
 Alignement: Non aligné
-Statut: Vivant
+Statut: Mort
 Relation: Ami
 Profession: Lord Maréchal
 Lieu:

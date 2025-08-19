@@ -7,6 +7,7 @@ Relation: Ennemi
 Profession: Neveu du roi
 Lieu: "[[Palais Royaux]]"
 Ville/Village: "[[Suzail]]"
+Image: "[[erzoured_obarskyr.png]]"
 ---
 ![[erzoured_obarskyr.png]]
 # Description

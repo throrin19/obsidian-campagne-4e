@@ -7,6 +7,7 @@ Relation: Inconnu
 Profession: Chef des Couteaux enflammés
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image: "[[vrax.png]]"
 ---
 ![[vrax.png]]
 # Description

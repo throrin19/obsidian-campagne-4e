@@ -33,3 +33,7 @@ marker: , 224, 288, [[Auberge du lion d'or]]
 # Description
 
 # Lieux
+
+# Personnages
+
+![[Base.base#Suzail]]

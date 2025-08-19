@@ -7,7 +7,7 @@ Relation: Ami
 Profession: Prêtresse de Torm
 Lieu: "[[Temple de Torm]]"
 Ville/Village: "[[Suzail]]"
-Image: "[[Aela Brise-Fer]]"
+Image: "[[aela_brise-fer.webp]]"
 ---
 ![[aela_brise-fer.webp]]
 # Description

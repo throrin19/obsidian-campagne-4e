@@ -10,6 +10,7 @@ aliases:
   - Foril II
   - Roi Foril
 Ville/Village: "[[Suzail]]"
+Image: "[[foril_obarskyr.webp]]"
 ---
 ![[foril_obarskyr.webp]]
 # Description

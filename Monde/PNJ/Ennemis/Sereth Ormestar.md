@@ -7,6 +7,7 @@ Relation: Ennemi
 Profession: Noble déchu
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image: "[[sereth_ormestar.png]]"
 ---
 ![[sereth_ormestar.png]]
 # Description
