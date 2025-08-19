@@ -29,6 +29,7 @@ views:
       - Alignement
       - Profession
       - Race
+      - Lieu
       - Relation
       - Statut
   - type: table
