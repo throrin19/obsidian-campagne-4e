@@ -1,4 +1,10 @@
+---
+Lieu: "[[Temple de Torm]]"
+Type: Ruines
+---
 # Histoire
+
+
 
 # Plan
 
