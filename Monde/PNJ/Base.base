@@ -17,6 +17,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 226
+      note.Race: 119
       note.Relation: 126
       note.Statut: 98
   - type: table
