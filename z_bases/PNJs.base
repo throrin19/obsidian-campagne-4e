@@ -21,3 +21,13 @@ views:
       note.Statut: 98
   - type: table
     name: Suzail
+    filters:
+      and:
+        - file.hasLink("Monde/Villes et Villages/Suzail")
+    order:
+      - file.name
+      - Alignement
+      - Profession
+      - Race
+      - Relation
+      - Statut
