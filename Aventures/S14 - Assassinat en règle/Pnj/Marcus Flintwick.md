@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Nain
 Alignement: Loyal bon
 Statut: Vivant

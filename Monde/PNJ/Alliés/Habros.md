@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Demi-Elfe
 Alignement: Loyal bon
 Statut: Vivant

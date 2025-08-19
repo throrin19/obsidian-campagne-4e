@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Humain
 Alignement: Loyal bon
 Statut: Vivant

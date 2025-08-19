@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Halfelin
 Alignement: Non aligné
 Statut: Vivant

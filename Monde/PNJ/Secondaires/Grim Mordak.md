@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Nain
 Alignement: Non aligné
 Statut: Vivant

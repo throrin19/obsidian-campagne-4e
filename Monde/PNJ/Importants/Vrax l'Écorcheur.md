@@ -1,4 +1,5 @@
 ---
+Type: Pnj
 Race: Drakéide
 Alignement: Mauvais
 Statut: Vivant
