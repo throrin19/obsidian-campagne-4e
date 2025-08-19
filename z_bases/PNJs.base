@@ -1,9 +1,9 @@
+filters:
+  and:
+    - Type == "Pnj"
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - Type == "Pnj"
     order:
       - file.name
       - Race
@@ -15,3 +15,9 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      file.name: 226
+      note.Relation: 126
+      note.Statut: 98
+  - type: table
+    name: Suzail
