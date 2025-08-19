@@ -45,3 +45,10 @@ views:
       - Alignement
       - Lieu
       - Profession
+  - type: cards
+    name: Suzail
+    filters:
+      and:
+        - note["Ville/Village"] == link("Suzail")
+    image: note.Image
+    cardSize: 160

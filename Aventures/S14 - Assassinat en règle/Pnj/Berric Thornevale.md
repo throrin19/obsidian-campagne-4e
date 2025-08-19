@@ -7,8 +7,8 @@ Relation: Ami
 Profession: Lord Maréchal
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image:
 ---
-![picture]
 # Description
 
 # Événements

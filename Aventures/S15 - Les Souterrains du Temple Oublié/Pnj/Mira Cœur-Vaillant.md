@@ -6,6 +6,8 @@ Statut: Vivant
 Relation: Inconnu
 Profession: Contre-maître
 Lieu: "[[Temple de Torm]]"
+Ville/Village: "[[Suzail]]"
+Image:
 ---
 
 # Description

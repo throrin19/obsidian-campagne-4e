@@ -9,6 +9,7 @@ Lieu: "[[Palais du Lord Maréchal]]"
 Ville/Village: "[[Suzail]]"
 aliases:
   - Lord maréchal
+Image: "[[gauwyn_meson.webp]]"
 ---
 ![[gauwyn_meson.webp]]
 # Description

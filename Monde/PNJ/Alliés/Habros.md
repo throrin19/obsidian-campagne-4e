@@ -7,6 +7,7 @@ Relation: Ami
 Profession: Espion
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image:
 ---
 
 # Description

@@ -7,6 +7,7 @@ Relation: Inconnu
 Profession: Informateur / herboriste
 Lieu:
 Ville/Village: "[[Suzail]]"
+Image: "[[rivan.png]]"
 ---
 ![[rivan.png]]
 # Description
