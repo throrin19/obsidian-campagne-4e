@@ -20,10 +20,10 @@ views:
       note.Relation: 126
       note.Statut: 98
   - type: table
-    name: Suzail
+    name: Vivants
     filters:
       and:
-        - file.hasLink("Monde/Villes et Villages/Suzail")
+        - Statut == "Vivant"
     order:
       - file.name
       - Alignement
@@ -31,3 +31,15 @@ views:
       - Race
       - Relation
       - Statut
+  - type: table
+    name: Morts
+    filters:
+      and:
+        - Statut == "Mort"
+    order:
+      - file.name
+      - Race
+      - Relation
+      - Alignement
+      - Lieu
+      - Profession
