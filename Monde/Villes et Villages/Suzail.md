@@ -7,9 +7,6 @@ Maire: "[[Gauwyn Meson]]"
 # Carte
 
 ```leaflet
-image: [[suzail.PNG]]
-```
-```leaflet
 id: suzail-map
 image: [[suzail.PNG]]
 bounds: [[0,0], [635, 1129]] 
@@ -34,3 +31,6 @@ marker: , 362, 808, [[Palais du Lord Maréchal]]
 marker: , 224, 288, [[Auberge du lion d'or]]
 ```
 # Description
+
+# Lieux
+
