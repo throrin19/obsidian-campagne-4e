@@ -1,4 +1,4 @@
 ---
-Lieu: "[[Suzail]]"
 Type: Quartier
+Lieu: "[[Suzail]]"
 ---
