@@ -21,7 +21,7 @@ Leur mot d'ordre : laisser tomber ce sanctuaire dans l'oubli, tout en contenant 
 
 - [[Zone 1]] : Couloir d'Entrée
 - [[Zone 2]] : Salle commune
-- [[Zone 3]] : Galerie des Initiés
+- [[Zone 3]] : Le Sanctuaire des Masques
 - [[Zone 4]] : L'Autel des Ombres
 - [[Zone 5]] : La Chambre Prophétique
 - [[Zone 6]] : Chambre du Gardien
