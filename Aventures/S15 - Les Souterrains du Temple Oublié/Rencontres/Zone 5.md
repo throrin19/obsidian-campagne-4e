@@ -29,4 +29,16 @@ _"...quand la Tisseuse de Magie tombera sous les coups du Menteur Couronné, un 
 
 *"Le Gardien des Secrets descendra dans la crypte sacrée quand viendra le temps du Grand Silence. Là, il reposera dans l'étreinte de Notre Dame des Ombres jusqu'à ce que des impies souillent le sanctuaire. Alors il se lèvera, terrible et immortel, pour chasser les profanateurs et protéger les vérités qui ne doivent jamais voir la lumière."*
 
+D'autres fragments minimes, sans réel sens direct pour les joueurs sont présents. Parfois évasifs, parfois très ciblés mais avec trop peu de contenu lisible pour savoir réellement de quoi il en retourne.
+
+Sur le bureau, un parchemin partiellement rédigé dans une calligraphie soignée. L'encre des derniers mots est encore légèrement humide, comme si elle venait d'être posée :
+
+"Vision reçue en la nuit de la Nouvelle Lune Noire, septième année de l'Oracle Korvain :
+
+_La vision s'estompe mais je distingue encore... Non, Notre Dame m'appelle. Le temps des visions s'achève. Je dois rejoindre la crypte et..."_
+
+Le texte s'arrête brutalement à cet endroit, la plume encore posée sur le parchemin.
+# Le bureau de l'Oracle
+
+Un imposant bureau de chêne noir sculpté de symboles de Shar occupe le centre. Sa surface est remarquablement préservée et organisée : On y trouve un encrier d'obsidienne à moitié plen, la plume de corbeau trempée dedans toujours dans un parfait état. Une Carafe d'argent avec un gobelet sont aussi présents, mais vides.
 # Suite
