@@ -27,6 +27,11 @@ Voici la liste de chaque statue avec leur masque respectif :
 - **Statue 6** - Mage en robes à capuche ornées de symboles, **Masque des Secrets**. Masque de métal poli avec des lèvres scellées par une fine bande gravée, et des yeux recouverts de plaques mobiles perforées de trous minuscules - on peut voir à travers mais pas distinctement.
 - **Statue 7** - Noble en pourpoint richement décoré, **Masque de l'Oubli**. Masque de pierre blanche lisse, presque vierge, avec seulement de très faibles traces d'anciens motifs à peine visibles, comme des souvenirs effacés par le temps.
 - **Statue 8** - Grand prêtre en habits pontificaux sombres, **Masque du Désespoir**. Masque de pierre grise terne avec des traits affaissés et mélancoliques, des larmes gravées qui coulent des yeux vides, et une bouche figée dans une expression de résignation amère.
+
+
+À voir si on fait une énigme avec : 
+
+Maintenant l'ordre dans le couloir correspond au désordre voulu, et tu pourras créer ton énigme basée sur la vraie hiérarchie : **Désespoir → Croissant → Étoiles Perdues → Eclipse → Secrets → Oubli → Vengeance → Lune Noire**.
 # Suite
 
 - [ Zone 4]
