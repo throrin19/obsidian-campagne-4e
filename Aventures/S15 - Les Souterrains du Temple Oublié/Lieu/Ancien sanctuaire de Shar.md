@@ -14,9 +14,7 @@ Ce sanctuaire abandonné depuis des siècles a été découvert par les prêtres
 
 Leur mot d'ordre : laisser tomber ce sanctuaire dans l'oubli, tout en contenant le mal qu'il contient pour toujours. Pour cela, ils murèrent l'entrée et la protégèrent avec divers runes magiques. Jusqu'à ce que, lors de réfections des fondations, l'entrée soit découverte et les runes détruites.
 # Plan
-
 ![[sanctuaire_shar.png]]
-
 # Zones
 
 - [[Zone 1]] : Couloir d'Entrée
