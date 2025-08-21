@@ -29,7 +29,7 @@ Voici la liste de chaque statue avec leur masque respectif :
 - **Statue 8** - Grand prêtre en habits pontificaux sombres, **Masque du Désespoir**. Masque de pierre grise terne avec des traits affaissés et mélancoliques, des larmes gravées qui coulent des yeux vides, et une bouche figée dans une expression de résignation amère.
 
 
-À voir si on fait une énigme avec : 
+À voir si on fait une énigme avec pour ouvrir la porte secrète de la zone 4 : 
 
 Maintenant l'ordre dans le couloir correspond au désordre voulu, et tu pourras créer ton énigme basée sur la vraie hiérarchie : **Désespoir → Croissant → Étoiles Perdues → Eclipse → Secrets → Oubli → Vengeance → Lune Noire**.
 # Suite
