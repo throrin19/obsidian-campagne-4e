@@ -23,4 +23,10 @@ Fragments Identifiables (en langage commun ou facilement déchiffrables) :
 
 _"...quand la Tisseuse de Magie tombera sous les coups du Menteur Couronné, un grand cataclysme s'abattra sur Toril. Les terres mortes surgiront des brumes oubliées, défigurant le monde connu. La magie elle-même se retournera contre ses serviteurs, et les plus puissants mages périront de leur propre art. Seuls ceux qui embrasseront l'ombre survivront à..."_ Le reste est illisible
 
+## Fragment sur Morgh-ann
+
+## Fragment sur Korvain
+
+*"Le Gardien des Secrets descendra dans la crypte sacrée quand viendra le temps du Grand Silence. Là, il reposera dans l'étreinte de Notre Dame des Ombres jusqu'à ce que des impies souillent le sanctuaire. Alors il se lèvera, terrible et immortel, pour chasser les profanateurs et protéger les vérités qui ne doivent jamais voir la lumière."*
+
 # Suite
