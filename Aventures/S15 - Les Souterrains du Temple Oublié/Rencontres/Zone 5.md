@@ -25,7 +25,7 @@ _"...quand la Tisseuse de Magie tombera sous les coups du Menteur Couronné, un 
 
 ## Fragment sur Morgh-ann
 
-*...mut descendra secourir ses protégés à refermer le portail vers la Gisombre. Mais heureusement pour nous, deux de ses héros seront offert en sacrifice à la Dame noir, offrant une chance au prêtre de la nuit de réussir à ...*
+*...mut descendra secourir ses protégés à refermer le portail. Mais deux de ses héros seront offert en sacrifice à la Dame noir, offrant une chance au prêtre de la nuit de réussir à ...*
 
 ## Fragment sur Korvain
 
