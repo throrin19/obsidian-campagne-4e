@@ -15,9 +15,7 @@ La température s'est refroidie par rapport aux salles de départ de 8 degrés s
 
 # Les statues
 
-Les statues ne sont pas là par hasard et montrent les différentes hiérarchies composant ce sanctuaire à l'époque. Bien entendu, les statues sont dans le désordre et ne respectent pas l'ordre naturel de hiérarchie ici.
-
-Voici la liste de chaque statue avec leur masque respectif :
+Voici la liste de chaque statue avec leur masque respectif représentant pour chacun un niveau dans la hiérarchie de l'église :
 
 - **Statue 1** - Noble en robe de velours pourpre, **Masque du Croissant**. Masque d'argent mat en forme de croissant de lune inversé, les pointes dirigées vers le bas, avec une surface gravée de motifs de phases lunaires qui s'enchaînent.
 - **Statue 2** - Prêtresse en habit de cérémonie brodé d'argent, **Masque des Étoiles Perdues**. Masque d'obsidienne noire parsemé de petits cristaux incrustés de manière apparemment aléatoire, comme une constellation brisée ou dispersée. Certains cristaux semblent éteints.
@@ -28,10 +26,6 @@ Voici la liste de chaque statue avec leur masque respectif :
 - **Statue 7** - Noble en pourpoint richement décoré, **Masque de l'Oubli**. Masque de pierre blanche lisse, presque vierge, avec seulement de très faibles traces d'anciens motifs à peine visibles, comme des souvenirs effacés par le temps.
 - **Statue 8** - Grand prêtre en habits pontificaux sombres, **Masque du Désespoir**. Masque de pierre grise terne avec des traits affaissés et mélancoliques, des larmes gravées qui coulent des yeux vides, et une bouche figée dans une expression de résignation amère.
 
-
-À voir si on fait une énigme avec pour ouvrir la porte secrète de la zone 4 : 
-
-Maintenant l'ordre dans le couloir correspond au désordre voulu, et tu pourras créer ton énigme basée sur la vraie hiérarchie : **Désespoir → Croissant → Étoiles Perdues → Eclipse → Secrets → Oubli → Vengeance → Lune Noire**.
 # Suite
 
 - [ Zone 4]
