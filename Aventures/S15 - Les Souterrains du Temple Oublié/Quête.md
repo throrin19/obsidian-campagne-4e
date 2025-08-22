@@ -16,5 +16,10 @@ Si aucun personnage n'a le talent **Lanceur de Rituel**, elle donne à la place 
 ## Rituel : Purification des ombres
 
 **Niveau** : 5
+**Catégorie** : Restauration
 **Coût des composants** : 100po
-**Temps d'incantation** : 
+**Temps d'incantation** : 8-10 rounds
+**Durée** : permanente
+**Compétence clé** : Religion
+
+
