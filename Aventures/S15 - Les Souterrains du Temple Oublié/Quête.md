@@ -18,8 +18,11 @@ Si aucun personnage n'a le talent **Lanceur de Rituel**, elle donne à la place 
 **Niveau** : 5
 **Catégorie** : Restauration
 **Coût des composants** : 100po
-**Temps d'incantation** : 8-10 rounds
+**Temps d'incantation** : 8 rounds
 **Durée** : permanente
 **Compétence clé** : Religion
 
-
+Ce rituel débarrasse un bâtiment, temple, sanctuaire, ... des ombres l'habitant. Il sert parfaitement à purifier un ancien lieu de culte à une quelconque divinité mauvaise afin de se débarrasser de son aura rémanente et s'en servir ensuite pour une autre divinité ou à d'autres fins.
+Afin de fonctionner, le lanceur doit tracer un cercle de 2x2 cases dans le centre de la pièce étant la source des ombres. Le temps de dessin du cercle est de 1 tour, action simple.
+Le porteur doit ensuite se placer dans le cercle et ne pas le quitter jusqu'à la fin du rituel. S'il sort du rituel, les ombres gagnent en puissance et il doit revenir dans le cercle et recommencer toute les incantations.
+Au bout de 8 rounds, 
