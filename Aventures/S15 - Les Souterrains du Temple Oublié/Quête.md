@@ -15,4 +15,6 @@ Si aucun personnage n'a le talent **Lanceur de Rituel**, elle donne à la place 
 
 ## Rituel : Purification des ombres
 
-**Niveau** : 
+**Niveau** : 5
+**Coût des composants** : 100po
+**Temps d'incantation** : 
