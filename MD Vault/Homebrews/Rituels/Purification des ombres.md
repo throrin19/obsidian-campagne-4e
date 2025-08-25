@@ -1,6 +1,6 @@
 **Niveau** : 5
 **Catégorie** : Restauration
-**Coût des composants** : 100po
+**Coût des composants** : 100 po
 **Temps d'incantation** : 6 - 14 rounds
 **Durée** : permanente
 **Compétence clé** : Religion
