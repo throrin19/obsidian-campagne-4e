@@ -4,6 +4,8 @@ Lieu: "[[Ancien sanctuaire de Shar]]"
 aliases:
 Niveau: "6"
 XP:
+Carte: "[[zone2.png]]"
+Battlemap:
 ---
 # Créatures
 
@@ -28,7 +30,7 @@ Lisez :
 
 Dès que les joueurs entrent dans la pièce, les ombres environnantes se rassemblent et prennent forme. Après quoi elles attaquent les joueurs. Lisez :
 
-_"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se détacher des murs. Elles ondulent et grandissent, prenant une forme quasi-humaine avant de se précipiter vers vous !"_
+_"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se détacher des murs. Elles ondulent et grandissent, prenant une forme quasi humaine avant de se précipiter vers vous !"_
 
 # Caractéristiques de la zone
 
