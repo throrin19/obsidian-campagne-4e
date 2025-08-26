@@ -32,6 +32,9 @@ _"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se
 
 # Caractéristiques de la zone
 
+- **Éclairage** : Faible. La voûte dégage une lumière violacée mais pas assez pour éclairer la pièce.
+- 
+
 # Tactique
 
 # Mettre fin à la rencontre
