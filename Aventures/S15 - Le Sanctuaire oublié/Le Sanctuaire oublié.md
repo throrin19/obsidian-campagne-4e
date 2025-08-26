@@ -1,6 +1,7 @@
 ---
 Niveau: "5"
 Lieu: "[[Temple de Torm]]"
+Type: Aventure
 ---
 # Introduction au MJ
 
