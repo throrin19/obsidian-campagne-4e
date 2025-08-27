@@ -35,7 +35,7 @@ _"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se
 # Caractéristiques de la zone
 
 - **Éclairage** : Faible. La voûte dégage une lumière violacée mais pas assez pour éclairer la pièce.
-- 
+- **Chambres** : Chaque chambre contient 6 sommiers en pierre depuis longtemps abandonnés
 
 # Tactique
 
