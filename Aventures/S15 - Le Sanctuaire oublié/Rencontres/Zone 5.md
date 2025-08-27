@@ -28,6 +28,11 @@ _"...quand la Tisseuse de Magie tombera sous les coups du Menteur Couronné, un 
 *...mut descendra secourir ses protégés à refermer le portail. Mais le sang encore chaud de deux de ses héros seront offert en sacrifice à la Dame noir, offrant...*
 
 D'autres fragments minimes, sans réel sens direct pour les joueurs sont présents. Parfois évasifs, parfois très ciblés mais avec trop peu de contenu lisible pour savoir réellement de quoi il en retourne. Mais sur quelques un, un mot revient souvent : **Tilverton
+
+> [!NOTE] Note au MJ
+> Ici, le but est vraiment de montrer aux joueurs que le lieu est rempli de divinations en rapport avec leurs aventures passées et futures. Le but n'est pas de leur afficher bêtement, mais de trouver de petites descriptions, sur des moments marquants qui devraient les faire tiquer. 
+> Cela peut être une excellente entrée en manière pour dévoiler un peu la suite de la campagne ou pour le grand méchant qu'ils devront combattre.
+
 # Le bureau de l'Oracle
 
 Un imposant bureau de chêne noir sculpté de symboles de Shar occupe le centre. Sa surface est remarquablement préservée et organisée : On y trouve un encrier d'obsidienne à moitié plein, la plume de corbeau trempée dedans toujours dans un parfait état. Une Carafe d'argent avec un gobelet sont aussi présents, mais vides.

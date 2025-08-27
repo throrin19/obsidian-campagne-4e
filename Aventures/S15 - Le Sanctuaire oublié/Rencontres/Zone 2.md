@@ -36,7 +36,7 @@ _"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se
 
 - **Éclairage** : Faible. La voûte dégage une lumière violacée mais pas assez pour éclairer la pièce.
 - **Chambres** : Chaque chambre contient 6 sommiers en pierre. Les sommiers comptent comme un terrain difficile.
-- 
+- **Escaliers** : De petits escaliers permettent d'accéder aux chambres. Ils comptent comme un terrain difficile.
 
 # Tactique
 
