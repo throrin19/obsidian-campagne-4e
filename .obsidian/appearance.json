@@ -1,5 +1,6 @@
 {
   "cssTheme": "",
   "theme": "system",
-  "accentColor": "#005aad"
+  "accentColor": "#005aad",
+  "textFontFamily": ""
 }

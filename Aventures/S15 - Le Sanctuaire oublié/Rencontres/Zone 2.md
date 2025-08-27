@@ -3,19 +3,21 @@ Nom: Salles communes
 Lieu: "[[Ancien sanctuaire de Shar]]"
 aliases:
 Niveau: "6"
-XP:
+XP: "1250"
 Carte: "[[zone2.png]]"
 Battlemap:
 ---
 # Créatures
 
 Cette rencontre inclut les créatures suivantes :
-- 
+- 2 Ombre traqueuse (T) *BF3, niveau 4, 175 px*
+- 2 Ombre étrangleuse (E) *BF3, niveau 6, 250 px*
+- 2 Ombre Instable (I) *niveau 5, 200 px*
 # Échelle de rencontre
 
 Effectuez les ajustements suivants au combat en fonction du nombre de PJ présents.
-- Quatre PJ : retirez
-- Six PJ : ajoutez 
+- Quatre PJ : retirez une ombre étrangleuse
+- Six PJ : ajoutez une ombre instable
 # Installation
 
 Les joueurs entrent dans un ensemble de trois pièces reliées : une salle centrale rectangulaire de 6x8 mètres flanquée de deux dortoirs plus petits au nord et au sud. Le plafond voûté s'élève à 3 mètres, supporté par deux colonnes de pierre sculptées de symboles de Shar à demi effacés.
