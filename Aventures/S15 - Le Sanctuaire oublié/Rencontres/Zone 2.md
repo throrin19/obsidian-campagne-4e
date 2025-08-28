@@ -34,6 +34,7 @@ Dès que les joueurs entrent dans la pièce, les ombres environnantes se rassemb
 
 _"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se détacher des murs. Elles ondulent et grandissent, prenant une forme quasi humaine avant de se précipiter vers vous !"_
 
+Toutes les créatures n'arrivent pas dès le premier tour. Ne placez qu'un monstre de chaque sur la carte (les lettres en jaune). Les autres monstres arriveront au troisième tour.
 # Caractéristiques de la zone
 
 - **Éclairage** : Faible. La voûte dégage une lumière violacée mais pas assez pour éclairer la pièce.
@@ -41,6 +42,9 @@ _"Soudain, les ombres projetées par votre éclairage semblent s'épaissir et se
 - **Escaliers** : De petits escaliers permettent d'accéder aux chambres. Ils comptent comme un terrain difficile.
 
 # Tactique
+
+Les ombres instables viennent attaquer frontalement les joueurs pour essayer de faire un maximum de dégâts ou les forcer à se séparer. Quand ils sont en péril, ils essaient de se rapprocher des groupes de joueur pour que leur attaque *Explosion d'ombre* touche un maximum de joueurs.
+
 
 # Mettre fin à la rencontre
 
