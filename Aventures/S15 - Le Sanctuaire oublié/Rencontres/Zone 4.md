@@ -20,6 +20,10 @@ Les joueurs pénètrent dans une salle octogonale de 10 mètres de diamètre. Le
 
 La température chute brutalement de 15 degrés par rapport au reste du sanctuaire. L'air semble épais et oppressant, chaque respiration demande un effort. Une aura de malaise palpable émane de l'autel, et les ombres portées par l'éclairage des joueurs tremblent et ondulent de manière inquiétante.
 
+Lisez : 
+
+*"Vous entrez dans une chambre octogonale dont les murs de pierre sombre semblent absorber votre éclairage. Au sud, un autel de pierre noire domine la pièce, ssur son sommet, repose une grande statue aussi noir qu'une nuit sans lune représentant une magnifique femme. L'air glacial vous saisit immédiatement, et un malaise profond vous envahit.*
+
 # Caractéristiques de la zone
 
 # Tactique
