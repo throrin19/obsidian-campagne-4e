@@ -44,10 +44,9 @@ Toutes les créatures n'arrivent pas dès le premier tour. Ne placez qu'un monst
 
 # Tactique
 
-Les ombres instables viennent attaquer frontalement les joueurs pour essayer de faire un maximum de dégâts ou les forcer à se séparer. Quand ils sont en péril, ils essaient de se rapprocher des groupes de joueur pour que leur attaque *Explosion d'ombre* touche un maximum de joueurs.
-Les ombres traqueuses viennent aider les ombres instables à séparer les différents joueurs. Dès qu'une ombre meurt, elles apparaîssent juste à côté en utilisant leur pouvoir *Éclipse ombreuse* afin de profiter du bonus 
-
-
+Les ombres instables viennent attaquer frontalement les joueurs pour essayer de faire un maximum de dégâts ou les forcer à se séparer. Quand ils sont en péril, ils essaient de se rapprocher des groupes de joueur pour que leur attaque *Explosion d'ombre* touche un maximum de joueurs. Si un joueur essaie de s'approcher d'une Ombre étrangleuse, l'ombre instable la plus proche vient l'attaquer afin de la protéger.
+Les ombres traqueuses viennent aider les ombres instables à séparer les différents joueurs. Dès qu'une ombre meurt, elles apparaîssent juste à côté en utilisant leur pouvoir *Éclipse ombreuse* afin de profiter du bonus aux jets d'attaque.
+Les ombres étrangleuses restent à distance des joueurs pour les attaquer à distance. Elles ouvrent directement le bal avec *Ténèbres dévorantes* si les joueurs sont pacqués ensemble. Elles ne gardent l'attaque *Contact ombreux* que si les joueurs viennent les attaquer au corps à corps.
 # Mettre fin à la rencontre
 
 Quand toutes les ombres sont vaincues, les lieux retrouvent le calme mais l'atmosphère pesante est toujours là. De plus, la double porte permettant d'accéder au reste du temple s'ouvre lentement.
