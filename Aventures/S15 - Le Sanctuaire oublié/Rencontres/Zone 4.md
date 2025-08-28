@@ -26,7 +26,14 @@ Lisez :
 
 Normalement, les joueurs devrasient rapidement voir qu'il s'agit du lieu d'origine des ombres qui doit être purifié à l'aide du rituel [[Purification des ombres]]. 
 
-Les monstres apparaîssent dès que le joueur commence à dessiner le cercle du rituel. À partir de là, tous les deux tours pendant la réalisation du rituel, rajoutez des monstres selon le tableau qui suit : 
+Les monstres apparaissent dès que le joueur commence à dessiner le cercle du rituel. À partir de là, tous les deux tours pendant la réalisation du rituel (3 tours si vous n'avez que 4 joueurs), lancez un D6 puis rajoutez des monstres selon le tableau qui suit : 
+
+| D6  | Renforts |
+| --- | -------- |
+| 1-2 |          |
+| 3-4 |          |
+| 5   |          |
+| 6   |          |
 
 Dès que le rituel se termine, le monstre ... arrive pour attaquer les joueurs. Il s'agit de l'invocation du mal présent dans ces lieux, qui nécessite d'être détruit pour que la purification puisse se terminer.
 
