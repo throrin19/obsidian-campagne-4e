@@ -48,4 +48,6 @@ Les ombres instables viennent attaquer frontalement les joueurs pour essayer de 
 
 # Mettre fin à la rencontre
 
+Quand toutes les ombres sont vaincues, les lieux retrouvent le calme mais l'atmosphère pesante est toujours là
+
 # Trésors
