@@ -24,6 +24,12 @@ Lisez :
 
 *"Vous entrez dans une chambre octogonale dont les murs de pierre sombre semblent absorber votre éclairage. Au sud, un autel de pierre noire domine la pièce, ssur son sommet, repose une grande statue aussi noir qu'une nuit sans lune représentant une magnifique femme. L'air glacial vous saisit immédiatement, et un malaise profond vous envahit.*
 
+Normalement, les joueurs devrasient rapidement voir qu'il s'agit du lieu d'origine des ombres qui doit être purifié à l'aide du rituel [[Purification des ombres]]. 
+
+Les monstres apparaîssent dès que le joueur commence à dessiner le cercle du rituel. À partir de là, tous les deux tours pendant la réalisation du rituel, rajoutez des monstres selon le tableau qui suit : 
+
+Dès que le rituel se termine, le monstre ... arrive pour attaquer les joueurs. Il s'agit de l'invocation du mal présent dans ces lieux, qui nécessite d'être détruit pour que la purification puisse se terminer.
+
 # Caractéristiques de la zone
 
 # Tactique
