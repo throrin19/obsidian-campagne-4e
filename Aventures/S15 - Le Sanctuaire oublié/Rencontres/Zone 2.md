@@ -45,7 +45,7 @@ Toutes les créatures n'arrivent pas dès le premier tour. Ne placez qu'un monst
 # Tactique
 
 Les ombres instables viennent attaquer frontalement les joueurs pour essayer de faire un maximum de dégâts ou les forcer à se séparer. Quand ils sont en péril, ils essaient de se rapprocher des groupes de joueur pour que leur attaque *Explosion d'ombre* touche un maximum de joueurs.
-
+Les ombres traqueuses viennent aider les ombres instables à séparer les différents joueurs. Dès qu'une ombre meurt, elles apparaîssent juste à côté en utilisant leur pouvoir *Éclipse ombreuse* afin de profiter du bonus 
 
 
 # Mettre fin à la rencontre
