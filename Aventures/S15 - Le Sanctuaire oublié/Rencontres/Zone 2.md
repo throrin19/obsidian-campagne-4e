@@ -47,6 +47,7 @@ Toutes les créatures n'arrivent pas dès le premier tour. Ne placez qu'un monst
 Les ombres instables viennent attaquer frontalement les joueurs pour essayer de faire un maximum de dégâts ou les forcer à se séparer. Quand ils sont en péril, ils essaient de se rapprocher des groupes de joueur pour que leur attaque *Explosion d'ombre* touche un maximum de joueurs.
 
 
+
 # Mettre fin à la rencontre
 
 Quand toutes les ombres sont vaincues, les lieux retrouvent le calme mais l'atmosphère pesante est toujours là. De plus, la double porte permettant d'accéder au reste du temple s'ouvre lentement.
