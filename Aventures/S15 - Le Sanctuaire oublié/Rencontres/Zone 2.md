@@ -55,4 +55,4 @@ Les joueurs peuvent maintenant explorer le reste du temple. Allez à la [[Zone 3
 
 # Trésors
 
-sur une des étagères poussiéreuses se trouve une statuette en obsidienne représentant une magnifique femme d'une valeur de 150 PO. Un test de Religion DD 14 permet d'identifier la statuette comme une représentation de la déesse Shar.
+Sur une des étagères poussiéreuses se trouve une statuette en obsidienne représentant une magnifique femme d'une valeur de 150 PO. Un test de Religion DD 14 permet d'identifier la statuette comme une représentation de la déesse Shar.
