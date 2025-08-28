@@ -2,6 +2,7 @@
 Niveau: "5"
 Lieu: "[[Temple de Torm]]"
 Type: Aventure
+Illustration: "[[shar_statue.webp]]"
 ---
 # Introduction au MJ
 
