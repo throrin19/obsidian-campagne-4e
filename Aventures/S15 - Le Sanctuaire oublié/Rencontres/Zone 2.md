@@ -40,6 +40,7 @@ Toutes les créatures n'arrivent pas dès le premier tour. Ne placez qu'un monst
 - **Éclairage** : Faible. La voûte dégage une lumière violacée mais pas assez pour éclairer la pièce.
 - **Chambres** : Chaque chambre contient 6 sommiers en pierre. Les sommiers comptent comme un terrain difficile.
 - **Escaliers** : De petits escaliers permettent d'accéder aux chambres. Ils comptent comme un terrain difficile.
+- **Portes** : Les doubles portes donnant accès à la zone 3 sont verrouillées et ne semblent pas avoir de mécanisme pour pouvoir les ouvrir. Un test d'Arcane (DD 14) indique que le verrou est magique et qu'il est certainement lié aux ombres. Les tuer enlèvera le verrou.
 
 # Tactique
 
@@ -48,6 +49,8 @@ Les ombres instables viennent attaquer frontalement les joueurs pour essayer de 
 
 # Mettre fin à la rencontre
 
-Quand toutes les ombres sont vaincues, les lieux retrouvent le calme mais l'atmosphère pesante est toujours là
+Quand toutes les ombres sont vaincues, les lieux retrouvent le calme mais l'atmosphère pesante est toujours là. De plus, la double porte permettant d'accéder au reste du temple s'ouvre lentement.
+
+Les joueurs peuvent maintenant explorer le reste du temple. Allez à la [[Zone 3]].
 
 # Trésors
