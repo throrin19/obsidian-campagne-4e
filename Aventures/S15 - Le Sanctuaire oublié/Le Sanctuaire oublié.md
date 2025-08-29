@@ -41,6 +41,6 @@ Voir [[Quête]]
 
 Les joueurs peuvent au choix : 
 
-- Chercher des renseignements sur le passage muré dans les archives du temple ou bien directement dans celles de la ville. Rendez-vous à la Rencontre 1 : Les archives
+- Chercher des renseignements sur le passage muré dans les archives du temple ou bien directement dans celles de la ville.
 - Ils peuvent aussi descendre directement dans le temple pour essayer d'éradiquer le mal. Dans ce cas, rendez-vous à [[Ancien sanctuaire de Shar]]_
 
