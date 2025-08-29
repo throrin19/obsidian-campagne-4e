@@ -1,5 +1,5 @@
 ---
-Nom:
+Nom: L'autel des ombres
 Lieu: "[[Ancien sanctuaire de Shar]]"
 Niveau: "8"
 XP: "1750"
