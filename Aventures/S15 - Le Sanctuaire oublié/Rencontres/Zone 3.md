@@ -3,7 +3,7 @@ Nom: Le Sanctuaire des Masques
 Lieu: "[[Ancien sanctuaire de Shar]]"
 aliases:
 ---
-# Installation
+### Installation
 
 Les joueurs entrent dans un couloir long de 10 mètres et large de 3 mètres. Le plafond vouté et il est orné d'une fresque du ciel nocturne avec des constellations inconnues.
 
@@ -13,7 +13,7 @@ Le couloir contient 8 statues, toutes se trouvant sur le côté gauche et fixant
 
 La température s'est refroidie par rapport aux salles de départ de 8 degrés supplémentaires rendant l'ambiance des lieux beaucoup plus pesante. 
 
-# Les statues
+### Les statues
 
 Voici la liste de chaque statue avec leur masque respectif représentant pour chacun un niveau dans la hiérarchie de l'église :
 
@@ -26,6 +26,23 @@ Voici la liste de chaque statue avec leur masque respectif représentant pour ch
 - **Statue 7** - Noble en pourpoint richement décoré, **Masque de l'Oubli**. Masque de pierre blanche lisse, presque vierge, avec seulement de très faibles traces d'anciens motifs à peine visibles, comme des souvenirs effacés par le temps.
 - **Statue 8** - Grand prêtre en habits pontificaux sombres, **Masque du Désespoir**. Masque de pierre grise terne avec des traits affaissés et mélancoliques, des larmes gravées qui coulent des yeux vides, et une bouche figée dans une expression de résignation amère.
 
-# Suite
+Attention, le MJ ne devra pas donner le nom des masques aux  joueurs mais uniquement leur description si demandée.
+### La porte
+
+La porte est verrouillée mais a un emplacement pour poser quelque chose. En regardant de plus près, une inscription en Chondatien est écrite juste en dessous :
+
+*L'essence de la nuit éternelle ouvre la voie*
+
+**Mécanisme** : Les joueurs peuvent retirer n'importe lequel des 8 masques des statues pour tenter d'ouvrir la porte.
+
+- **Tous les masques** permettent d'ouvrir la porte
+- **Le Masque de la Lune Noire** (Statue 5) est la solution correcte - aucun effet négatif
+- **Tout autre masque** ouvre la porte mais déclenche un effet négatif :
+    - Une vague de froid nécrotique traverse le couloir
+    - Les yeux des autres statues s'illuminent brièvement d'une lueur réprobatrice
+    - **Conséquence** : Tous les PJ commencent le prochain combat **affaiblis** (sauvegarde annule)
+
+**Justification** : Le Masque de la Lune Noire représente le mieux le symbole de Shar et l'essence de la Déesse elle-même : l'obscurité absolue qui absorbe toute lumière.
+### Suite
 
 - [ Zone 4]
