@@ -1,6 +1,6 @@
 ## Format de Statbloc
 
-Utilise exactement ce format (exemple de l'Ombre fantoche) :
+Utilise exactement ce format :
 
 ```
 Nom du Monstre                           Rôle Niveau X
