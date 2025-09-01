@@ -28,16 +28,6 @@ _Elle marque une pause, puis vous regarde intensément._
 
 _"Cependant, je ne prendrai aucune décision sans votre accord. Vous êtes ceux qui avez purifié ce lieu, vous êtes ceux que ces visions semblent concerner. Le destin vous a menés jusqu'à ces révélations."_
 
-### Les Options pour les PJ
-
-Aela présente plusieurs possibilités aux joueurs :
-
-**Option 1 - Délégation complète :** **Aela :** _"Si vous le souhaitez, nous nous chargeons de tout. Mes clercs et moi récupérerons les parchemins et les étudierons. Dès que nous aurons des conclusions significatives, nous vous recontacterons. Vous pourriez ainsi poursuivre vos autres activités en attendant."_
-
-**Option 2 - Participation active :** **Aela :** _"Vous pourriez également choisir de participer à ces recherches. Votre expérience directe du sanctuaire et votre... connexion apparente avec ces prophéties pourraient s'avérer précieuses. De plus, certains parchemins pourraient être plus facilement interprétables par ceux qu'ils concernent directement."_
-
-**Option 3 - Approche prudente :** **Aela :** _"Si ces révélations vous inquiètent, nous pouvons procéder étape par étape. Nous récupérons d'abord quelques parchemins choisis, nous les étudions ensemble, et nous décidons ensuite de la marche à suivre selon ce que nous découvrirons."_
-
 ## Réactions Possibles des PJ
 
 ### Si les PJ veulent participer au déchiffrement :
