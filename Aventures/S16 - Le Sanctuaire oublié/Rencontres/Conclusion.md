@@ -76,28 +76,8 @@ Quelle que soit leur décision, Aela tient à récompenser les PJ :
 
 **Récompenses possibles :**
 
-- Bénédiction permanente de Torm (+1 aux jets de sauvegarde contre la peur)
 - Accès privilégié aux archives du temple
-- Objet magique béni (au choix du MJ selon le groupe)
 - Faveur politique : recommandation auprès d'autres temples ou autorités
-
-## Transition vers la Suite
-
-### L'Ambiance de Fin
-
-**Lisez :**
-
-_"Alors que vous quittez le temple, le soleil commence à décliner sur Suzail. L'aventure que vous venez de vivre semble déjà appartenir au passé, mais les révélations qu'elle a apportées projettent leurs ombres sur votre avenir. Les rues familières de la capitale paraissent soudain chargées de nouveaux mystères et de possibilités inexplorées."_
-
-### Accroches pour la Suite
-
-Selon la réaction des PJ, plusieurs directions s'ouvrent :
-
-- **Étude des prophéties** : Suite immédiate axée recherche et révélations
-- **Aventures classiques** : Les prophéties restent en arrière-plan, ressurgissant occasionnellement
-- **Enquête politique** : Si les PJ s'intéressent aux implications pour le trône de Cormyr
-- **Préparation aux défis annoncés** : Si les prophéties révèlent des menaces spécifiques
-
 ### Note pour le MJ
 
 Cette conclusion sert de charnière entre cette aventure et la suite de votre campagne. Les réactions et choix des PJ vous indiqueront quels aspects développer : l'intrigue politique, les menaces mystiques, ou l'exploration des prophéties elles-mêmes.
