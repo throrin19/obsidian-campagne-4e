@@ -6,9 +6,8 @@ Quand les PJ reviennent vers Aela avec les nouvelles de leur succès, celle-ci l
 
 **Lisez :**
 
-_"Aela vous accueille avec un sourire soulagé qui s'estompe rapidement quand vous lui décrivez ce que vous avez découvert. Ses yeux s'assombrissent à la mention des prophéties, et elle semble peser chacune de vos paroles avec une gravité inhabituelle."_
-
-**Réaction d'Aela :** _"Vous avez accompli quelque chose d'extraordinaire en purifiant ce lieu maudit. Torm soit loué, les ombres ne menaceront plus notre temple. Mais ce que vous décrivez de ces prophéties... cela dépasse largement ce que j'avais imaginé."_
+_Aela vous accueille avec un sourire soulagé qui s'estompe rapidement quand vous lui décrivez ce que vous avez découvert. Ses yeux s'assombrissent à la mention des prophéties, et elle semble peser chacune de vos paroles avec une gravité inhabituelle._
+_"Vous avez accompli quelque chose d'extraordinaire en purifiant ce lieu maudit. Torm soit loué, les ombres ne menaceront plus notre temple."_
 
 ### La Révélation Troublante
 
@@ -17,20 +16,13 @@ Selon ce que les PJ racontent de leurs découvertes dans la Chambre Prophétique
 **Si les PJ mentionnent les prophéties les concernant :**
 
 _"Le visage d'Aela pâlit visiblement quand vous évoquez les parchemins qui semblent décrire vos propres aventures. Elle se lève et fait quelques pas, visiblement troublée."_
-
-**Aela :** _"Ce que vous me décrivez là... c'est bien plus qu'un simple Oracle du passé. Si ces visions parlent effectivement de vous et d'événements que vous avez vécus, alors nous nous trouvons face à quelque chose d'une portée considérable. Ces prophéties pourraient concerner l'avenir du royaume lui-même."_
-
-**Si les PJ évoquent la prophétie sur le sang royal :**
-
-_"À la mention de la prophétie concernant le trône de Cormyr, Aela devient très grave et regarde autour d'elle comme pour s'assurer que personne d'autre n'écoute."_
-
-**Aela :** _"Ces paroles... elles touchent aux plus hautes sphères du royaume. Si elles sont véridiques, nous nous trouvons face à des événements qui pourraient ébranler Cormyr dans ses fondements mêmes."_
+_"Ce que vous me décrivez là... c'est bien plus qu'un simple Oracle du passé. Si ces visions parlent effectivement de vous et d'événements que vous avez vécus, alors nous nous trouvons face à quelque chose d'une portée considérable. Ces prophéties pourraient concerner l'avenir du royaume lui-même."_
 
 ## La Proposition d'Aela
 
 ### L'Étude des Prophéties
 
-**Aela :** _"Ces découvertes ne peuvent pas rester sans suite. Je souhaite organiser une expédition pour récupérer tous ces parchemins et les étudier avec mes confrères les plus érudits. Ces prophéties doivent être déchiffrées, comprises, et leurs implications évaluées."_
+**Aela :** _"Ces découvertes ne peuvent pas rester sans suite. Je vais faire ce qu'il faut pour récupérer tous ces parchemins et les étudier avec mes confrères les plus érudits. Ces prophéties doivent être déchiffrées, comprises, et leurs implications évaluées."_
 
 _Elle marque une pause, puis vous regarde intensément._
 
