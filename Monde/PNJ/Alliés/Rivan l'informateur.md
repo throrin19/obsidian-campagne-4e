@@ -3,7 +3,7 @@ Type: Pnj
 Race: Humain
 Alignement: Non aligné
 Statut: Vivant
-Relation: Inconnu
+Relation: Contact
 Profession: Informateur / herboriste
 Lieu:
 Ville/Village: "[[Suzail]]"

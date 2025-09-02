@@ -3,7 +3,7 @@ Type: Pnj
 Race: Humain
 Alignement: Non aligné
 Statut: Vivant
-Relation: Ami
+Relation: Allié
 Profession: Lord Maréchal
 Lieu:
 Ville/Village: "[[Suzail]]"
