@@ -12,4 +12,5 @@ Image:
 
 # Description
 
+Mira est une Naine plutôt jeune (70 ans) s’étant installée très tôt dans Suzail comme maçon car fascinée par les belles sctuctures. Elle a soif de découvrir des édifices oubliés pour apprendre les secrets de maçonnerie de l’époque.
 # Événements
