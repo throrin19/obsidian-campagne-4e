@@ -20,7 +20,9 @@ Frère Aldric peut les aider à trouver des renseignements en fouillant dans les
 
 Il lui semble bien y avoir un document faisant référence à un scellement dans les fondations.
 
-Après recherche, il s'avère que le lieu a été identifié par les prêtres de l'époque lors de la reconstruction de Suzail en 1018 CV. Sentant le mal qui en émanait, il a été décidé d'ériger le temple de Torm au dessus puis de sceller l'entrée pour l'enfermer à jamais.
+Après recherche, il s'avère que le lieu a été identifié par les prêtres de l'époque lors de la reconstruction de Suzail en 1018 CV. Il a été décidé d'ériger le temple de Torm au dessus puis de sceller l'entrée. Les raisons ou l'usage du lieu ne sont pas indiquées dans les archives.
+
+### Les archives royales de Suzail
 
 
 
