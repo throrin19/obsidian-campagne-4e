@@ -1,6 +1,6 @@
 ---
 Type: Pnj
-Race: Halfelin
+Race: Humain
 Alignement: Bon
 Statut: Vivant
 Relation: Inconnu
