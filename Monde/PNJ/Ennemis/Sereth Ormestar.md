@@ -2,7 +2,7 @@
 Type: Pnj
 Race: Humain
 Alignement: Mauvais
-Statut: Vivant, En prison
+Statut: Vivant
 Relation: Ennemi
 Profession: Noble déchu
 Lieu:

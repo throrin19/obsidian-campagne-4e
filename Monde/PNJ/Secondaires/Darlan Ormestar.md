@@ -2,7 +2,7 @@
 Type: Pnj
 Race: Humain
 Alignement: Non aligné
-Statut: Vivant, En prison
+Statut: Vivant
 Relation: Ennemi
 Profession: Noble
 Lieu:
