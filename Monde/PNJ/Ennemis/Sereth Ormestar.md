@@ -2,7 +2,7 @@
 Type: Pnj
 Race: Humain
 Alignement: Mauvais
-Statut: Vivant
+Statut: Vivant, En prison
 Relation: Ennemi
 Profession: Noble déchu
 Lieu:
@@ -16,3 +16,4 @@ C’est un personnage colérique, vindicatif et faisant preuve de peu de sang fr
 # Événements
 - A été déchu par les joueurs lors de l'aventure Des mots dans l'ombre
 - Travaille pour [[Erzoured Obarskyr]]
+- Arrêté par les joueurs lors du scénario [[Assassinat en règle]]
