@@ -12,5 +12,8 @@
 
 ### Intrigue
 
-La princesse Ospra r';eagit de manière très bizarre ces derniers temps. Elle passe beaucoup de temps avec Erzoured depuis qu'Irven est absent et elle semble mettre en application certains conseils qu'il lui donne. Dans l'un des derniers, elle accepte de faire venir une délégation de la Sembie pour essayer de faire aboutir un traité commercial, chose pouvant calmer la colère des marchands et de plusieurs nobles mineurs.
+La princesse Ospra réagit de manière très bizarre ces derniers temps. Elle passe beaucoup de temps avec Erzoured depuis qu'Irven est absent et elle semble mettre en application certains conseils qu'il lui donne. Dans l'un des derniers, elle accepte de faire venir une délégation de la Sembie pour essayer de faire aboutir un traité commercial, chose pouvant calmer la colère des marchands et de plusieurs nobles mineurs.
 
+### Bonne intrigue
+
+Le roi Foril est mort
