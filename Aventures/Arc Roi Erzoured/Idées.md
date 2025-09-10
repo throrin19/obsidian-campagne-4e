@@ -16,4 +16,4 @@ La princesse Ospra réagit de manière très bizarre ces derniers temps. Elle pa
 
 ### Bonne intrigue
 
-Le roi Foril est mort
+Le roi Foril est mort, Erzoured l'a empoisonné. Les PJ doivent enquêter pour prouver que c'est Erzoured le meurtrier, mais quand ils apportent la preuve, Erzoured la retourne contre eux et fa
