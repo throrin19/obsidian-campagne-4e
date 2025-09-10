@@ -16,4 +16,4 @@ La princesse Ospra réagit de manière très bizarre ces derniers temps. Elle pa
 
 ### Bonne intrigue
 
-Le roi Foril est mort, Erzoured l'a empoisonné. Les PJ doivent enquêter pour prouver que c'est Erzoured le meurtrier, mais quand ils apportent la preuve, Erzoured la retourne contre eux et fa
+Le roi Foril est mort, Erzoured l'a empoisonné. Les PJ doivent enquêter pour prouver que c'est Erzoured le meurtrier, mais quand ils apportent la preuve, Erzoured la retourne contre eux et fait un coup d'État, prenant les rênes du royaume. Il enferme la famille de son cousin dans la prison de Irlingstar.
