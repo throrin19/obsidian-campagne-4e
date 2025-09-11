@@ -1,7 +1,7 @@
 - Depuis que Sereth s'est fait capturé, Erzoured commence à vouloir aller plus loin, plus vite
 - La colère de certains marchands et de petites familles nobles commence à prendre de l'ampleur
-- Le roi Foril a dû partiravec son fils Irven pour une délégation à la cour de Myth Draenor.
--  Le seigneur gardien Vainrence, second de Ganrahast les accompagne
+- Le roi Foril a dû partir avec son fils Irven pour une délégation à la cour de [[Myth Draenor]].
+-  Le seigneur gardien [[Vainrence]], second de [[Ganrahast]] les accompagne
 - Ou alors, Foril a été empoisonné ? Réécriture de toute la suite de l'histoire.
 - C'est sa belle-fille, la princesse Ospra et son petit-fils Baerovus qui tiennent les rennes du royaume en leur absence.
 - Prise de pouvoir d'Erzoured
@@ -12,8 +12,8 @@
 
 ### Intrigue
 
-La princesse Ospra réagit de manière très bizarre ces derniers temps. Elle passe beaucoup de temps avec Erzoured depuis qu'Irven est absent et elle semble mettre en application certains conseils qu'il lui donne. Dans l'un des derniers, elle accepte de faire venir une délégation de la Sembie pour essayer de faire aboutir un traité commercial, chose pouvant calmer la colère des marchands et de plusieurs nobles mineurs.
+La princesse [[Ospra]] réagit de manière très bizarre ces derniers temps. Elle passe beaucoup de temps avec Erzoured depuis qu'[[Irven]] est absent et elle semble mettre en application certains conseils qu'il lui donne. Dans l'un des derniers, elle accepte de faire venir une délégation de la Sembie pour essayer de faire aboutir un traité commercial, chose pouvant calmer la colère des marchands et de plusieurs nobles mineurs.
 
 ### Bonne intrigue
 
-Le roi Foril est mort, Erzoured l'a empoisonné. Les PJ doivent enquêter pour prouver que c'est Erzoured le meurtrier, mais quand ils apportent la preuve, Erzoured la retourne contre eux et fait un coup d'État, prenant les rênes du royaume. Il enferme la famille de son cousin dans la prison de Irlingstar.
+Le roi Foril est mort, Erzoured l'a empoisonné. Les PJ doivent enquêter pour prouver que c'est Erzoured le meurtrier, mais quand ils apportent la preuve, Erzoured la retourne contre eux et fait un coup d'État, prenant les rênes du royaume. Il enferme la famille de son cousin dans la prison de [[Irlingstar]].
