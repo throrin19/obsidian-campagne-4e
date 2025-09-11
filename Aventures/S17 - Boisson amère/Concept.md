@@ -44,7 +44,7 @@ Les PJ enquêtent sur un trafic de poison qui les mène jusqu'aux souterrains du
 
 ## Questions ouvertes
 
-- Quel type d'empoisonnement pour l'accroche ?
-- Les PJ sont-ils mandatés ou agissent-ils de leur propre chef ?
-- Quel niveau d'opposition veux-tu ? Combats ? Infiltration pure ?
-- Combien de séances prévues ?
+- Quel type d'empoisonnement pour l'accroche ? Dans la taverne, un matin, un cri retentit, un des voyageurs de passage au Lion d'or, est mort dans la nuit et la femme de ménage, en utilisant le passe-partout pour ouvrir la pièce trouve le cadavre. Aucune trace d'effraction n'est présente.
+- Les PJ sont-ils mandatés ou agissent-ils de leur propre chef ? Ils agissent de leur propre chef pour comprendre ce qu'il s'est passé, ayant l'insigne de tempérance, l'aubergiste les mandate pour trouver qui a fait ça.
+- Quel niveau d'opposition veux-tu ? Combats ? Infiltration pure ? Un peu de tout, car selon qu'ils réussissent ou non à s'infiltrer par endroits, il y aura certai
+- Combien de séances prévues ? deux séances. La première pour trouver la piste du poison, la deux pour aller plus loin et faire le lien avec le palais
