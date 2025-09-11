@@ -27,12 +27,14 @@ Les PJ enquêtent sur un trafic de poison qui les mène jusqu'aux souterrains du
 
 ### À définir ensemble :
 
-1. **L'accroche de départ** - Qu'est-ce qui lance l'enquête ?
+1. **L'accroche de départ** - Qu'est-ce qui lance l'enquête ? Dans la taverne, un matin, un cri retentit, un des voyageurs de passage au Lion d'or, est mort dans la nuit et la femme de ménage, en utilisant le passe-partout pour ouvrir la pièce trouve le cadavre. Aucune trace d'effraction n'est présente.
 2. **Les PNJ clés** - Qui sont les maillons de la chaîne ?
 	- [[Rivan l'informateur]] : Rivan peut faire l'analyse du poison ou faire le lien avec un possible contrat des couteaux enflammés
 	- [[Vrax l'Écorcheur]] : Si jamais les PJ veulent savoir si les couteaux sont impliqués ou alors pour essayer d'avoir des informations, contre un service demandé plus tard.
 	- 
 3. **Les lieux importants** - Où se déroulent les scènes clés ?
+	- [Auberge du Lion d'or] : Lieu du Meurtre
+	- 
 4. **Les indices et pistes** - Comment guider les PJ ?
 5. **Les obstacles** - Quelles complications ?
 
