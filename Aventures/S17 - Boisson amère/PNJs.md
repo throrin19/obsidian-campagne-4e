@@ -1,0 +1,5 @@
+- [[Rivan l'informateur]] : Rivan peut faire l'analyse du poison ou faire le lien avec un possible contrat des couteaux enflammés
+- [[Vrax l'Écorcheur]] : Si jamais les PJ veulent savoir si les couteaux sont impliqués ou alors pour essayer d'avoir des informations, contre un service demandé plus tard.
+- [[Boromir Barlue]] : Tenancier de l'Auberge du Lion d'or.
+- [[Miette Douceur]] : La femme de chambre, une halfelin, ayant découvert le cadavre dans la chambre.
+- [[Rémi Hautmont]] : Le marchand mort dans sa chambre de façon innexpliqué.
