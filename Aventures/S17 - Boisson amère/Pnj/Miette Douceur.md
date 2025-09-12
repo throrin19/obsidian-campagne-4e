@@ -1,6 +1,6 @@
 ---
 Type: Pnj
-Race: Halfelin
+Race: Nain
 Alignement: Non aligné
 Statut: Vivant
 Relation: Inconnu

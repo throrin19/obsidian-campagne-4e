@@ -1,3 +1,4 @@
 - [[Auberge du Lion d'or]] : Lieu du Meurtre
+- [[La Lame Rouillée]] : Bar miteux servant de bureau de fortune à l'antenne locale des couteaux enflammés
 - [[Souterrains secret du palais]] : Accès utilisé autrefois pour évacuer le palais en cas de force majeure. Ressort dans des ruines à l'est de la ville, à l'orée des bois au nord du cimetière.
 - 
