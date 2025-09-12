@@ -21,3 +21,5 @@ En réalité, Rémi Hautmont n'existe pas, et est en fait une identité d'emprun
 Rémi a été tué par ses derniers employeurs avec le poison réalisé par ses ingrédients exotiques afin de ne pas remonter leur piste.
 
 # Événements
+
+- Mort dans l'[[Auberge du lion d'or]]
