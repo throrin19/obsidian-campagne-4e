@@ -5,5 +5,5 @@
 - [[Rémi Hautmont]] : Le marchand mort dans sa chambre de façon inexpliqué.
 - [[Silvyr Filetisse]] : Chef de la guilde des tisserands, Elfe
 - [[Borin Fildefer]] : Marchand Tisserand, entré en contact avec le mort pour l'import des tissus venus des terres de l'est. Nain
-- [[Zephyr Ombredouce]] : Agend d'accueil au sein de la guilde et s'occupant du registre des tisserands de Suzail, enregistrant toutes les entrées et les contacts établis. Tieffelin.
+- [[Zephyr Ombredouce]] : Agent d'accueil au sein de la guilde et s'occupant du registre des tisserands de Suzail, enregistrant toutes les entrées et les contacts établis. Tieffelin.
 - 
