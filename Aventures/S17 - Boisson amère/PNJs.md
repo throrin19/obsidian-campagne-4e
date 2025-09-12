@@ -2,4 +2,8 @@
 - [[Vrax l'Écorcheur]] : Si jamais les PJ veulent savoir si les couteaux sont impliqués ou alors pour essayer d'avoir des informations, contre un service demandé plus tard.
 - [[Boromir Barlue]] : Tenancier de l'Auberge du Lion d'or.
 - [[Miette Douceur]] : La femme de chambre, une naine, ayant découvert le cadavre dans la chambre.
-- [[Rémi Hautmont]] : Le marchand mort dans sa chambre de façon innexpliqué.
+- [[Rémi Hautmont]] : Le marchand mort dans sa chambre de façon inexpliqué.
+- [[Silvyr Filetisse]] : Chef de la guilde des tisserands, Elfe
+- [[Borin Fildefer]] : Marchand Tisserand, entré en contact avec le mort pour l'import des tissus venus des terres de l'est. Nain
+- [[Zephyr Ombredouce]] : Agend d'accueil au sein de la guilde et s'occupant du registre des tisserands de Suzail, enregistrant toutes les entrées et les contacts établis. Tieffelin.
+- 

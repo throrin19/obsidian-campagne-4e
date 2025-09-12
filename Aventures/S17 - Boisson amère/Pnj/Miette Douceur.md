@@ -12,4 +12,7 @@ Ville/Village: "[[Suzail]]"
 ![picture]
 # Description
 
+Miette est une naine plutôt joyeuse qui met du coeur à rendre l'Auberge du Lion d'or la plus accueillante et la plus propre possible.
+Malgré ses airs doux et innocents, Miette sais se faire respecter quand un client tente d 
+
 # Événements
