@@ -6,4 +6,4 @@
 - [[Silvyr Filetisse]] : Chef de la guilde des tisserands, Elfe
 - [[Borin Fildefer]] : Marchand Tisserand, entré en contact avec le mort pour l'import des tissus venus des terres de l'est. Nain
 - [[Zephyr Ombredouce]] : Agent d'accueil au sein de la guilde et s'occupant du registre des tisserands de Suzail, enregistrant toutes les entrées et les contacts établis. Tieffelin.
-- 
+- [[Vireille Daravan]] : Vireille est une personne âgée, ancienne marchande de renom. Malheureusement ces dernières années sont commerce a été complètement ruiné par la fermeture commerciale avec la Sembie. Membre du Cercle d'Échange, elle a participé aux machinations des Ormestar.
