@@ -36,7 +36,7 @@ De plus, s'ils le demandent, ils peuvent obtenir les informations suivantes :
 - C'est la contre-maître des travaux, [[Mira Cœur-Vaillant]] qui a ordonner d'ouvrir le mur. Elle était impatiente de découvrir ce qu'il y avait de l'autre côté.
 # Quête
 
-Voir [[Quête]]
+Voir [[Aventures/S16 - Le Sanctuaire oublié/Quête]]
 # La suite
 
 Les joueurs peuvent au choix : 
