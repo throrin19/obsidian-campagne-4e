@@ -33,3 +33,4 @@ _À cet instant, Miette vacille, ses jambes se dérobent sous elle, et elle s'ef
 
 _Boromir soupire et se tourne de nouveau vers vous : "Comme vous pouvez le voir, cette affaire nous affecte tous. J'ai vraiment besoin de votre aide."_
 
+[[Aventures/S17 - Boisson amère/Quête|Quête]]
