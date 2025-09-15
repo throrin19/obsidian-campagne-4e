@@ -13,5 +13,9 @@ La personne morte semble être un vendeur de tissus originaire de [[Marsembre]] 
 
 Normalement, les joueurs sont hébergés à l'[[Auberge du lion d'or]] et commencent leur journée normalement. Lisez, ou modifiez si besoin :
 
-*Alors que vous vous levez et descendez dans la salle commune, vous entendez un cri de terreur retentir au niveau des chambres, et, immédiatement après, vous voyez la femme de chambre, Miette Douceur descendre les marches quatre à quatr*
+*Le matin commence paisiblement à l'Auberge du Lion d'Or. Vous descendez dans la salle commune où quelques clients matinaux sirotent déjà leur première chope, quand soudain un cri perçant déchire le calme de l'établissement.
+"AAAAAAH !"
+Le cri provient de l'étage. Immédiatement après, vous entendez des pas précipités dans l'escalier. Miette Douceur, la femme de chambre naine, dévale les marches en trébuchant presque, son trousseau de clés s'entrechoquant dans un tintamarre métallique. Elle se précipite vers le comptoir où Boromir Barlue, l'aubergiste, lève la tête de ses registres.
+"Monsieur Barlue ! Il... il est..." Elle halète, les yeux écarquillés. "Le voyageur de la chambre sept... il est mort ! Je... j'ai ouvert avec le passe et il était là, sur sa chaise, les yeux ouverts mais..." Sa voix se brise. "Il ne bouge plus !"
+Les conversations s'arrêtent net dans la salle. Tous les regards se tournent vers l'escalier.*
 
