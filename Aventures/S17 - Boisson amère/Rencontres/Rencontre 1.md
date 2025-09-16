@@ -27,7 +27,7 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 ### Le corps de Rémi
 
 - **Soin (DD Modéré)** : Rémi est mort au milieu de la nuit, comme le révèle la chaleur et la rigidité du corps, dans les environs de 3 heures du matin.
-- **Soin (DD Difficile)** : Les yeux injectés de sang semblent être la marque d'un étouffement par manque d'oxygène. Ceci lié à la présence de crachats sanguins sur le bureau laisse à penser qu'il est mort d'une embolie pulmonaire.
+- **Soin (DD Difficile)** : Les yeux injectés de sang semblent être la marque d'un étouffement par manque d'oxygène. Ceci lié à la présence de crachats sanguins sur le bureau et du sang séché au coin de la bouche laisse à penser qu'il est mort d'une embolie pulmonaire.
 - **Perception (DD Facile)** : La clé de la chambre se trouve dans ses poches.
 - **Perception (DD Modéré)** : Dans son manteau, un petit parchemin arraché affiche les lettres *Darav*. Le mot semble incomplet.
 
