@@ -37,4 +37,4 @@ _Boromir soupire et se tourne de nouveau vers vous : "Comme vous pouvez le voir,
 
 ### Suite
 
-- Les joueurs peuvent aller voir la chambre de la victime. A
+- Les joueurs peuvent aller voir la chambre de la victime. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 1|Rencontre 1]]
