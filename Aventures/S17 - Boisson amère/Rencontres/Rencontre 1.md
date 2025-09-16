@@ -31,5 +31,12 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 - **Perception (DD Facile)** : La clé de la chambre se trouve dans ses poches.
 - **Perception (DD Modéré)** : Dans son manteau, un petit parchemin arraché affiche les lettres *Darav*. Le mot semble incomplet.
 
+### La chambre
+
+- **Diplomatie (DD Facile)** : Avec un minimum de persuasion, Boromir explique qu'il y a deux clés pour chaque pièce. L'une est donnée à l'invité, l'autre il la garde. Il a donné ses clés à la servante Miette ce matin pour changer la literie dans les chambres comme ils le font toutes les semaines. Il n'est pas entré dans la chambre de Rémi ni n'a donné ses clés à qui que ce soit d’autre.
+- **Diplomatie (DD Facile)** : Miette, la servante, a obtenu les clés ce matin de Boromir dans le but de changer la literie, de balayer et d'échanger et en remplaçant les vieux joncs par des joncs frais. Elle fait cela toutes semaines et ne savait pas que Rémi était toujours dans sa chambre. Elle a frappé, mais il n'a pas répondu.
+- **Perception ou Larcin (DD modéré)** : La fenêtre est fermée et ne montre aucun signe évident d'altération.
+- **Perception ou Larcin (DD Modéré)** : la porte ne montre aucun signe évident d'effraction.
+- **Perception (DD difficile, le personnage doit être à l'extérieur)** : il n'y a aucune empreinte de pas à l'extérieur sous la fenêtre de Rémi. Il n'y a pas de traces de pas, de boue ou de tout autre signe de quelqu'un qui escalade les murs extérieurs.
 
 ### Suite
