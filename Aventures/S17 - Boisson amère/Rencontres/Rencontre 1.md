@@ -20,5 +20,13 @@ Lisez ou paraphez :
 
 Rémi se tient, assis sur sa chaise devant son bureau, la tête reposant dessus, un filet de sang sortant du coin de la bouche. Une lettre en cours d'écriture se trouve sur le bureau, la tête reposant en partie dessus. La main droite repose non loin avec une plume de corbeau tenue par les doigts raidis. Un peu plus loin, une bouteille quasiment vide de vin de noix repose avec un verre vide.
 
+Au pied du lit repose une malle de voyage, d'où sortent plusieurs étoffes de toutes les couleurs\.
 
+Certains des détails suivants peuvent être modifiés si les actions des PJ diffèrent des hypothèses ci-dessous.
+
+### Le corps de Rémi
+
+- Soin (DD Modéré) : Rémi est mort au milieu de la nuit, comme le révèle la chaleur et la rigidité du corps, dans les environs de 3 heures du matin.
+- Perception (DD Facile) : La clé de la chambre se trouve dans ses poches.
+- Soin (DD Difficile) : Le filet de sang, légèrement épais qui s'écoule du coin de la bouche, laisse supposé qu'il a succombé à une hémoragie interne. Certainement dû à une 
 ### Suite
