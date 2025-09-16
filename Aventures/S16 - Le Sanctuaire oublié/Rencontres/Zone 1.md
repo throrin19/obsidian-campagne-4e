@@ -13,7 +13,7 @@ Lisez :
 
 *"Un long couloir taillé dans la roche naturelle s'enfonce dans les ténèbres, ses parois polies témoignant d'un artisanat ancien mais raffiné. La pente douce descend sur près de 40 mètres, et l'air devient progressivement plus frais et plus lourd. Une odeur subtile d'encens éteint et de pierre humide flotte dans l'atmosphère."*
 
-S'ils ont fait la [[Rencontre 1]] et selon les indices obtenus, ils savent qu'ils entrent dans le sanctuaire de Shar.
+S'ils ont fait la [[Aventures/S16 - Le Sanctuaire oublié/Rencontres/Rencontre 1]] et selon les indices obtenus, ils savent qu'ils entrent dans le sanctuaire de Shar.
 # Fresques Murales
 
 - Premier Panneau (Côté Gauche - 10m) : _"Les premiers reliefs montrent des guerriers en armures cérémoniales, leurs casques ornés de plumes noires. Ils semblent escorter des figures encapuchonnées vers les profondeurs."_
@@ -38,5 +38,5 @@ Les poignées sont sculptées en forme de croissants de lune inversés. Aucun sy
 
 # Suite
 
-- [[Rencontre 1]] : S'ils veulent en apprendre plus avant d'aller plus loin.
+- [[Aventures/S16 - Le Sanctuaire oublié/Rencontres/Rencontre 1]] : S'ils veulent en apprendre plus avant d'aller plus loin.
 - [[Zone 2]] : Salle commune
