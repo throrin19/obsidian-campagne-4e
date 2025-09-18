@@ -53,6 +53,9 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 
 ### Boromir Barlue
 
-- **Diplomatie (DD Facile)** : Au premier succès, Boromir vous dit que le voyageur s'est enregistré au nom de [[Rémi Hautmont]], marchand de textiles originaire de Marsembre, venu en ville pour affaire dans le textile.
+- **Diplomatie (DD Facile)** : Au premier succès, Boromir vous dit que le voyageur s'est enregistré au nom de [[Rémi Hautmont]], marchand de textiles originaire de Marsembre.
+- **Diplomatie (DD Facile)** : Au second succès, il indique que Rémi est allé deux fois à la guilde des Tisserands avec sa malle, dans l'espoir de faire affaire.
+- **Diplomatie (DD Modéré)** : Boromir indique que la victime est rentrée dans sa chambre la veille aux environs de 23 heures. Elle n'en est pas ressortie.
+- **Diplomatie (DD Difficile)** : Un détail trouble Boromir, la vicime est sortie la veille à 17 heures de sa chambre avec un 
 
 ### Suite
