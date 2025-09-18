@@ -39,10 +39,15 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 - **Perception ou Larcin (DD Modéré)** : la porte ne montre aucun signe évident d'effraction.
 - **Perception (DD difficile, le personnage doit être à l'extérieur)** : il n'y a aucune empreinte de pas à l'extérieur sous la fenêtre de Rémi. Il n'y a pas de traces de pas, de boue ou de tout autre signe de quelqu'un qui escalade les murs extérieurs.
 
-## La malle de voyage
+### La malle de voyage
 
 - **Perception (DD Facile)**: La malle contient plusieurs étoffes d'un tissu de bonne qualité. Les étoffes ne correspondent pas à ce que l'on peut trouver à Suzail ou dans le Cormyr.
 - **Perception (DD Difficile)**: Un compartiment secret, verrouillé est présent au fond de la malle derrière un faux fond.
 - **Larcin (DD Difficile)**: À l'intérieur se trouvent deux à trois fioles avec des produits de couleur orange, vert, noir. En les ouvrant, une odeur très âcre, voir suffocante s'en dégage.
+
+### Miette Douceur
+
+- **Soin (DD Facile)** : Vous réussissez à calmer Miette pour qu'elle puisse parler plus facilement. Les prochains test de Diplomatie et d'Intimidation sur Miette ont un bonus de +2.
+- 
 
 ### Suite
