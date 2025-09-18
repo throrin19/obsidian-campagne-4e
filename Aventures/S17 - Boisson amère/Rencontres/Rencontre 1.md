@@ -48,6 +48,11 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 ### Miette Douceur
 
 - **Soin (DD Facile)** : Vous réussissez à calmer Miette pour qu'elle puisse parler plus facilement. Les prochains test de Diplomatie et d'Intimidation sur Miette ont un bonus de +2.
-- 
+- **Diplomatie (DD Modéré)** : Miette vous confie qu'elle est rentrée, comme d'habitude dans la chambre après avoir frappé, voyant personne elle est entrée et a voulu commencer par changer les fleurs dans le vase de la table basse mais elle a aperçu le corps sans vie de Rémi et est tout de suite sortie de la chambre en courant.
+- **Intimidation** : Peu importe le résultat, Miette se met à faire une crise de panique et ne peut plus être interrogée.
+
+### Boromir Barlue
+
+- **Diplomatie (DD Facile)** : Au premier succès, Boromir vous dit que le voyageur s'est enregistré au nom de [[Rémi Hautmont]], marchand de textiles originaire de Marsembre, venu en ville pour affaire dans le textile.
 
 ### Suite
