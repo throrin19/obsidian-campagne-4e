@@ -56,6 +56,6 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 - **Diplomatie (DD Facile)** : Au premier succès, Boromir vous dit que le voyageur s'est enregistré au nom de [[Rémi Hautmont]], marchand de textiles originaire de Marsembre.
 - **Diplomatie (DD Facile)** : Au second succès, il indique que Rémi est allé deux fois à la guilde des Tisserands avec sa malle, dans l'espoir de faire affaire.
 - **Diplomatie (DD Modéré)** : Boromir indique que la victime est rentrée dans sa chambre la veille aux environs de 23 heures. Elle n'en est pas ressortie.
-- **Diplomatie (DD Difficile)** : Un détail trouble Boromir, la vicime est sortie la veille à 17 heures de sa chambre avec un 
+- **Diplomatie (DD Difficile)** : Un détail trouble Boromir, la victime est sortie la veille à 17 heures de sa chambre avec un paquet, en essayant de ne pas se faire remarquer par les autres personnes de l'auberge. Pour le retour dans sa chambre, pareil mais, il avait une bouteille de vin de noix sous le bras au lieu du paquet.
 
 ### Suite
