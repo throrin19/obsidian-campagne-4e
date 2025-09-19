@@ -59,3 +59,9 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 - **Diplomatie (DD Difficile)** : Un détail trouble Boromir, la victime est sortie la veille à 17 heures de sa chambre avec un paquet, en essayant de ne pas se faire remarquer par les autres personnes de l'auberge. Pour le retour dans sa chambre, pareil mais, il avait une bouteille de vin de noix sous le bras au lieu du paquet.
 
 ### Suite
+
+Selon les indices trouvés, les joueurs peuvent au choix : 
+
+- Aller rendre visite à Rivan pour tenter d'obtenir des informations. Allez à la [[Rencontre 2a : Botanisme]]
+- Aller rendre visite à la guilde des Tisserands afin de savoir ce que faisait Rémi à Suzail. Allez à la [[Rencontre 3a: La guilde des tisserands]]
+- Ils peuvent très bien choisir une
