@@ -1,4 +1,4 @@
 ---
 aliases:
-  - "Rencontre 2a: Botanisme"
+  - "Rencontre 2a : Botanisme"
 ---
