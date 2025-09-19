@@ -5,7 +5,7 @@ Alignement: Non aligné
 Statut: Vivant
 Relation: Contact
 Profession: Informateur / herboriste
-Lieu:
+Lieu: "[[Apothicarium de Mère Griotte]]"
 Ville/Village: "[[Suzail]]"
 Image: "[[rivan.png]]"
 ---
