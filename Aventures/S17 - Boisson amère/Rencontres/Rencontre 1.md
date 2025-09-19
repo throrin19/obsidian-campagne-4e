@@ -18,7 +18,7 @@ Lisez ou paraphez :
 
 _Vous pénétrez dans une chambre modeste mais confortable de l'Auberge du Lion d'or. La pièce, de taille moyenne, est éclairée par une fenêtre donnant sur la rue principale. Un lit simple occupe l'un des murs, avec une malle de voyage posée à son pied, d'où dépassent plusieurs étoffes colorées._
 
-_Mais c'est la scène près de la fenêtre qui attire immédiatement votre attention : La victime est assise sur une chaise devant un petit bureau en bois, sa tête reposant sur le plateau, face contre la surface. Sa main droite, aux doigts rigides, tient encore une plume de corbeau, et une lettre à demi-rédigée dépasse sous sa tête._
+_Mais c'est la scène près de la fenêtre qui attire immédiatement votre attention : La victime est assise sur une chaise devant un petit bureau en bois, sa tête reposant sur le plateau, face contre la surface. Sa main droite, aux doigts rigides, tient encore une plume de corbeau, et un petit carnet rouge ouvert dépasse sous sa tête._
 
 _Sur le bureau, non loin du corps, se trouvent une bouteille de vin de noix presque vide et un verre également vide. Un vase contenant des fleurs fraîches trône sur une petite table basse près de l'entrée._
 
@@ -61,6 +61,20 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 - **Diplomatie (DD Facile)** : Au second succès, il indique que Rémi est allé deux fois à la guilde des Tisserands avec sa malle, dans l'espoir de faire affaire.
 - **Diplomatie (DD Modéré)** : Boromir indique que la victime est rentrée dans sa chambre la veille aux environs de 23 heures. Elle n'en est pas ressortie.
 - **Diplomatie (DD Difficile)** : Un détail trouble Boromir, la victime est sortie la veille à 17 heures de sa chambre avec un paquet, en essayant de ne pas se faire remarquer par les autres personnes de l'auberge. Pour le retour dans sa chambre, pareil mais, il avait une bouteille de vin de noix sous le bras au lieu du paquet.
+
+### Le petit carnet rouge
+
+Le petit carnet rouge est le carnet de bord de Rémi, retraçant ses différentes ventes et actions. Le carnet est bien évidemment codé pour penser qu'il s'agit bien d'un vendeur de tissus et non d'un vendeur de poisons. Voici le contenu de la page ouverte : 
+
+*Un petit carnet de cuir ouvert sur une page récente, l'écriture devient tremblante vers la fin :*
+
+***Suzail - 3e jour**
+
+_Matin : Visite Guilde Tisserands - échantillons verts bien reçus, qualité appréciée_
+
+_Après-midi : Contact avec M. D. - très intéressé par les spécimens noirs de Chult. Prix convenu._
+
+_Soir : Livraison effectuée. Client satisfait de la rareté. A offert bouteille en remerciement. Semble préoccupé par discré—_*
 
 ### Suite
 
