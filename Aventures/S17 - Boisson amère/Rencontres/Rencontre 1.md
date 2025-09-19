@@ -16,7 +16,11 @@ Les joueurs arrivent dans la chambre 7, à l'étage de l'auberge afin de récolt
 
 Lisez ou paraphez : 
 
-*[description]*
+_Vous pénétrez dans une chambre modeste mais confortable de l'Auberge du Lion d'or. La pièce, de taille moyenne, est éclairée par une fenêtre donnant sur la rue principale. Un lit simple occupe l'un des murs, avec une malle de voyage posée à son pied, d'où dépassent plusieurs étoffes colorées._
+
+_Mais c'est la scène près de la fenêtre qui attire immédiatement votre attention : La victime est assise sur une chaise devant un petit bureau en bois, sa tête reposant sur le plateau, face contre la surface. Sa main droite, aux doigts rigides, tient encore une plume de corbeau, et une lettre à demi-rédigée dépasse sous sa tête._
+
+_Sur le bureau, non loin du corps, se trouvent une bouteille de vin de noix presque vide et un verre également vide. Un vase contenant des fleurs fraîches trône sur une petite table basse près de l'entrée._
 
 Rémi se tient, assis sur sa chaise devant son bureau, la tête reposant dessus, un filet de sang sortant du coin de la bouche. Une lettre en cours d'écriture se trouve sur le bureau, la tête reposant en partie dessus. La main droite repose non loin avec une plume de corbeau tenue par les doigts raidis. Un peu plus loin, une bouteille quasiment vide de vin de noix repose avec un verre vide.
 
