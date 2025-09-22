@@ -76,10 +76,9 @@ _Après-midi : Contact avec V. D. - très intéressée par les spécimens noirs 
 
 _Soir : Livraison effectuée. Client satisfait de la rareté. A offert bouteille en remerciement en plus du paiement. Semble préoccupé par discré—_*
 
-### Suite
+### Mettre fin à la rencontre
 
 Selon les indices trouvés, les joueurs peuvent au choix : 
 
 - Aller rendre visite à Rivan pour tenter d'obtenir des informations sur les plantes retrouvées dans sa malle. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 2a|Rencontre 2a : Botanique]]
 - Aller rendre visite à la guilde des Tisserands afin de savoir ce que faisait Rémi à Suzail. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 3a|Rencontre 3a : La guilde des tisserands]]
-- 
