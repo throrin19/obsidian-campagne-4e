@@ -22,11 +22,12 @@ Voici les informations que Rivan peut leur donner selon les questions qu'ils pos
 
 **Quels sont ces produits ? (en montrant les flacons)** En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de suite où ils ont trouvés ça et s'ils sont aussi inconscients que mal assortis pour se balader avec.
 - L'une des fioles est un poisons extrêmement puissant qui nécessitent une simple goûte diluée dans un verre pour tuer la personne quelques heures après la prise.
-- La seconde lui est totalement inconnue.
 - À sa connaissance, la recette pour réaliser ce poison est normalement perdue depuis des siècles.
 - Néanmoins a bien entendu parlé une rumeur sur une personne disant avoir ce poison en sa possession. S'ils veulent en savoir plus, ils devraient aller demander à [[Vrax l'Écorcheur]].
 - Il connaît ce poison, et à quoi il devrait ressembler car des écrits en parlent et il s'agit d'une sorte de saint graal pour tout herboriste comme lui.
-- Aucun antidote n'existe pour ces poisons.
-- 
+- Aucun antidote n'existe pour ce poisons.
+- La seconde fiole contient une préparation qui lui est totalement inconnue.
+
+
 
 ### Mettre fin à la rencontre
