@@ -72,7 +72,7 @@ Le petit carnet rouge est le carnet de bord de Rémi, retraçant ses différente
 
 _Matin : Visite Guilde Tisserands - échantillons verts bien reçus, qualité appréciée_
 
-_Après-midi : Contact avec V. D. - très intéressé par les spécimens noirs de Chult. Prix convenu._
+_Après-midi : Contact avec V. D. - très intéressée par les spécimens noirs de Chult. Prix convenu._
 
 _Soir : Livraison effectuée. Client satisfait de la rareté. A offert bouteille en remerciement en plus du paiement. Semble préoccupé par discré—_*
 
@@ -80,6 +80,6 @@ _Soir : Livraison effectuée. Client satisfait de la rareté. A offert bouteille
 
 Selon les indices trouvés, les joueurs peuvent au choix : 
 
-- Aller rendre visite à Rivan pour tenter d'obtenir des informations sur les plantes retrouvées dans sa malle. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 2a|Rencontre 2a : Botanisme]]
+- Aller rendre visite à Rivan pour tenter d'obtenir des informations sur les plantes retrouvées dans sa malle. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 2a|Rencontre 2a : Botanique]]
 - Aller rendre visite à la guilde des Tisserands afin de savoir ce que faisait Rémi à Suzail. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 3a|Rencontre 3a : La guilde des tisserands]]
-- Ils peuvent très bien choisir une autre option non prévue : Aller voir Gauwyn Meson, chercher Habros, ...
+- 
