@@ -20,9 +20,13 @@ Les joueurs veulent en apprendre plus sur les ingrédients trouvés dans les aff
 
 Voici les informations que Rivan peut leur donner selon les questions qu'ils posent et après avoir négocié. Selon le paiement obtenu il peut ou non donner l'ensemble des informations.
 
-**Quels sont ces produits ? (en montrant les flacons)** En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de suite où ils ont trouvés ça et s'ils sont aussi inconscients que mal assortis pour se balader avec ce qu'il faut pour décimer tout un quartier.
-- Les produits sont le résultat de poisons extrêmement puissants et volatiles qui nécessitent une simple goûte diluée dans une carafe pour tuer toute une réception.
-- À sa connaissance, ces poisons sont extrêmement rares et les ingrédients pour les faires ne se trouvent pas en Cormyr. De plus la recette pour réaliser ce poison est normalement perdue depuis des siècles..
-- Néanmoins a bien entendu parlé une rumeur sur une personne disant connaître les ingrédient
+**Quels sont ces produits ? (en montrant les flacons)** En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de suite où ils ont trouvés ça et s'ils sont aussi inconscients que mal assortis pour se balader avec.
+- L'une des fioles est un poisons extrêmement puissant qui nécessitent une simple goûte diluée dans un verre pour tuer la personne quelques heures après la prise.
+- La seconde lui est totalement inconnue.
+- À sa connaissance, la recette pour réaliser ce poison est normalement perdue depuis des siècles.
+- Néanmoins a bien entendu parlé une rumeur sur une personne disant avoir ce poison en sa possession. S'ils veulent en savoir plus, ils devraient aller demander à [[Vrax l'Écorcheur]].
+- Il connaît ce poison, et à quoi il devrait ressembler car des écrits en parlent et il s'agit d'une sorte de saint graal pour tout herboriste comme lui.
+- Aucun antidote n'existe pour ces poisons.
+- 
 
 ### Mettre fin à la rencontre
