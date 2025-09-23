@@ -28,6 +28,9 @@ En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de 
 - Aucun antidote n'existe pour ce poisons.
 - La seconde fiole contient une préparation qui lui est totalement inconnue.
 
-**
+**Connais-tu un [[Rémi Hautmont]] ?** Rivan dit ne pas le connaître et demande pourquoi ils cherchent des informations sur lui. 
+- S'ils parlent du fait qu'il soit mort sans explication dans la chambre, Rivan leur donne les informations suivantes : 
+	- Il n'a pas entendu parlé d'un contrat avec les couteaux enflammés pour un assassinat. Ils peuvent toutefois essayer de voir [[Vrax l'Écorcheur]] pour plus de renseignements
+	- Il demande s'il n'y avait pas une bouteille et un verre non loin de la victime. Dans ce cas il s'agit fortement d'un empoisonnement.
 
 ### Mettre fin à la rencontre
