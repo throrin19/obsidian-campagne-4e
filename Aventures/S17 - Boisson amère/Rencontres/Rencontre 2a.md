@@ -44,6 +44,6 @@ Rivan dit ne pas le connaître et demande pourquoi ils cherchent des information
 Après cette rencontre, les joueurs doivent se douter que [[Rémi Hautmont]] est bien plus qu'un simple vendeur de tissus.
 
 Les joueurs ont les choix suivants : 
-- Ils peuvent se rendre à la Rencontre 2b : Confrontation avec Vrax, pour essayer d'obtenir des informations supplémentaires.
-- Ils peuvent revenir dans la chambre récupérer la bouteille et la ramener à Rivan, confirmant qu'elle était bien empoisonnée.
+- Ils peuvent se rendre à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 2b|Rencontre 2b : Épreuve des couteaux]], pour essayer d'obtenir des informations supplémentaires.
 - Ils peuvent se rendre aussi à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 3a|Rencontre 3a : La guilde des tisserands]]
+- Ils peuvent revenir dans la chambre récupérer la bouteille et la ramener à Rivan, confirmant qu'elle était bien empoisonnée.
