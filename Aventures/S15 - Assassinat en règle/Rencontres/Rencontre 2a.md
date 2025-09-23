@@ -5,4 +5,4 @@ aliases:
 ---
 # Suite
 
-- [[Rencontre 2b|Rencontre 2b : Le chef des couteaux]]
+- [[Aventures/S15 - Assassinat en règle/Rencontres/Rencontre 2b|Rencontre 2b : Le chef des couteaux]]
