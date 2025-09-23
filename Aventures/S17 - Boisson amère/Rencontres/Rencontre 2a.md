@@ -28,9 +28,11 @@ En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de 
 - Aucun antidote n'existe pour ce poisons.
 - La seconde fiole contient une préparation qui lui est totalement inconnue.
 
-**Quelles sont ces 
+**Quelles sont ces graines et plantes ?** 
+Il s'agit d'espèces exotiques, originaires pour la plupart des terres du sud, plus particulièrement de Calimshan et de Chult. Toutes ces plantes rentrent dans l'élaboration de toxines et de poisons.
 
-**Connais-tu un [[Rémi Hautmont]] ?** Rivan dit ne pas le connaître et demande pourquoi ils cherchent des informations sur lui. 
+**Connais-tu un [[Rémi Hautmont]] ?** 
+Rivan dit ne pas le connaître et demande pourquoi ils cherchent des informations sur lui. 
 - S'ils parlent du fait qu'il soit mort sans explication dans la chambre, Rivan leur donne les informations suivantes : 
 	- Il n'a pas entendu parlé d'un contrat avec les couteaux enflammés pour un assassinat. Ils peuvent toutefois essayer de voir [[Vrax l'Écorcheur]] pour plus de renseignements
 	- Il demande s'il n'y avait pas une bouteille et un verre non loin de la victime, expliquant que sa mort est certainement dû à un empoisonnement
@@ -38,3 +40,7 @@ En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de 
 
 
 ### Mettre fin à la rencontre
+
+Après cette rencontre, les joueurs doivent se douter que [[Rémi Hautmont]] est bien plus qu'un simple vendeur de tissus.
+
+S'ils le souhaitent, ils peuvent se rendre à la Rencontre 2b : Confrontation avec Vrax

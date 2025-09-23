@@ -47,7 +47,7 @@ Certains des détails suivants peuvent être modifiés si les actions des PJ dif
 
 - **Perception (DD Facile)**: La malle contient plusieurs étoffes d'un tissu de bonne qualité. Les étoffes ne correspondent pas à ce que l'on peut trouver à Suzail ou dans le Cormyr.
 - **Perception (DD Difficile)**: Un compartiment secret, verrouillé est présent au fond de la malle derrière un faux fond.
-- **Larcin (DD Difficile)**: À l'intérieur se trouvent deux à trois fioles avec des produits de couleur orange, vert, noir. En les ouvrant, une odeur très âcre, voir suffocante s'en dégage. Des graines et des herbes séchées sont aussi présentes dans des sachets. Un test de *Nature (DD Difficile)* permet de voir que ces plantes sont indigènes au Cormyr, qu'elles sont rares et toxiques.
+- **Larcin (DD Difficile)**: À l'intérieur se trouvent deux fioles avec des produits de couleur vert et noir. En les ouvrant, une odeur très âcre, voir suffocante s'en dégage. Des graines et des herbes séchées sont aussi présentes dans des sachets. Un test de *Nature (DD Difficile)* permet de voir que ces plantes sont indigènes au Cormyr, qu'elles sont rares et toxiques.
 
 ### Miette Douceur
 
