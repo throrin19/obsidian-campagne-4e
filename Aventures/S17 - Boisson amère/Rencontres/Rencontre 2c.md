@@ -32,9 +32,10 @@ _Approche 3_ : Intérêts mutuels. Par ce biais, les joueurs tentent de trouver
 _Approche 4_: Intimidation. Ici, les joueurs attaquent frontalement Vrax pour obtenir des informations. Celle-ci demande de réussir un test d’_Intimidation (DD 21)_. S’ils réussissent, Vrax est impressionné par l’audace mais devient hostile. Il donne une information minimale pour se débarrasser des PJ.
 
 Peu importe l’approche, les joueurs peuvent obtenir les renseignements suivants (piochez ceux que vous voulez selon le niveau de réussite et/ou l’approche des PJ) :
+- Aucun contrat d'assassinat n'a été passé dernièrement aux couteaux enflammés. Depuis les remous de l'assassinat d'Halanthur, les couteaux essaient de rester
 - 
 
-Dans tous 
+Dans tous les cas Vrax leur dit qu'ils lui sont redevable et qu'il reviendra les voir plus tard avec un travail à effectuer pour lui.
 ### Suite
 
 Si tout s'est bien passé, Ils ont établis le contact avec Vrax, il fera peut-être affaire avec eux.
