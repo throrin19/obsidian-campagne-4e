@@ -1,5 +1,5 @@
 ---
-Lieu: 
-Type: 
+Lieu: "[[Suzail]]"
+Type: Guilde
 Habitants:
 ---
