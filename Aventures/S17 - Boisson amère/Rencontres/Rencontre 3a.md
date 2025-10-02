@@ -12,11 +12,11 @@ Personnages:
 
 Les joueurs arrivent à la [[Guilde des tisserands]] afin d'obtenir un peu plus d'informations sur [[Rémi Hautmont]]. Ils sont accueillis par [[Zephyr Ombredouce]], le secrétaire de la guilde. Lisez : 
 
-*Vous arrivez à la guilde des Tisserands. Le lieu est en réalité comparable à une des demeures seigneuriales du quartier de [[Velabryn]], à la différence qu'ici, la vie transparaît. Des marchands vont et viennent, des métier à tisser, présents dans les annexes, tournent pour confectionner divers tenues et devant vous se dresse le bâtiment principal. Celui-ci a son entrée entourée de deux grandes tentures aux couleurs du Cormyr, brodées tout autour d'un fil d'argent.*
+_Vous arrivez à la Guilde des Tisserands. Le lieu ressemble à l'une des demeures seigneuriales du quartier de Velabryn, à la différence qu'ici la vie transparaît de partout. Des marchands vont et viennent, des métiers à tisser installés dans les annexes claquent rythmiquement pour confectionner diverses tenues, et devant vous se dresse le bâtiment principal. Son entrée est encadrée de deux grandes tentures aux couleurs du Cormyr, brodées d'un fil d'argent._
 
-*Arrivés à l'accueil, vous êtes accueillis par un Tieffelin à la peau rouge vous demandant, d'une voix chantante :*
+_À l'accueil, un tieffelin à la peau cramoisie vous accueille d'une voix chantante, presque condescendante :_
 
-*"Je vous souhaite la bienvenue à la guilde des Tisserands, que puis-je faire pour vous ? Aux vues des guenilles que vous portez, je présume que vous cherchez des vêtements de qualité. Malheureusement ici il s'agit d'un comptoir professionnel. Si vous souhaitez, je peux vous indiquer l'adresse d'un très bon tailleur sur la ville pouvant vous confectionner rapidement des vêtements beaucoup plus saillants."*
+_"Bienvenue à la Guilde des Tisserands ! Que puis-je faire pour vous ?" Ses yeux parcourent vos tenues avec un sourcil levé. "Au vu de vos... vêtements, je présume que vous cherchez des habits de qualité ? Malheureusement, ici nous traitons uniquement avec des professionnels. Si vous le souhaitez, je peux vous indiquer l'adresse d'un excellent tailleur en ville qui pourrait vous confectionner rapidement quelque chose de plus... seyant."_
 
 
 
