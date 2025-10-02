@@ -10,5 +10,9 @@ Personnages:
 ---
 # Installation
 
-Les joueurs arrivent 
+Les joueurs arrivent à la [[Guilde des tisserands]] afin d'obtenir un peu plus d'informations sur [[Rémi Hautmont]].
+
+Ils sont accueillis par [[Zephyr Ombredouce]], le secrétaire de la guilde. Lisez : 
+
+
 # Suite
