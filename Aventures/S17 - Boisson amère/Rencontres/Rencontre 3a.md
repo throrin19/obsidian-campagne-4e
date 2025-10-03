@@ -62,4 +62,31 @@ _Il croise les mains devant lui._
 
 *"Je comprends votre situation, mais vous devez comprendre la mienne. Le registre de nos contacts est confidentiel - nos membres paient pour cette discrétion. Sans mandat officiel des Dragons Pourpres ou de la Couronne, je ne peux autoriser sa consultation complète."*
 
-### Suite
+Il peut donner accès au registre, uniquement sur les parties concernant Rémi, si les joueurs effectuent l'une de ces approches : 
+
+- **Diplomatie (DD Difficile)** + argument solide (mort suspecte, urgence)
+- **Invoquer l'insigne de Tempérance** avec éloquence (ajoute un bonus de +4 au test de Diplomatie)
+
+Si les joueurs tentent de l'intimider ou de bluffer, il se brusque et renvoit les PJ hors de la guilde.
+
+S'ils y arrivent, ils découvrent la première entrevue avec Borin ainsi que la seconde avec une certaine [[Vireille Daravan]]. Si les joueurs demandent des informations sur elle, il leur dit les choses suivantes :
+
+_Silvyr fronce légèrement les sourcils en entendant ce nom._
+
+*"Vireille Daravan... Voilà un nom que je n'ai pas entendu depuis longtemps dans un contexte professionnel."*
+
+_Il soupire._
+
+*"Autrefois, c'était l'une des marchandes les plus respectées de Suzail. Elle importait des épices et des tissus rares, tenait un comptoir florissant près des quais. Mais la fermeture des frontières avec la Sembie l'a complètement ruinée. Son commerce s'est effondré en quelques années."*
+
+_Son ton devient plus froid._
+
+*"Je dois admettre que sa présence sur ce registre me surprend. Elle n'a plus les moyens de commercer à l'échelle qu'elle pratiquait autrefois. Pourquoi Hautmont l'aurait-il contactée ?" _Il marque une pause._ "À moins qu'elle ne cherche à se relancer... ou qu'elle ait d'autres affaires en cours."*
+
+_Il peut ajouter si les PJ pressent :_
+
+*"Son ancien comptoir, Les Épices Daravan, est fermé depuis sa banqueroute. Mais je crois qu'elle habite toujours en ville. Une demeure modeste du quartier marchand, si ma mémoire est bonne."*
+
+### Mettre fin à la rencontre
+
+
