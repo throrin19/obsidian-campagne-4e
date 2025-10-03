@@ -8,7 +8,7 @@ Personnages:
   - "[[Borin Fildefer]]"
   - "[[Silvyr Filetisse]]"
 ---
-# Installation
+### Installation
 
 Les joueurs arrivent à la [[Guilde des tisserands]] afin d'obtenir un peu plus d'informations sur [[Rémi Hautmont]]. Ils sont accueillis par [[Zephyr Ombredouce]], le secrétaire de la guilde. Lisez : 
 
@@ -18,6 +18,11 @@ _À l'accueil, un tieffelin à la peau cramoisie vous accueille d'une voix chant
 
 _"Bienvenue à la Guilde des Tisserands ! Que puis-je faire pour vous ?" Ses yeux parcourent vos tenues avec un sourcil levé. "Au vu de vos... vêtements, je présume que vous cherchez des habits de qualité ? Malheureusement, ici nous traitons uniquement avec des professionnels. Si vous le souhaitez, je peux vous indiquer l'adresse d'un excellent tailleur en ville qui pourrait vous confectionner rapidement quelque chose de plus... seyant."_
 
+### Renseignements de Zephyr
 
+Si les joueurs posent des questions sur Rémi, Zephyr admet l'avoir vu venir deux fois rencontrer des marchands, mais il reste vague, rechignant à donner plus d'informations.
 
-# Suite
+- Diplomatie (DD Modéré) : Avec un effort, Zephyr cède et donne le nom de [[Borin Fildefer]] : *"Oui, il a rencontré maître Fildefer pour discuter soie orientale"*. Borin étant. présent, Zéphyr les dirige vers son bureau au sein de la guilde.
+- Si les joueurs essaient de savoir avec qui Rémi a eu son second rendez-vous, Zephyr refuse catégoriquement de donner plus d'informations. *"Le registre contient des informations confidentielles professionnelles,. Je ne peux pas divulguer tous nos contacts sans autorisation"*. Il en est de même si les joueurs usent d'Intimida
+
+### Suite
