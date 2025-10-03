@@ -29,6 +29,22 @@ Si les joueurs posent des questions sur Rémi, Zephyr admet l'avoir vu venir deu
 
 ### Renseignements de Borin
 
+Les joueurs peuvent rencontrer [[Borin Fildefer]] pour lui poser quelques questions sur son entrevue avec [[Rémi Hautmont]] pour essayer d'obtenir quelques indices, Voici tout ce qu'ils peuvent obtenir de lui : 
+
+_Le nain marchand se gratte la barbe pensivement._
+
+*"Rémi ? Oui, je l'ai rencontré il y a quelques jours. Bon professionnel, connaissait bien ses tissus. La soie qu'il proposait venait vraiment de l'est, pas de la camelote."*
+
+_Il marque une pause._
+
+*"Maintenant que vous en parlez... j'ai trouvé étrange que sa malle de voyage soit si imposante pour la quantité d'échantillons qu'il transportait. Quand il l'a ouverte pour me montrer les soies, j'ai eu l'impression qu'elle était plus profonde vue de l'extérieur que de l'intérieur, si vous voyez ce que je veux dire. Mais bon, chacun ses affaires, non ?"*
+
+_Il hausse les épaules._
+
+*"Sinon, transaction honnête. On devait se revoir pour finaliser une commande, mais..." _il fait un geste fataliste_ "Triste histoire."*
+
+Les renseignements qu'il donne ne sont que de peu d'utilité pour les joueurs, sa piste ne menant nulle part. Par contre, ses renseignements peuvent mener au double fond de la malle s'ils ne l'ont pas découvert.
+
 
 
 
