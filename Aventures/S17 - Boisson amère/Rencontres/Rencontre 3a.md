@@ -23,6 +23,13 @@ _"Bienvenue à la Guilde des Tisserands ! Que puis-je faire pour vous ?" Ses yeu
 Si les joueurs posent des questions sur Rémi, Zephyr admet l'avoir vu venir deux fois rencontrer des marchands, mais il reste vague, rechignant à donner plus d'informations.
 
 - Diplomatie (DD Modéré) : Avec un effort, Zephyr cède et donne le nom de [[Borin Fildefer]] : *"Oui, il a rencontré maître Fildefer pour discuter soie orientale"*. Borin étant. présent, Zéphyr les dirige vers son bureau au sein de la guilde.
-- Si les joueurs essaient de savoir avec qui Rémi a eu son second rendez-vous, Zephyr refuse catégoriquement de donner plus d'informations. *"Le registre contient des informations confidentielles professionnelles,. Je ne peux pas divulguer tous nos contacts sans autorisation"*. Il en est de même si les joueurs usent d'Intimida
+- Si les joueurs essaient de savoir avec qui Rémi a eu son second rendez-vous, Zephyr refuse catégoriquement de donner plus d'informations. *"Le registre contient des informations confidentielles professionnelles,. Je ne peux pas divulguer tous nos contacts sans autorisation"*. Il en est de même si les joueurs usent d'Intimidation contre lui.
+- Discrétion / Larcin (DD Difficile), ou soudoyer Zephyr (100 po) : les joueurs volent le registre de Zephyr pour avoir les rendez-vous pris avec Rémi sur cette journée. S'ils y arrivent, ils découvrent la première entrevue avec Borin ainsi que la seconde avec une certaine [[Vireille Daravan]].
+- Si les joueurs usent d'intimidation contre Zephyr pour obtenir le dernier renseignement, le chef de la guilde, [[Silvyr Filetisse]] arrive pour comprendre d'où vient le grabuge et invite les joueurs à venir dans son bureau.
+
+### Renseignements de Borin
+
+
+
 
 ### Suite
