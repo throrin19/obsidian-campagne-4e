@@ -18,6 +18,7 @@ _À l'accueil, un tieffelin à la peau cramoisie vous accueille d'une voix chant
 
 _"Bienvenue à la Guilde des Tisserands ! Que puis-je faire pour vous ?" Ses yeux parcourent vos tenues avec un sourcil levé. "Au vu de vos... vêtements, je présume que vous cherchez des habits de qualité ? Malheureusement, ici nous traitons uniquement avec des professionnels. Si vous le souhaitez, je peux vous indiquer l'adresse d'un excellent tailleur en ville qui pourrait vous confectionner rapidement quelque chose de plus... seyant."_
 
+> Si les joueurs essaient de trouver des informations sur la victime en employant son vrai nom, aucun des personnages vus ici n'en a entendu parlé. De même concernant son vrai métier, ils n'y croient pas vraiment.
 ### Renseignements de Zephyr
 
 Si les joueurs posent des questions sur Rémi, Zephyr admet l'avoir vu venir deux fois rencontrer des marchands, mais il reste vague, rechignant à donner plus d'informations.

@@ -35,10 +35,14 @@ Peu importe l’approche, les joueurs peuvent obtenir les renseignements suivant
 - Aucun contrat d'assassinat n'a été passé dernièrement aux couteaux enflammés. Depuis les remous de l'assassinat d'Halanthur, les couteaux essaient de rester discrets.
 - Le nom de [[Rémi Hautmont]] n'est pas inconnu à Vrax, mais il dit ne pas le connaître sous ce nom là. Il leur donne le nom qu'il connait ainsi que sa profession : [[Rémi Hautmont|Thibaud Vertcuivre]], vendeur de poisons et autres ingrédients. Il est attristé par sa mort. Thibaud trouvait les poisons et les ingrédients les plus rares de tout Faerun. Ce sera dur de retrouver quelqu'un comme lui.
 
-Dans tous les cas Vrax leur dit qu'ils lui sont redevable et qu'il reviendra les voir plus tard avec un travail à effectuer pour lui.
+Si les joueurs nn'ont pas tenté l'approche par intimidation, Vrax leur dit qu'il peut se renseigner sur Thibaud afin de les aider danns leur enquête. Bien entendu, ce genre d'information n'est pas gratuite et les joueurs devront réaliser, plus tard, un petit travail pour Vrax.
 ### Suite
 
 Si tout s'est bien passé, Ils ont établis le contact avec Vrax, il fera peut-être affaire avec eux.
 Sinon, ils se sont fait un ennemi dans Suzail.
+
+Si les joueurs ont acceptés que Vrax fasse des recherches sur Thibaud, il les invite à retourner voir Rivan d'ici une heure ou deux pour récupérer les informations. 
+
+Si les joueurs reviennent à la lame rouillée, la cave est vide et aucune trace ne permet de dire si Vrax était là avant ou non.
 
 
