@@ -9,9 +9,11 @@ Illustration:
 Un voyageur de passage à [[Suzail]] a été retrouvé mort dans sa chambre à l'[[Auberge du lion d'or]] par la femme de chambre. Chose bizarre, la chambre était verrouillée, sans aucune trace d'effraction, le corps paisiblement posé sur sa chaise de bureau.
 
 La personne morte semble être un vendeur de tissus originaire de [[Marsembre]] venu vendre des étoffes à des tisserands de [[Suzail]]. En réalité, il s'agit d'un vendeur de produits "exotiques" servant dans l'élaboration de poisons ayant vendu des ingrédients pour un poison bien spécial il y a peu.
+
+Il a vendu des ingrédients pour un poison extrêmement dangereux, sans aucun antidonne connus à Vireille Daravan, marchande déchue. Elle même travaillant pour un commanditaire mystérieux lui donnant rendez-vous systématiquement dans les ruines de la tour Est, à l'extérieur de la ville.
 ### Introduction aux joueurs
 
-Normalement, les joueurs sont hébergés à l'[[Auberge du lion d'or]] et commencent leur journée normalement. Lisez, ou modifiez si besoin :
+Les joueurs sont hébergés à l'[[Auberge du lion d'or]] et commencent leur journée normalement. Lisez, ou modifiez si besoin :
 
 *Le matin commence paisiblement à l'Auberge du Lion d'Or. Vous descendez dans la salle commune où quelques clients matinaux sirotent déjà leur première chope, quand soudain un cri perçant déchire le calme de l'établissement.
 

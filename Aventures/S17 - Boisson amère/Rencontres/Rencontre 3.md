@@ -68,7 +68,7 @@ Il peut donner accès au registre, uniquement sur les parties concernant Rémi, 
 - **Diplomatie (DD Difficile)** + argument solide (mort suspecte, urgence)
 - **Invoquer l'insigne de Tempérance** avec éloquence (ajoute un bonus de +4 au test de Diplomatie)
 
-Si les joueurs tentent de l'intimider ou de bluffer, il se brusque et renvoit les PJ hors de la guilde.
+Si les joueurs tentent de l'intimider ou de bluffer, il se brusque et renvoi les PJ hors de la guilde.
 
 S'ils y arrivent, ils découvrent la première entrevue avec Borin ainsi que la seconde avec une certaine [[Vireille Daravan]]. Si les joueurs demandent des informations sur elle, il leur dit les choses suivantes :
 

@@ -17,15 +17,15 @@ Après le combat dans la taverne, Vrax l’Écorcheur fait son apparition. Cette
 ### Attitude de Vrax
 
 Vrax adopte différentes attitudes selon la performance des PJ lors du combat :
-- Si les PJ ont brillé lors du combat , Vrax ext respectueux et intrigué : _“Impressionnant. Il y a longtemps que je n’avais pas vu du travail aussi propre.”_ Il est plus enclin à négocier d’égal à égal avec les joueurs. Cela leur confère +2 à tous les tests sociaux avec lui durant cette rencontre.
-- Si les PJ ont tenu bon mais sans briller : Vrax reste neutre mais professionel : _“Suffisant. Vous n’êtes pas des amateurs, c’est déjà ça.”_ Il traite les PJ comme des collègues potentiels. Cela ne confère aucun bonus aux tests.
-- Si les PJ ont eu des difficultés, Vrax est condescendant mais pragmatique : _“Bon, vous respirez encore. C’est un début.”_. Il les concidère comme de seconds couteaux. Cela leur confère -1 à tous les tests sociaux avec lui durant cette rencontre.
+- Si les PJ ont brillé lors du combat , Vrax est respectueux et intrigué : _“Impressionnant. Il y a longtemps que je n’avais pas vu du travail aussi propre.”_ Il est plus enclin à négocier d’égal à égal avec les joueurs. Cela leur confère +2 à tous les tests sociaux avec lui durant cette rencontre.
+- Si les PJ ont tenu bon mais sans briller : Vrax reste neutre mais professionnel : _“Suffisant. Vous n’êtes pas des amateurs, c’est déjà ça.”_ Il traite les PJ comme des collègues potentiels. Cela ne confère aucun bonus aux tests.
+- Si les PJ ont eu des difficultés, Vrax est condescendant mais pragmatique : _“Bon, vous respirez encore. C’est un début.”_. Il les considère comme de seconds couteaux. Cela leur confère -1 à tous les tests sociaux avec lui durant cette rencontre.
 ### Négociation
-Les joueurs peuvent interragir avec Vrax selon 3 grands axes :
+Les joueurs peuvent interagir avec Vrax selon 3 grands axes :
 
-_Approche 1_ : Respect professionnel. Par ce biais, les joueurs montrent à Vrax le respect qu’ils ont pour son professionnalisme ddans la gestion des couteaux enflammés. Afin de réussir cette approche, ils doivent effectuer un test de _Diplomatie (DD 15)_ : _“Nous respectons votre travail. Nous cherchons juste à comprendre qui tire les ficelles.”_.
+_Approche 1_ : Respect professionnel. Par ce biais, les joueurs montrent à Vrax le respect qu’ils ont pour son professionnalisme dans la gestion des couteaux enflammés. Afin de réussir cette approche, ils doivent effectuer un test de _Diplomatie (DD 15)_ : _“Nous respectons votre travail. Nous cherchons juste à comprendre qui tire les ficelles.”_.
 
-_Approche 2_ : Échange dd’informations. Par cette approche, les joueurs donner échanger des informations, rélles ou fausses, pouvant intéresser Vrax, dans l’espoir qu’il en communique d’autres en retour. Dans le cas de fausses informations, les joueurs devront réussir un test de _Bluff (DD 17)_.
+_Approche 2_ : Échange d’informations. Par cette approche, les joueurs donner échanger des informations, réelles ou fausses, pouvant intéresser Vrax, dans l’espoir qu’il en communique d’autres en retour. Dans le cas de fausses informations, les joueurs devront réussir un test de _Bluff (DD 17)_.
 
 _Approche 3_ : Intérêts mutuels. Par ce biais, les joueurs tentent de trouver quels intérêts Vrax peut avoir en commun pour tenter de résoudre toute cette affaire. Pour y arriver ils doivent d’abord faire un test d’_Intuition (DD 14)_ suivi d’un test de _Diplomatie (DD 16)_ : _“Cette affaire attire trop l’attention. Ça nuit à vos affaires autant qu’aux nôtres.”_. En cas de succès, Vrax reconnaît que l’affaire devient gênante pour ses opérations.
 
@@ -35,7 +35,7 @@ Peu importe l’approche, les joueurs peuvent obtenir les renseignements suivant
 - Aucun contrat d'assassinat n'a été passé dernièrement aux couteaux enflammés. Depuis les remous de l'assassinat d'Halanthur, les couteaux essaient de rester discrets.
 - Le nom de [[Rémi Hautmont]] n'est pas inconnu à Vrax, mais il dit ne pas le connaître sous ce nom là. Il leur donne le nom qu'il connait ainsi que sa profession : [[Rémi Hautmont|Thibaud Vertcuivre]], vendeur de poisons et autres ingrédients. Il est attristé par sa mort. Thibaud trouvait les poisons et les ingrédients les plus rares de tout Faerun. Ce sera dur de retrouver quelqu'un comme lui.
 
-Si les joueurs nn'ont pas tenté l'approche par intimidation, Vrax leur dit qu'il peut se renseigner sur Thibaud afin de les aider danns leur enquête. Bien entendu, ce genre d'information n'est pas gratuite et les joueurs devront réaliser, plus tard, un petit travail pour Vrax.
+Si les joueurs n'ont pas tenté l'approche par intimidation, Vrax leur dit qu'il peut se renseigner sur Thibaud afin de les aider dans leur enquête. Bien entendu, ce genre d'information n'est pas gratuite et les joueurs devront réaliser, plus tard, un petit travail pour Vrax.
 ### Suite
 
 Si tout s'est bien passé, Ils ont établis le contact avec Vrax, il fera peut-être affaire avec eux.

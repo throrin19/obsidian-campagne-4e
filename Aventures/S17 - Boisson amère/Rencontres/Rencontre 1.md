@@ -22,9 +22,7 @@ _Mais c'est la scène près de la fenêtre qui attire immédiatement votre atten
 
 _Sur le bureau, non loin du corps, se trouvent une bouteille de vin de noix presque vide et un verre également vide. Un vase contenant des fleurs fraîches trône sur une petite table basse près de l'entrée._
 
-Rémi se tient, assis sur sa chaise devant son bureau, la tête reposant dessus, un filet de sang sortant du coin de la bouche. Une lettre en cours d'écriture se trouve sur le bureau, la tête reposant en partie dessus. La main droite repose non loin avec une plume de corbeau tenue par les doigts raidis. Un peu plus loin, une bouteille quasiment vide de vin de noix repose avec un verre vide.
-
-Au pied du lit repose une malle de voyage, d'où sortent plusieurs étoffes de toutes les couleurs\.
+*Au pied du lit repose une malle de voyage, d'où sortent plusieurs étoffes de toutes les couleurs.*
 
 Certains des détails suivants peuvent être modifiés si les actions des PJ diffèrent des hypothèses ci-dessous.
 

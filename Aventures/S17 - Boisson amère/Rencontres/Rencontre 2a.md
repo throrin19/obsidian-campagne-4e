@@ -24,7 +24,7 @@ Voici les informations que Rivan peut leur donner selon les questions qu'ils pos
 En voyant les flacons, Rivan dévisage les PJ avec peur, leur demandant tout de suite où ils ont trouvés ça et s'ils sont aussi inconscients que mal assortis pour se balader avec.
 - L'une des fioles est un poisons extrêmement puissant qui nécessitent une simple goûte diluée dans un verre pour tuer la personne quelques heures après la prise.
 - À sa connaissance, la recette pour réaliser ce poison est normalement perdue depuis des siècles.
-- Des écrits en parlent et il s'agit d'une sorte de saint graal pour tout prépareteur comme lui.
+- Des écrits en parlent et il s'agit d'une sorte de saint graal pour tout préparateur comme lui.
 - Aucun antidote n'existe pour ce poisons.
 - La seconde fiole contient une préparation qui lui est totalement inconnue.
 
