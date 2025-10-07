@@ -33,6 +33,20 @@ _"Les témoins gênants ne servent plus à rien. Vous avez attiré l'attention. 
 
 _La lame s'élève..._
 
-Si les joueurs tentent d'arrêter le couteau, il faut impérativement qu'ils se fassent entendre et découvrir par l'ennemi pour qu'il se concentre sur eux et non sur Vireille.
+### Si les PJ restent cachés/silencieux :
 
-Sous l'émotion, Vireille tombe dans l'inconscience.
+_La lame s'abat. Vireille s'effondre avec un cri étranglé, le poignard planté dans sa poitrine. La silhouette essuie calmement sa lame._
+
+→ Vireille morte, PJ doivent combattre ensuite
+
+### Si les PJ interviennent bruyamment :
+
+_"HALTE !" / "ARRÊTEZ !" / Sort lancé / Course bruyante_
+
+→ **Jet d'initiative immédiat !**
+
+_La silhouette pivote avec une rapidité surnaturelle, sa lame déjà relevée vers vous. Vireille, sous le choc et la terreur, pousse un gémissement avant de s'effondrer inconsciente au sol - sa peur l'a fait sombrer dans l'évanouissement._
+
+_La voix de la silhouette est calme, presque amusée :_
+
+_"Ah. Les fouineurs dont elle parlait. Vous venez de commettre une grave erreur."_
