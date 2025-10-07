@@ -50,3 +50,13 @@ _La silhouette pivote avec une rapidité surnaturelle, sa lame déjà relevée v
 _La voix de la silhouette est calme, presque amusée :_
 
 _"Ah. Les fouineurs dont elle parlait. Vous venez de commettre une grave erreur."_
+
+### Informations de Vireille
+
+Si vivante à la fin du combat, elle fournit les informations suivantes : 
+
+- Il est entré en contact après l'attentat fomenté par les Ormestar et s'est présenté comme faisant parti du cercle d'échange.
+- Il lui donnait toujours rendez-vous ici et lui confiait à chaque fois des tâches assez simple.
+- C'est lui qui lui confia la bouteille ayant servie à empoisonner le faux vendeur de tissus.
+- Aux vues de ses manières, elle pense qu'il travaille pour un noble de haut rang.
+- Elle ne sait pas qu'il s'agissait d'un shadar-kai.
