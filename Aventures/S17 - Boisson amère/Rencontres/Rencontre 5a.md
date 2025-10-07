@@ -33,3 +33,6 @@ _"Les témoins gênants ne servent plus à rien. Vous avez attiré l'attention. 
 
 _La lame s'élève..._
 
+Si les joueurs tentent d'arrêter le couteau, il faut impérativement qu'ils se fassent entendre et découvrir par l'ennemi pour qu'il se concentre sur eux et non sur Vireille.
+
+Sous l'émotion, Vireille tombe dans l'inconscience.
