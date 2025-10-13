@@ -12,7 +12,7 @@ Lors du combat, le mystérieux contact révéla, par mégarde, qu'il était un s
 
 En partant à sa poursuite, les joueurs découvrirent l'accès vers un tunnel secret menant tout droit vers la ville.
 
-# Le tunnel
+# Rencontre 1 Le tunnel
 
 *Le passage secret s'ouvre sur un grand et long tunnel, plongé dans l'ombre. Aux murs, des torches éteintes portant les traces d'usages récents y sont posées.
 Au sol, des traces de pas récentes dans les deux sens se mêlent à la poussière des lieux.
