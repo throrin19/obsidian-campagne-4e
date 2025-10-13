@@ -1,4 +1,4 @@
-# Introduction
+# Résumé
 
 Lors de la précédente aventure, les joueurs ont été mandés par [[Boromir Barlue]] de trouver la raison de la mort de la victime [[Rémi Hautmont]], mort dans sa chambre verouillée de l'intérieur.
 
@@ -16,4 +16,5 @@ En partant à sa poursuite, les joueurs découvrirent l'accès vers un tunnel se
 
 *Le passage secret s'ouvre sur un grand et long tunnel, plongé dans l'ombre. Aux murs, des torches éteintes portant les traces d'usages récents y sont posées.
 Au sol, des traces de pas récentes dans les deux sens se mêlent à la poussière des lieux.
-Le tunnel semble s'enfoncer *
+Le tunnel semble s'enfoncer vers l'Ouest.*
+
