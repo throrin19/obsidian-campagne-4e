@@ -21,5 +21,6 @@ Le tunnel semble s'enfoncer vers l'Ouest.*
 - Cette rencontre sert plus d'introduction et d'ambiance pour le reste de l'aventure
 - Il ne se passe rien de notable dans le tunnel
 - Pas de piège : ne colle pas avec son usage premier => évacuation de la famille royale en cas de crise majeure à Suzail (guerre, révolution, ...)
-- Le tunnel tombe sur une ail
+- Le tunnel tombe sur une aile "abandonnée" dans les caves du château. Tout semble assez ancien, beaucoup de poussière accumulée.
+- On note pourtant la présence de certaines caisses qui ont l'air plus récentes que le reste. En y regardant de plus près, il s'avère que ce sont des caisses marquées d'un sceau Sembien. En les ouvrant, on y trouve des armes et autre équipement militaire.
 
