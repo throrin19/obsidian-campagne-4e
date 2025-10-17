@@ -21,3 +21,14 @@ Les joueurs utiliseront leurs compétences en deux phases.  La première consist
 - **Histoire (DD facile)** :
 	1. Cette région n'a pas connu beaucoup de périodes difficiles, mais les gobelins et les kobolds peuvent toujours constituer une menace.
 	2. Cela fait un certain temps que l'on n'a pas vu de gobelins dans cette région...
+- **Nature (DD modéré, deux succès maximum)** :
+	1. En examinant les traces dans les champs et près de certaines maisons, on constate que ces enfants ont été enlevés par des créatures assez petites.
+	2. À en juger par les traces, ces créatures sont très probablement des kobolds.
+- **Intuition (DD facile)** : Les kobolds sont les plus susceptibles de commettre ce genre d'acte, et on ne connaît que quelques endroits où ils vivent...
+
+**Recherche dans la forêt (quatre succès permettront aux joueurs de trouver le repaire des kobolds)**
+
+- **Perception** (DD facile, maximum trois succès) : les kobolds ne sont pas aussi doués pour cacher leurs traces qu'ils le sont pour les laisser.
+- **Intuition** (DD modéré, maximum deux succès) : la tribu de kobolds vénère très probablement une sorte de dragon. Il existe quelques endroits où le dragon
+- Nature (DD facile, maximum deux succès) : votre connaissance de la forêt et du terrain aide le groupe à savoir où chercher et où ne pas chercher.
+- Athlétisme (DD difficile) : escalade
