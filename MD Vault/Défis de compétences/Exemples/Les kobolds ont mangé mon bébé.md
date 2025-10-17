@@ -14,7 +14,10 @@ Les joueurs utiliseront leurs compétences en deux phases.  La première consist
 
 **Recueillir des informations (quatre succès permettront aux joueurs de passer à la phase suivante, fouiller la forêt)**
 
-- **Diplomatie (DC facile, maximum deux succès)** :
+- **Diplomatie (DD facile, maximum deux succès)** :
 	1. Les villageois ne savent pas grand-chose, mais ils savent que leurs enfants leur manquent et quand ils ont disparu.  Ils étaient dans les champs...
 	2. Quelqu'un rapporte avoir vu plus d'enfants que d'habitude jouer pendant un certain temps...
-- 
+- **Intimidation (DD modéré, maximum un succès)** : un enfant qui se trouve encore dans le village semble savoir quelque chose.  Comme vous ne parvenez pas à le convaincre en vous montrant simplement inquiet pour ses amis, vous lui faites un peu peur pour qu'il vous révèle ce qu'il sait.  Il a vu des créatures qui ressemblent à de petits dragons.  L'enfant ne voulait pas parler, car il avait peur qu'elles s'en prennent à lui s'il en parlait à quelqu'un.
+- **Histoire (DD facile)** :
+	1. Cette région n'a pas connu beaucoup de périodes difficiles, mais les gobelins et les kobolds peuvent toujours constituer une menace.
+	2. Cela fait un certain temps que l'on n'a pas vu de gobelins dans cette région...
