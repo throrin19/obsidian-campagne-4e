@@ -29,5 +29,17 @@ Si les PJ ont accumulé deux échecs, ils sont dans une situation trop mauvaise 
 
 **Compétences utilisées** *(garantissant le succès.  Ces compétences sont les principales compétences utilisées pour déterminer le succès ou l'échec.  La compétence « Aider un autre » ne peut pas être utilisée pour ces compétences)*
 
+- Bluff (DD difficile) : Qui est le plus rusé ?  Dans cette main, c'est vous. Un succès.
+- Bluff (DD difficile +4, maximum de trois succès) : Vous tentez de piéger Du'cell lorsqu'il surjoue. Cela compte pour deux succès.
+- Intimidation (DD difficile) : Vous contrez les ruses de Du'cell par des mouvements et des jeux agressifs et énergiques. Un succès.
+- Perception (DC difficile) : Du'cell est doué pour cacher ses « indices », mais vous êtes encore plus doué pour les détecter.
 
+**Compétence utilisée** *(Soutien.  Ces compétences confèrent des bonus ou plus de détails aux autres rôles. Un maximum de deux compétences de soutien peut être utilisé à chaque main.)*
+
+- Diplomatie (DD modéré) : Distrayez le joueur avec une petite bannière. +1 à votre prochain jet de réussite.
+- Larcin (DD modéré) : Un petit tour de passe-passe peut faire beaucoup. Seul le personnage joueur peut utiliser cette compétence. En cas de réussite, vous obtenez un bonus de +1 à votre prochain jet de Bluff.
+- Perception (DD modéré) : vous savez quel type de main Du'cell joue d'après ce que vous avez vu et vous élaborez une stratégie. +1 à votre prochain jet d'intimidation ou de bluff.
+- Histoire (DD difficile, un essai maximum, réussi ou non) : les règles et les stratégies du jeu sont gravées dans votre mémoire. +1 à tous les jets pour le reste du défi.
+- Religion (DD difficile, DD modéré pour les adorateurs de la Reine Corbeau, un succès maximum) : Incertain de la bonne décision à prendre, vous priez les dieux pour qu'ils vous accordent leur chance. Obtenez un bonus de +2 à votre prochain jet de Bluff, d'Intimidation ou d'Intuition.
+- Intuition (DD modéré, maximum de trois succès) : Du'cell vous prend pour un rustre, il ne cache donc pas ses intentions aussi bien qu'il le devrait. +2 à votre prochain jet d'intuition réussissant.
 
