@@ -46,7 +46,7 @@ S'ils tombent devant Erzoured, celui-ci les attaque verbalement et juste après 
 
 S'ils tombent sur Solatha, Ospra ou Raedra, il s'agit uniquement du Lore, mais les personnages doivent réussir à prouver qu'ils ne sont pas des brigands.
 
-S'ils tombent sur Foril, celui-ci les somme de se présenter tout de suite et d'expliquer la raison de leur intrusion armés dans le palais. S'ils parlent d'Erzoured, le roi les somme d'arrêter de calomnier sa famille même s'il s'agit d'un membre illégitime et qu'il ne tolèrerait aucune nouvelle attaque ciblant son neveu.Malgré tout, des moments d'absence ou de début de sénilité surviennent durant l'entrevue. 
+S'ils tombent sur Foril, celui-ci les somme de se présenter tout de suite et d'expliquer la raison de leur intrusion armés dans le palais. S'ils parlent d'Erzoured, le roi les somme d'arrêter de calomnier sa famille même s'il s'agit d'un membre illégitime et qu'il ne tolèrerait aucune nouvelle attaque ciblant son neveu. Malgré tout, des moments d'absence ou de début de sénilité surviennent durant l'entrevue. 
 
 # Rencontre 3 : Les gardes
 

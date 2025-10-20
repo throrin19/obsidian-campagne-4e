@@ -17,12 +17,12 @@ Lorsque vous concevez des défis de compétences, vous voulez que les joueurs ai
 
 Illustrons cela à l'aide d'un exemple de défi de compétences. Les PJ doivent traverser une forêt dangereuse remplie de morts-vivants errants et d'énergie nécromantique. Les énergies qui imprègnent la forêt font de cette traversée non seulement un effort physique, mais aussi une épreuve mentale. Il s'agit d'un défi de complexité 2, ils doivent donc accumuler six succès avant trois échecs. Vos compétences de base sont les suivantes :
 
-- Nature : la connaissance du plein air, de la flore et de la faune vous aidera à vous orienter dans la forêt.
-- Histoire : vous connaissez l'histoire des bois et savez quels repères et lieux dans la forêt vous pouvez utiliser pour vous guider.
-- Endurance : les énergies mystiques de la forêt sont épuisantes, et les joueurs doivent résister aux enchantements qui drainent leur énergie vitale. Vous voudrez rendre un ou deux de ces tests obligatoires, avec des conséquences négatives en cas d'échec.
-- Perception : vous gardez une trace précise de l'endroit où vous vous trouvez et êtes capable d'empêcher le groupe de tourner en rond.
-- Arcane : peut être utilisé pour détecter les zones d'énergie nécrotique intense à éviter.
-- Discrétion : utilisé pour éviter les morts-vivants qui errent sous la canopée de la forêt.
+- **Nature** : la connaissance du plein air, de la flore et de la faune vous aidera à vous orienter dans la forêt.
+- **Histoire** : vous connaissez l'histoire des bois et savez quels repères et lieux dans la forêt vous pouvez utiliser pour vous guider.
+- **Endurance** : les énergies mystiques de la forêt sont épuisantes, et les joueurs doivent résister aux enchantements qui drainent leur énergie vitale. Vous voudrez rendre un ou deux de ces tests obligatoires, avec des conséquences négatives en cas d'échec.
+- **Perception** : vous gardez une trace précise de l'endroit où vous vous trouvez et êtes capable d'empêcher le groupe de tourner en rond.
+- **Arcane** : peut être utilisé pour détecter les zones d'énergie nécrotique intense à éviter.
+- **Discrétion** : utilisé pour éviter les morts-vivants qui errent sous la canopée de la forêt.
 
 Une fois encore, avec ce modèle simple, nous pouvons compter sur l'improvisation narrative pour faire évoluer les joueurs dans cette scène de manière assez agréable.  S'ils échouent, ils pourraient avoir une rencontre, ou se perdre pendant quelques jours supplémentaires. Mais gardez à l'esprit que, dans l'état actuel des choses, ce défi est mécaniquement plat.  Chaque compétence, à l'exception de l'endurance, produit le même effet que les autres compétences.
 
