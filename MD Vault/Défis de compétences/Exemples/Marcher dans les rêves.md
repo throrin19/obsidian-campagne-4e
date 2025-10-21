@@ -86,5 +86,26 @@ Demandez au joueur:
 **Succès** : Vous ressentez un lien plus fort que jamais avec votre possession. +1 à votre prochain jet impliquant cet objet.
 **Échec** : La perte de connexion avec votre possession est épuisante. Perte d'une récupération.
 
+### Le garçon massacré
 
+Demandez au joueur :
+- Quelle est la pire chose que votre personnage ait jamais faite ?
+- De quoi le personnage craint-il d'être capable ?
 
+*Vous fixez un clone de vous-même en plein milieu de la pire action que vous ayez jamais commise, ou du pire dont il se croit capable. À mi-chemin, votre ombre s'arrête et vous fait signe de la rejoindre.*
+
+**Objectif**: Ne cédez pas à vos pulsions noires ! Deux succès avant deux échecs.
+**Compétences utilisées**:
+- **Tuer l'ombre (succès automatique au défi, perte de deux récupérations)** : Non seulement vous ne participerez pas, mais vous empêcherez activement votre ombre de le faire, même si cela implique votre propre destruction.
+- **Rejoindre l'ombre (échec automatique au défi)** : Ce n'est pas une ombre, c'est un miroir qui vous montre qui vous êtes vraiment.
+- **Intuition (DD modéré, maximum de deux succès)** : Vous vous comparez à votre ombre et analysez pourquoi cela ne peut pas être vous.
+- **Arcanes (DD difficile, maximum de deux succès)** : Vous concentrez votre volonté et corrigez vos actions par magie. Votre ombre bouge toujours, mais elle commence à agir selon votre volonté.
+- **Endurance (DD difficile, maximum de deux succès)** : Vous fermez les yeux et ignorez la scène. Par une détermination sans faille, vous tentez de bannir ce cauchemar de votre esprit et de votre vue.
+- **Religion (DD modéré, maximum d'un succès)** : Vous vous connectez à votre dieu pour réconcilier vos actions passées et futures.
+- **Diplomatie (DD modéré, maximum de deux succès)** : Vous parlez à cette version de vous-même et lui expliquez pourquoi ce n'est pas ce qu'elle devrait faire.
+- **Athlétisme (DD difficile, maximum d'un succès)** : Vous plaquez votre ombre au sol, dans l'espoir de lui faire entendre raison.
+- **Intimidation (DD modéré, maximum d'un succès)** : Vous menacez et déstabilisez votre ombre jusqu'à ce qu'elle se plie à votre volonté.
+**Succès** : Vous savez que quoi que vous ayez fait ou puissiez faire, vous pouvez vous améliorer. Vous avez le contrôle. +2 à votre prochain jet de sauvegarde.
+**Échec** : Ce que vous avez vécu s'infiltre profondément en vous. -2 à la défense de Volonté jusqu'à votre prochain repos prolongé.
+
+#
