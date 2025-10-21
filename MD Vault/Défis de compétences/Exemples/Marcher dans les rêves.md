@@ -21,5 +21,11 @@ Chaque séquence comprend quelques questions pour planter le décor, une descrip
 
 ### Mon bel ennemi
 
+Demandez au joueur :
+- Qui votre personnage aime-t-il le plus ?
+- Qui est son pire ennemi ?
+
+#### La scène
+
 
 
