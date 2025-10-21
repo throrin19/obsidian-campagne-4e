@@ -11,5 +11,15 @@ Le défi de compétence se déroule en deux phases. La première, « Je suis ma
 
 # Phase 1 : Je suis ma cage
 
-Les joueurs se sont aperçus, mais avant qu'ils ne puissent se rencontrer, le miasme de couleurs qui les entoure se solidifie en un décor quasi réel.
+Les joueurs se sont repérés, mais avant qu'ils ne puissent se rencontrer, le miasme de couleurs qui les entoure se solidifie en un décor quasi réel.
+
+## Cauchemars
+
+Les rêves de chaque joueur sont transformés en cauchemars surréalistes par des Hantises de Rêve. Ces Hantises se manifestent dans les séquences suivantes :
+
+Chaque séquence comprend quelques questions pour planter le décor, une description de la scène et le défi qu'elle représente. Réussir une scène compte pour deux succès pour le succès global. Chaque échec d'un PJ compte pour un demi-échec (arrondir les demi-échecs à l'inférieur). Par exemple, si deux PJ échouent à leurs tests, cela compte pour un échec pour le défi global.
+
+### Mon bel ennemi
+
+
 
