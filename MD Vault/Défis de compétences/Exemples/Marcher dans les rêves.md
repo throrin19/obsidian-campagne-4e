@@ -38,11 +38,32 @@ Demandez au joueur :
 **Succès**: La scène se dissout et vous commencez à chercher les autres membres de votre groupe.
 **Échec**: L’imagerie affolante finit par s’arrêter, mais vous restez épuisé par cette épreuve. Votre personnage est affaibli jusqu’à son prochain repos prolongé.
 
-### La jeune fille de l'échec
+### Vierge de l'échec
 
 Demandez au joueur :
 - Quelle est la meilleure compétence de votre personnage ?
 
 *Vous êtes en train d'utiliser votre compétence à un moment critique. Vous l'utilisez, mais vos mains sont maladroites, votre esprit est embrouillé. Vous êtes voué à l'échec si vous utilisez cette compétence et vous ne savez pas comment y remédier.*
 
-Objectif: 
+**Objectif**: Réussir la tâche à accomplir. deux succès avant deux échecs.
+**Compétences utilisées**:
+- **Meilleure compétence du personnage (DD difficile + 8, compte pour deux succès)** : Vous libérez votre esprit de toute distraction et vous concentrez sur la tâche à accomplir. Vous réussissez malgré les obstacles.
+- **Intuition (DD modéré, ne compte pas pour la réussite)** : Il pourrait y avoir un autre moyen d'atteindre vos objectifs… +2 au test de « deux compétences combinées ».
+- **Deux compétences combinées (DD modéré pour chaque compétence)** : Le joueur peut décrire deux compétences qui pourraient remplacer sa meilleure compétence dans cette situation. Lancez un jet pour chaque compétence contre le DD. Le désespoir est mère d'ingéniosité.
+**Réussite** : Revitalisé par votre réussite, vous gagnez en confiance en votre compétence. +2 aux jets avec cette compétence jusqu'à ce que vous quittiez le royaume des rêves.
+**Échec** : Vous doutez sérieusement de vos propres compétences. -2 aux jets avec votre meilleure compétence utilisée pour ce défi jusqu'à ce que vous quittiez le royaume des rêves.
+
+### Messager de la mort
+
+Demandez au joueur :
+- Que ressent votre personnage face à la mort ?
+- Comment votre personnage pense-t-il qu’il va mourir ?
+
+*La mort est venue vous chercher. Vous êtes au début de votre propre mort, telle que vous l'aviez toujours imaginée.*
+
+**Objectif**: Arrêtez votre propre mort ! Deux succès avant deux échecs.
+**Compétences utilisées**:
+- **Religion (DD modéré)** : Une prière adressée à votre dieu est exaucée.
+- Arcanes (DD modéré) : Les contours de ce rêve se dévoilent. Vous commencez à les observer et à le voir tel qu'il est réellement.
+Intuition (DD modéré) : La meilleure façon d'affronter la mort est d'affronter sa propre mortalité.
+Spécial : Selon le déroulement de la scène, de nombreuses autres compétences peuvent s'appliquer. De l'Acrobatie à la Guérison, tout peut être utile aux joueurs.
