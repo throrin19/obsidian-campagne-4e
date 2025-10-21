@@ -64,6 +64,23 @@ Demandez au joueur :
 **Objectif**: Arrêtez votre propre mort ! Deux succès avant deux échecs.
 **Compétences utilisées**:
 - **Religion (DD modéré)** : Une prière adressée à votre dieu est exaucée.
-- Arcanes (DD modéré) : Les contours de ce rêve se dévoilent. Vous commencez à les observer et à le voir tel qu'il est réellement.
-Intuition (DD modéré) : La meilleure façon d'affronter la mort est d'affronter sa propre mortalité.
-Spécial : Selon le déroulement de la scène, de nombreuses autres compétences peuvent s'appliquer. De l'Acrobatie à la Guérison, tout peut être utile aux joueurs.
+- **Arcanes (DD modéré)** : Les contours de ce rêve se dévoilent. Vous commencez à les observer et à le voir tel qu'il est réellement.
+- **Intuition (DD modéré)** : La meilleure façon d'affronter la mort est d'affronter sa propre mortalité.
+- **Spécial** : Selon le déroulement de la scène, de nombreuses autres compétences peuvent s'appliquer. De l'Acrobatie à la Guérison, tout peut être utile aux joueurs.
+**Succès** : Conquérir votre propre mort renforce votre santé et votre esprit. +1 en Vigueur, Réflexes et Volonté jusqu’à ce que vous quittiez le royaume des rêves.
+**Échec** : Ce n’était pas votre mort, mais vous l’avez ressentie. -1 en Vigueur, Réflexes et Volonté jusqu’à ce que vous quittiez le royaume des rêves.
+
+### La tempête du chaos
+
+Demandez au joueur:
+- Quel bien votre personnage apprécie-t-il le plus ?
+
+*Votre bien le plus précieux s’effondre en morceaux, sous vos yeux.*
+
+**Objectif**: Sauvez votre objet de la destruction. Deux succès avant deux échecs.
+**Compétences utilisées**:
+- **Arcanes (DD modéré)** : Votre propre désir détruira ce à quoi vous tenez le plus.
+- **Intuition (DD facile)** : Vous devez vous détacher de l'objet pour le sauver.
+- **Perception (DD facile)** : Vous remarquez que plus vous angoissez à cause de sa perte, plus vite il s'effondre.
+- **Athlétisme (DD modéré)** : Vous le maintenez grâce à votre force brute.
+
