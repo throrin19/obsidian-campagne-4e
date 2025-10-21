@@ -8,6 +8,7 @@ Personnages:
   - "[[Irvel Obarskyr]]"
   - "[[Ospra Plumedor]]"
   - "[[Raedra Obarskyr]]"
+  - "[[Solatha Ormefort]]"
 Niveau: "8"
 Complexité: "4"
 XP:
