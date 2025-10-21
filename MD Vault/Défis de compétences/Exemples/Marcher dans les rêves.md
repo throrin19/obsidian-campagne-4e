@@ -7,3 +7,9 @@ source: https://www.dyasdesigns.com/at-will/pages/2008/12/skill-challenge-7-walk
 **Niveau de rencontre**: niveau PJ + 3
 **Objectif** : S'échapper du royaume des rêves avant d'accumuler trois échecs. Un échec signifie que les joueurs se réveillent beaucoup plus tard que d'habitude (MJ, je laisse cela à vos machinations maléfiques !) ou se réveillent épuisés. Réussir ce défi de compétence, tout comme un échec, pourrait également mener à une nouvelle aventure dans le royaume des rêves.
 
+Le défi de compétence se déroule en deux phases. La première, « Je suis ma cage », voit chaque PJ piégé dans son propre cauchemar. La seconde, « Envolée fantastique », voit les PJ flotter dans le royaume des rêves, repoussant les créatures invoquées par les gardiens et cherchant un moyen de retourner dans le monde de l'éveil.
+
+# Phase 1 : Je suis ma cage
+
+Les joueurs se sont aperçus, mais avant qu'ils ne puissent se rencontrer, le miasme de couleurs qui les entoure se solidifie en un décor quasi réel.
+
