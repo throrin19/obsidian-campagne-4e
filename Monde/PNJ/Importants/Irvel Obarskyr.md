@@ -1,0 +1,5 @@
+Irvel Duar Palaghard Obarskyr est le fils du Roi Foril et de feu la Princesse Jemra, et le Prince Héritier du Royaume des Forêts. Un homme grand et barbu qui favorise à la fois l'apparence et l'audace des rois d'autrefois, Irvel est aimé de son peuple pour son courage, son approche accessible, et sa promesse de construire un avenir plus brillant pour Cormyr.
+
+Le Prince Héritier Irvel est le haut commandant des forces militaires de Cormyr, bien qu'il ne détienne pas le titre de Haut Maréchal. Il aime - et est aimé par - sa femme, ses enfants, ses soldats, et sa nation. Certains croient qu'il prendra le nom d'un des anciens rois de Cormyr à son couronnement éventuel, espérant refléter la dévotion que le premier Duar ou Palaghard inspira chez les habitants du Royaume des Forêts.
+
+Un homme aimable et exubérant, Irvel aime l'alcool fort (bien qu'il ne soit pas enclin à l'ivresse) et la compagnie des belles femmes. Il a juré qu'il ne brisera jamais ses vœux de mariage envers sa femme de trois décennies. Cependant, certains murmurent que le Prince Irvel interprète les points fins de ces vœux plus librement que son père ou grand-père.

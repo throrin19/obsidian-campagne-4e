@@ -16,6 +16,6 @@ aliases:
 
 Erzoured est un personnage faux, semblant aimer la famille royale mais qui la déteste secrètement au plus haut point.
 
-Erzoured est né en 1438CV d'une liaison passagère entre [[]] le frère de [[Foril Obarskyr]] et de [[Solatha]]. Son
+Erzoured est né en 1438CV d'une liaison passagère entre [[]] le frère de [[Foril Obarskyr]] et de [[Solatha Ormefort]].
 
 # Événements

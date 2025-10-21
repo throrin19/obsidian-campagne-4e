@@ -5,7 +5,7 @@ Lieu: "[[Palais Royaux]]"
 Personnages:
   - "[[Foril Obarskyr]]"
   - "[[Erzoured Obarskyr]]"
-  - "[[Irven Obarskyr]]"
+  - "[[Irvel Obarskyr]]"
   - "[[Ospra Plumedor]]"
   - "[[Raedra Obarskyr]]"
 Niveau: "8"
