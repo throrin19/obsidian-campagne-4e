@@ -25,8 +25,6 @@ Demandez au joueur :
 - Qui votre personnage aime-t-il le plus ?
 - Qui est son pire ennemi ?
 
-#### La scène
-
 *Devant vous se trouve quelqu'un que vous aimez profondément. À votre approche, votre ennemi apparaît à ses côtés et le massacre avant même que vous puissiez réagir. Vous vous approchez et il disparaît, pour réapparaître à votre gauche. Vous courez vers cette scène et le scénario se répète. Pourrez-vous supporter cette douleur ? Pourrez-vous l'empêcher de se reproduire ?*
 
 **Objectif** : Empêcher le massacre d'un être cher par votre ennemi. Deux succès avant deux échecs.
@@ -36,4 +34,7 @@ Demandez au joueur :
 - **Intuition (DD difficile +4, compte pour deux succès)** : Luttant contre vos émotions, vous réalisez que cette scène n'est pas réelle. Quelqu'un veut vous briser le moral, mais il faudra faire plus que ça.
 - **Intimidation (DD modéré)** : « Combattez ! » criez-vous à votre ennemi. Il marque une pause et vous sourit.
 - **Attaque à distance (CA: Niveau de PJ + 16, maximum de deux succès)** : Vous parcourez la distance d'une flèche bien placée, abattant votre ennemi.
-- Attaque de mêlée (CA: niveau PC CA +16, ne peut être tentée que si un test d'Arcane ou d'Athlétisme réussi a été effectué) : après avoir parcouru une distance, vous pouvez sauver celui que vous aimez.
+- **Attaque de mêlée (CA: niveauPJ +16, ne peut être tentée que si un test d'Arcane ou d'Athlétisme réussi a été effectué)** : après avoir parcouru une distance, vous pouvez sauver celui que vous aimez.
+**Succès**: La scène se dissout et vous commencez à chercher les autres membres de votre groupe.
+**Échec**: L’imagerie affolante finit par s’arrêter, mais vous restez épuisé par cette épreuve. Votre personnage est affaibli jusqu’à son prochain repos prolongé.
+
