@@ -3,8 +3,13 @@ Nom: Infiltration
 aliases:
 Lieu: "[[Palais Royaux]]"
 Personnages:
-Niveau:
-Complexité:
+  - "[[Foril Obarskyr]]"
+  - "[[Erzoured Obarskyr]]"
+  - "[[Irven Obarskyr]]"
+  - "[[Ospra Plumedor]]"
+  - "[[Raedra Obarskyr]]"
+Niveau: "8"
+Complexité: "4"
 XP:
 ---
 # Installation
