@@ -108,4 +108,24 @@ Demandez au joueur :
 **Succès** : Vous savez que quoi que vous ayez fait ou puissiez faire, vous pouvez vous améliorer. Vous avez le contrôle. +2 à votre prochain jet de sauvegarde.
 **Échec** : Ce que vous avez vécu s'infiltre profondément en vous. -2 à la défense de Volonté jusqu'à votre prochain repos prolongé.
 
-#
+# Phase 2 : Envolée fantastique
+
+*Réunis, les joueurs se regroupent et partagent leurs expériences. Cependant, ils n'ont guère le temps de se remémorer leurs souvenirs. Le Paysage Onirique est en ébullition autour d'eux.*
+
+**Objectif** : Les PJ sont pris dans un tourbillon de cauchemars et de rêves, et doivent trouver la sortie. Obtenez le reste de votre succès avant trois échecs.
+
+## Façonner la Tempête
+
+Lors du premier succès d'Arcane, les PJ prennent conscience qu'ils peuvent façonner les objets et entités qui les poursuivent dans la tempête grâce à leur esprit. Si un joueur choisit de façonner la tempête, il doit effectuer un test d'Intelligence (DD difficile + 4). Les autres PJ peuvent utiliser Aider un autre pour ce test. Un succès compte pour deux succès. Un échec inflige (Niveau de Rencontre x 5) dégâts psychiques au PJ qui tente de façonner la tempête, et tout PJ qui a aidé subit la moitié de ces dégâts.
+
+**Compétences utilisées**: 
+- **Arcanes (DD difficile, maximum de deux succès)** :
+	1. La matière des rêves est dangereuse, mais aussi malléable. Vous pouvez peut-être l'utiliser à votre avantage. Vous devez réussir pour « Façonner la Tempête ».
+	2. Vous commencez à façonner les éléments bruts du rêve à votre avantage. +2 Volonté en façonnant la tempête pour le reste du défi.
+- **Athlétisme (DD moyen, maximum de deux succès)** : Vous êtes capable de naviguer dans le chaos grâce à vos seules capacités athlétiques. Vous vous habituez très vite à cette nouvelle physique.
+- **Acrobaties (DD moyen, maximum de deux succès)** : Dans n'importe quel monde, vous êtes trop rapide et agile pour être facilement attrapé.
+- **Perception (DD difficile, maximum de deux succès)** : Vous scrutez le chaos et apercevez au loin une issue pour rejoindre le monde éveillé.
+- **Discrétion (DD difficile, maximum d'un succès)** : Pendant un temps, vous trouvez refuge dans la tempête.
+- **Endurance (DD modéré, maximum de deux succès)** : Alors que d'autres sont menacés d'être déchiquetés, vous survivez.
+**Succès** : Les joueurs s’échappent du royaume des rêves et se réveillent.
+**Échec** : Les joueurs se retrouvent piégés dans le royaume des rêves.
