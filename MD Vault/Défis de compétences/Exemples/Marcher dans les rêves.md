@@ -38,3 +38,11 @@ Demandez au joueur :
 **Succès**: La scène se dissout et vous commencez à chercher les autres membres de votre groupe.
 **Échec**: L’imagerie affolante finit par s’arrêter, mais vous restez épuisé par cette épreuve. Votre personnage est affaibli jusqu’à son prochain repos prolongé.
 
+### La jeune fille de l'échec
+
+Demandez au joueur :
+- Quelle est la meilleure compétence de votre personnage ?
+
+*Vous êtes en train d'utiliser votre compétence à un moment critique. Vous l'utilisez, mais vos mains sont maladroites, votre esprit est embrouillé. Vous êtes voué à l'échec si vous utilisez cette compétence et vous ne savez pas comment y remédier.*
+
+Objectif: 
