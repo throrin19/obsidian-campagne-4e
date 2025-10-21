@@ -1,0 +1,9 @@
+---
+source: https://www.dyasdesigns.com/at-will/pages/2008/12/skill-challenge-7-walk-through-dreams/index.php
+---
+**Scénario**: Vous dormez et rêvez. Vous voyez des gens et des lieux que vous connaissez. Le reste de votre groupe est là aussi, mais ils semblent ne pas faire partie de vos rêves. Que se passe-t-il ? Le rêve semble bien au début, mais il commence lentement à se tordre et à se déformer. Finalement, il se brise, et vous flottez au milieu de l'éther onirique. Vous pouvez souhaiter tant que vous voulez vous réveiller, mais il faudra plus que des prières et du désir pour y parvenir. Pour sortir de ce cauchemar, vous devez naviguer sur le terrain de vos propres angoisses et peurs.
+
+**Complexité**: 5 (12 succès avant trois échecs)
+**Niveau de rencontre**: niveau PJ + 3
+**Objectif** : S'échapper du royaume des rêves avant d'accumuler trois échecs. Un échec signifie que les joueurs se réveillent beaucoup plus tard que d'habitude (MJ, je laisse cela à vos machinations maléfiques !) ou se réveillent épuisés. Réussir ce défi de compétence, tout comme un échec, pourrait également mener à une nouvelle aventure dans le royaume des rêves.
+
