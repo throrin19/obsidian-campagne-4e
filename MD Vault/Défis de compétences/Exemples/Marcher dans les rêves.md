@@ -83,4 +83,8 @@ Demandez au joueur:
 - **Intuition (DD facile)** : Vous devez vous détacher de l'objet pour le sauver.
 - **Perception (DD facile)** : Vous remarquez que plus vous angoissez à cause de sa perte, plus vite il s'effondre.
 - **Athlétisme (DD modéré)** : Vous le maintenez grâce à votre force brute.
+**Succès** : Vous ressentez un lien plus fort que jamais avec votre possession. +1 à votre prochain jet impliquant cet objet.
+**Échec** : La perte de connexion avec votre possession est épuisante. Perte d'une récupération.
+
+
 
