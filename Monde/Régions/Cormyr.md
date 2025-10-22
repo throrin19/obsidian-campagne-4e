@@ -1,28 +1,16 @@
 ---
 Type: Pays
 Image: "[[Cormyr.webp]]"
+source: "Brian Cortijo, Dungeon Magazine #198, Janvier 2012"
 ---
 ![[Cormyr.webp]]
 # Histoire
-
----
-# Cormyr Royale : La Cour Royale du Royaume des Forêts
-
-_Par Brian Cortijo_  
-_Illustrations par Tony Foti et Matias Tapia_  
-_Cartographie par Jared Blando_
-
-_Traduit de Dungeon Magazine #198, Janvier 2012_
 
 ---
 
 Depuis quatorze siècles et demi, le Royaume des Forêts de Cormyr se dresse comme l'exemple le plus brillant de la civilisation humaine dans les Terres du Cœur de Faerûn. Cette terre fertile et florissante regorge d'âmes aventureuses, de grandes cités et de paysages merveilleux. À travers le royaume cependant, nobles querelleurs, marchands intrigants et magiciens assoiffés de pouvoir rivalisent tous pour le pouvoir. Seule la force de la Couronne, ses agents loyaux, et le fragile équilibre des pouvoirs à la Cour Royale ont maintenu les Obarskyr si longtemps sur le Trône du Dragon.
 
 La Cour Royale de Cormyr est un carrefour de pouvoir, d'intrigue et de statut. Ici, les nobles font avancer leurs causes devant la Couronne, tentant de prouver leur loyauté et leur utilité au roi. Pourtant en même temps, beaucoup complotent secrètement pour déposer les Obarskyr régnants en faveur de leur propre progéniture ou d'un conseil de nobles dirigeants. Malgré ces menaces permanentes, les têtes couronnées de Cormyr - avec leurs habiles Magiciens Royaux - ont maintenu leur pouvoir par la sélection soigneuse d'officiers et conseillers qui ont les meilleurs intérêts du royaume à cœur.
-
-Présentées ici sont deux incarnations distinctes de la Cour Royale : celle de la Régente d'Acier, Alusair Nacacia Obarskyr, telle qu'elle était à la Nuit d'Hiver en l'Année du Donjon Perdu (1379 DR) ; et celle du petit-neveu d'Alusair, le Roi Foril Obarskyr, exactement cent ans plus tard en l'Année de l'Éternel (1479 DR).
-
----
 
 ## Cour de la Régente d'Acier
 
