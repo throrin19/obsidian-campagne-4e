@@ -11,6 +11,8 @@ Image: "[[erzoured_obarskyr.png]]"
 aliases:
   - Vicomte de Défortune
   - Baron Ormefort
+Parents:
+  - "[[Solatha Ormefort]]"
 ---
 ![[erzoured_obarskyr.png]]
 # Description
