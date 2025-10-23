@@ -44,3 +44,16 @@ Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs a
 
 - **Objectif** : Traverser sans dommage la zone saturée de magie sauvage qui relie le tunnel au reste du palais.   Tous les membres du groupe doivent franchir la pièce.
 - Compétences principal (groupe) : Arcane / Acrobatie / Athlétisme
+- Compétences secondaires (1 utilisation maximum par PJ) : Perception / Intuition / Endurance
+- **Succès** : Le groupe traverse indemne : les flux magiques se dissipent derrière eux.
+- **Échec** : Une onde magique frappe : chacun perd **1 récupération** (sauf ceux ayant réussi Endurance). Le passage reste praticable mais instable.
+
+| Compétence     | Usage narratif                                                | Effet                                                                                         |
+| -------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Perception** | Repérer les fissures et la vibration des pierres.             | Accorde **+2** au test de groupe d’Arcanes.                                                   |
+| **Intuition**  | Sentir les “respirations” du flux magique, guider les autres. | Permet une **relance unique** du test d’Arcanes de groupe si le résultat global est un échec. |
+| **Endurance**  | Supporter les effets de la magie sauvage.                     | En cas d’échec global, celui qui réussit son jet ne perd pas de récupération.                 |
+En cas de succ`
+
+Après cette scène, les joueurs arrivent réellement dans le palais
+
