@@ -36,7 +36,11 @@ Lisez :
 - **Succès** : Les joueurs remontent la piste jusqu'aux appartements d'Erzoured
 - **Échec** : Selon le degré de réussite du défi, les joueurs sont soit expulsés du château ou emprisonnés
 
-Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs au sein du palais royal jusqu'à Arriver à Erzoured.
+Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs au sein du palais royal jusqu'à arriver à Erzoured.
 
-#### Scène 1 : La cave instable
+#### Scène 1 : La cave instable (1 succès maximum)
 
+*L’air se densifie, saturé d’une odeur d’ozone et de pierre brûlée. Des filaments d’énergie serpentent le long des murs, comme des éclairs contenus. Le sol vibre légèrement sous vos bottes.*
+
+- **Objectif** : Traverser sans dommage la zone saturée de magie sauvage qui relie le tunnel au reste du palais.   Tous les membres du groupe doivent franchir la pièce.
+- Compétences principal (groupe) : Arcane / Acrobatie / Athlétisme
