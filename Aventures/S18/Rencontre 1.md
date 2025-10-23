@@ -70,4 +70,22 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 *Derrière vous, le passage d’où vous venez est dissimulé par une lourde tenture*
 
 - **Objectif** : Se fondre dans le personnel des sous-sols pour remonter la piste du mystérieux visiteur et trouver une issue vers les étages **sans attirer l’attention**.
-- 
+- **Compétences principales** : Bluff, Diplomatie, Intimidation
+- **Compétences secondaires** (1x max par PJ) : Perception / Intuition / Discrétion
+- **Succès** : Les joueurs arrivent jusqu'à la scène suivante
+- **Échec** : Les gardes sont prévenus, redoublement des rondes
+
+| Compétence       | Usage narratif                                               | Effet en cas de réussite                                           | Échec                                                      |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| **Bluff**        | Inventer une explication crédible à leur présence.           | Le personnel les croit et continue son travail.                    | Suspicion → 1 échec global, le personnel appelle un garde. |
+| **Diplomatie**   | Parler calmement, rassurer ou convaincre de leur importance. | Le cuisinier ou un intendant les informe poliment (succès).        | Méfiance : « Attendez ici ! » → 1 échec.                   |
+| **Intimidation** | Faire taire les questions par le ton ou l’autorité.          | Le personnel obéit par peur (succès).                              | Panique : appel à la garde.                                |
+| **Perception**   | Lire les attitudes, repérer qui semble savoir quelque chose. | Accorde **+2** au jet principal.                                   | -                                                          |
+| **Intuition**    | Deviner la bonne personne à aborder, sentir qui ment.        | Accorde **+2** au jet principal.                                   | -                                                          |
+| **Discrétion**   | Imiter le personnel ou rester en retrait.                    | Réduit la gravité d’un échec (évite un appel immédiat à la garde). | -                                                          |
+
+| Résultat     | Conséquence                                                                                                                                                                       |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2 succès** | Les PJ obtiennent les deux infos : quelqu’un « étrange » est passé récemment vers les **étages nobles**, et personne ne les soupçonne.                                            |
+| **1 succès** | Soit ils obtiennent la direction, soit ils justifient leur présence, mais pas les deux : la tension reste palpable.                                                               |
+| **Échec**    | Le personnel s’alarme : des voix appellent la garde. Les PJ doivent fuir, se cacher ou se défendre → 1 échec global, -1 aux tests de Bluff et de Discrétion sur le reste du défi. |
