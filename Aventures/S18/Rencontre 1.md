@@ -93,18 +93,20 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 - S'ils décident d'emprunter le couloir, rendez-vous à la scène 4 : Couloir des valets
 - S'ils décident de prendre l'escalier, rendez-vous à la scène 5 : Appartements royaux
 
-#### Scène 3 : Les gardes (1 succès)
+#### Scène 3 : Les gardes (1 succès, peut se produire plusieurs fois)
 
 
-#### Scène 4 : Couloir des valets (1 succès)
+#### Scène 4 : Passage de valet (1 succès, peut se produire plusieurs fois)
 
 
-#### Scène 5 : Appartements royaux (1 succès)
+#### Scène 5 : Couloir des valets (1 succès)
 
-#### Scène 6 : [[Solatha Ormefort]] (1 succès)
+#### Scène 6 : Appartements royaux (1 succès)
 
-#### Scène 7 : [[Irvel Obarskyr]] et [[Ospra Plumedor]] (2 succès)
+#### Scène 7 : [[Solatha Ormefort]] (1 succès)
 
-#### Scène 8 : [[Raedra Obarskyr]] (1 succès)
+#### Scène 8 : [[Irvel Obarskyr]] et [[Ospra Plumedor]] (2 succès)
 
-#### Scène 9 : [[Foril Obarskyr]] (1 succès)
+#### Scène 9 : [[Raedra Obarskyr]] (1 succès)
+
+#### Scène 10 : [[Foril Obarskyr]] (1 succès)
