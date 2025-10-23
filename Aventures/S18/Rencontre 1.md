@@ -89,3 +89,4 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 | **2 succès** | Les PJ obtiennent les deux infos : quelqu’un « étrange » est passé récemment vers les **étages nobles**, et personne ne les soupçonne.                                            |
 | **1 succès** | Soit ils obtiennent la direction, soit ils justifient leur présence, mais pas les deux : la tension reste palpable.                                                               |
 | **Échec**    | Le personnel s’alarme : des voix appellent la garde. Les PJ doivent fuir, se cacher ou se défendre → 1 échec global, -1 aux tests de Bluff et de Discrétion sur le reste du défi. |
+- En cas d'échec : Se rendre à la scène 
