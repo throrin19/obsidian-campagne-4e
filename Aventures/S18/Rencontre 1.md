@@ -63,3 +63,11 @@ En cas d'échec, lisez :
 
 Après cette scène, les joueurs arrivent réellement dans le palais
 
+### Scène 2 : les sous-sols du palais
+
+*Les marches débouchent sur un couloir étroit, puis sur une large pièce voûtée où la chaleur et le bruit remplacent le silence des pierres. Des chaudrons fument, des marmites bouillonnent, et l’odeur du pain chaud se mêle à celle du vin épicé. Des serviteurs s’affairent : porteurs, marmitons, intendants.*
+*Aucun d’eux ne semble avoir remarqué votre arrivée, pour l’instant. Vous distinguez plusieurs portes ouvertes menant plus loin : une vers les réserves, une autre vers un escalier montant, et un dernier couloir où circulent des valets portant des plateaux d’argent.*
+*Derrière vous, le passage d’où vous venez est dissimulé par une lourde tenture*
+
+- **Objectif** : se fondre dans le personnel ou se faufiler vers les étages **sans alerter la garde**.
+- 
