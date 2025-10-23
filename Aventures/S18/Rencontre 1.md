@@ -53,7 +53,13 @@ Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs a
 | **Perception** | Repérer les fissures et la vibration des pierres.             | Accorde **+2** au test de groupe d’Arcanes.                                                   |
 | **Intuition**  | Sentir les “respirations” du flux magique, guider les autres. | Permet une **relance unique** du test d’Arcanes de groupe si le résultat global est un échec. |
 | **Endurance**  | Supporter les effets de la magie sauvage.                     | En cas d’échec global, celui qui réussit son jet ne perd pas de récupération.                 |
-En cas de succ`
+En cas de succès lisez : 
+
+*Vous avancez lentement, en suivant les pulsations invisibles de la magie. Sous vos pas, les dalles vibrent, mais se taisent aussitôt que vous les franchissez. Le dernier souffle d’énergie s’éteint dans un murmure, et la salle retombe dans le silence.*
+
+En cas d'échec, lisez : 
+
+*Une onde sourde secoue la salle. L’air se fait lourd, irrespirable, et une douleur brûlante vous traverse le corps. Puis tout redevient calme, mais chargé d’une menace muette.*
 
 Après cette scène, les joueurs arrivent réellement dans le palais
 
