@@ -28,3 +28,15 @@ Lisez :
 *À certains endroits, la pierre semble vibrer, ou même changer légèrement de teinte, comme un mirage.*
 *Devant vous, un escalier en colimaçon monte vers un mince filet de lumière et des bruits étouffés*
 
+### Défi de compétence 
+
+- **Objectif** : Poursuivre et retrouver le shadar-kaï après son entrée dans le tunnel de la tour Est.
+- **Complexité** : 5 (8 réussites avant 3 échecs).
+- **Compétences** : *Spécial*
+- **Succès** : Les joueurs remontent la piste jusqu'aux appartements d'Erzoured
+- **Échec** : Selon le degré de réussite du défi, les joueurs sont soit expulsés du château ou emprisonnés
+
+Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs au sein du palais royal jusqu'à Arriver à Erzoured.
+
+#### Scène 1 : La cave instable
+
