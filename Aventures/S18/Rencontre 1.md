@@ -63,7 +63,7 @@ En cas d'échec, lisez :
 
 Après cette scène, les joueurs arrivent réellement dans le palais
 
-### Scène 2 : Les cuisines du palais (jusqu’à 2 succès)
+#### Scène 2 : Les cuisines du palais (jusqu’à 2 succès)
 
 *Les marches débouchent sur un couloir étroit, puis sur une large pièce voûtée où la chaleur et le bruit remplacent le silence des pierres. Des chaudrons fument, des marmites bouillonnent, et l’odeur du pain chaud se mêle à celle du vin épicé. Des serviteurs s’affairent : porteurs, marmitons, intendants.*
 *Aucun d’eux ne semble avoir remarqué votre arrivée, pour l’instant. Vous distinguez plusieurs portes ouvertes menant plus loin : une vers les réserves, une autre vers un escalier montant, et un dernier couloir où circulent des valets portant des plateaux d’argent.*
@@ -92,3 +92,19 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 - En cas d'échec : Se rendre à la scène 3 : les gardes
 - S'ils décident d'emprunter le couloir, rendez-vous à la scène 4 : Couloir des valets
 - S'ils décident de prendre l'escalier, rendez-vous à la scène 5 : Appartements royaux
+
+#### Scène 3 : Les gardes (1 succès)
+
+
+#### Scène 4 : Couloir des valets (1 succès)
+
+
+#### Scène 5 : Appartements royaux (1 succès)
+
+#### Scène 6 : [[Solatha Ormefort]] (1 succès)
+
+#### Scène 7 : [[Irvel Obarskyr]] et [[Ospra Plumedor]] (2 succès)
+
+#### Scène 8 : [[Raedra Obarskyr]] (1 succès)
+
+#### Scène 9 : [[Foril Obarskyr]] (1 succès)
