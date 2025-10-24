@@ -108,7 +108,8 @@ Cette scène peut se produire plusieurs fois au cours du défi global.
 *“Euh… vous êtes… ?”*
 
 - **Objectif** : Gérer une rencontre surprise avec le personnel du palais sans éveiller la suspicion ni attirer la garde.  Cette scène représente les petits incidents du quotidien du palais : serviteurs, pages, intendants… 
-- **Compétences principales** : 
+- **Compétences principales** : Bluff, Diplomatie, Intimidation, Discrétion
+- **Compétences secondaires** : Perception, Intuition, 
 - **Succès :** Les PJ gèrent la situation sans alerter qui que ce soit → **+1 succès au défi global.**
 - **Échec :** Le personnel s’enfuit ou crie → **alerte immédiate**, déclenchement de la **Scène 3 (Les gardes)**.
 
