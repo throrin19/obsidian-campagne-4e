@@ -59,6 +59,10 @@ Effectuez les ajustements suivants au combat en fonction du nombre de PJ présen
 
 ### Tactique
 
+- En combat : les gardes **tentent d’immobiliser** les PJ plutôt que de tuer (peuvent attaquer à plat du sabre, viser les jambes, etc.).
+- Si le combat tourne mal pour eux (Sergent ou Mage à <20 PV), ils **sonnent l’alarme** et **tentent de se retirer**.
+- Si les PJ se rendent, les gardes confisquent les armes et les escortent vers les geôles, déclenchant l’échec total du défi principal.
+
 ### Mettre fin à la rencontre
 
 ### Trésors
