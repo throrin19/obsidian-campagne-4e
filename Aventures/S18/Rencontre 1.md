@@ -109,10 +109,31 @@ Cette scène peut se produire plusieurs fois au cours du défi global.
 
 - **Objectif** : Gérer une rencontre surprise avec le personnel du palais sans éveiller la suspicion ni attirer la garde.  Cette scène représente les petits incidents du quotidien du palais : serviteurs, pages, intendants… 
 - **Compétences principales** : Bluff, Diplomatie, Intimidation, Discrétion
-- **Compétences secondaires** : Perception, Intuition, 
+- **Compétences secondaires** : Perception, Intuition
 - **Succès :** Les PJ gèrent la situation sans alerter qui que ce soit → **+1 succès au défi global.**
 - **Échec :** Le personnel s’enfuit ou crie → **alerte immédiate**, déclenchement de la **Scène 3 (Les gardes)**.
 
+| Compétence       | Usage narratif                                                                          | Réussite                                                           | Échec                                              |
+| ---------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| **Bluff**        | Trouver une excuse rapide (“inspection”, “message du chancelier”, “nettoyage spécial”). | Le valet croit l’histoire et s’éloigne, confus.                    | Il panique et s’enfuit en criant.                  |
+| **Diplomatie**   | Calmer la situation, parler avec assurance.                                             | Le personnel se retire poliment, croyant à une mission officielle. | Trop de nervosité : “Je vais prévenir quelqu’un !” |
+| **Intimidation** | Faire taire les valets par le ton.                                                      | Ils obéissent, baissent la tête, n’osent pas bouger.               | Un d’eux tremble et détale à toutes jambes.        |
+
+|           |                                                                                         |                                                 |                                   |
+| --------- | --------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------- |
+| **Bluff** | Trouver une excuse rapide (“inspection”, “message du chancelier”, “nettoyage spécial”). | Le valet croit l’histoire et s’éloigne, confus. | Il panique et s’enfuit en criant. |
+
+|                |                                             |                                                                    |                                                    |
+| -------------- | ------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| **Diplomatie** | Calmer la situation, parler avec assurance. | Le personnel se retire poliment, croyant à une mission officielle. | Trop de nervosité : “Je vais prévenir quelqu’un !” |
+
+|                  |                                    |                                                      |                                             |
+| ---------------- | ---------------------------------- | ---------------------------------------------------- | ------------------------------------------- |
+| **Intimidation** | Faire taire les valets par le ton. | Ils obéissent, baissent la tête, n’osent pas bouger. | Un d’eux tremble et détale à toutes jambes. |
+
+|                |                                               |                           |                              |
+| -------------- | --------------------------------------------- | ------------------------- | ---------------------------- |
+| **Discrétion** | Éviter la rencontre, se fondre dans le décor. | Les PJ passent inaperçus. | Bruit, maladresse — repérés. |
 #### Scène 5 : Couloir des valets (1 succès)
 
 #### Scène 6 : Appartements royaux (1 succès)
