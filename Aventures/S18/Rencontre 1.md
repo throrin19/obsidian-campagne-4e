@@ -96,8 +96,21 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 #### Scène 3 : Les gardes (1 succès, peut se produire plusieurs fois)
 
 
+Éviter que les Dragons Pourpres ou les gardes du palais n’interviennent ou ne donnent l’alerte après avoir croisé les PJ.  
+
+Plus de détails dans la [[Rencontre 2]]
+
+Cette scène peut se produire plusieurs fois au cours du défi global.
+
 #### Scène 4 : Passage de valet (1 succès, peut se produire plusieurs fois)
 
+*Un jeune valet surgit d’un couloir adjacent, les bras chargés de linge. Il s’arrête net, vous regarde, écarquille les yeux.*  
+*“Euh… vous êtes… ?”*
+
+- **Objectif** : Gérer une rencontre surprise avec le personnel du palais sans éveiller la suspicion ni attirer la garde.  Cette scène représente les petits incidents du quotidien du palais : serviteurs, pages, intendants… 
+- **Compétences principales** : 
+- **Succès :** Les PJ gèrent la situation sans alerter qui que ce soit → **+1 succès au défi global.**
+- **Échec :** Le personnel s’enfuit ou crie → **alerte immédiate**, déclenchement de la **Scène 3 (Les gardes)**.
 
 #### Scène 5 : Couloir des valets (1 succès)
 
