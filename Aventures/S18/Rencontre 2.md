@@ -47,9 +47,9 @@ Les Dragons Pourpres ne sont pas hostiles d’emblée, mais leur devoir est clai
 ### Créatures
 
 Cette rencontre inclut les créatures suivantes :
-- 4 dragons pourpres
-- 1 Mage de guerre
-- 1 Sergent
+- 4 dragons pourpres (lv 5)
+- 1 Mage de guerre (lv 6)
+- 1 Sergent (lv 6)
 ### Échelle de rencontre
 
 Effectuez les ajustements suivants au combat en fonction du nombre de PJ présents.
