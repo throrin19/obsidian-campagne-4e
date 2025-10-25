@@ -2,7 +2,7 @@
 Nom: Les gardes
 Lieu: "[[Palais Royaux]]"
 Niveau: "6"
-XP:
+XP: 1100px (combat) ; 250px (défi)
 aliases:
 Personnages:
 Complexité: 1 (4 réussites avant 3 échecs)
@@ -47,9 +47,9 @@ Les Dragons Pourpres ne sont pas hostiles d’emblée, mais leur devoir est clai
 ### Créatures
 
 Cette rencontre inclut les créatures suivantes :
-- 4 dragons pourpres (lv 5)
-- 1 Mage de guerre (lv 6)
-- 1 Sergent (lv 6)
+- 3 dragons pourpres
+- 1 Mage de guerre
+- 1 Sergent
 ### Échelle de rencontre
 
 Effectuez les ajustements suivants au combat en fonction du nombre de PJ présents.
