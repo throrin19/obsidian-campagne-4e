@@ -4,7 +4,7 @@ Race: Humain
 Alignement: Loyal Bon
 Statut: Vivant
 Relation: Inconnu
-Image:
+Image: "[[raedra_obarskyr.webp]]"
 Profession: Princesse
 Lieu: "[[Palais Royaux]]"
 Ville/Village: "[[Suzail]]"
@@ -12,6 +12,7 @@ Parents:
   - "[[Irvel Obarskyr]]"
   - "[[Ospra Plumedor]]"
 ---
+![[raedra_obarskyr.webp]]
 # Description
 
 Pas encore âgée de vingt ans, la Princesse Raedra Obarskyr est une figure de grand intérêt pour les maisons nobles à travers Cormyr. Le second enfant du Prince Héritier Irvel et la Princesse Ospra, elle est la première fille née à la Maison Obarskyr en plus d'un siècle. Une femme de grande beauté, elle est dite posséder l'intellect de Tanalasta, le charme de Filfaeril, la stratégie d'Alusair, le tempérament de Gantharla, première Reine de Cormyr, et le bras à l'épée d'Enchara la reine guerrière. (Le dernier n'est pas strictement vrai, puisque Raedra préfère la rapière aux lames plus lourdes quand elle s'entraîne.)
