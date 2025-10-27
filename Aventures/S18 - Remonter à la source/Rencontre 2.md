@@ -98,7 +98,7 @@ Après cette scène, les joueurs arrivent réellement dans le palais
 
 Éviter que les Dragons Pourpres ou les gardes du palais n’interviennent ou ne donnent l’alerte après avoir croisé les PJ.  
 
-Plus de détails dans la [[Aventures/S18/Rencontre 3]]
+Plus de détails dans la [[Aventures/S18 - Remonter à la source/Rencontre 3]]
 
 Cette scène peut se produire plusieurs fois au cours du défi global.
 
