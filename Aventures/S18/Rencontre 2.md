@@ -1,68 +1,154 @@
 ---
-Nom: Les gardes
-Lieu: "[[Palais Royaux]]"
-Niveau: "6"
-XP: 1100px (combat) ; 250px (défi)
+Nom: Infiltration
 aliases:
+  - "Rencontre 1 : Infiiltration"
+Lieu: "[[Palais Royaux]]"
 Personnages:
-Complexité: 1 (4 réussites avant 3 échecs)
+  - "[[Foril Obarskyr]]"
+  - "[[Irvel Obarskyr]]"
+  - "[[Ospra Plumedor]]"
+  - "[[Raedra Obarskyr]]"
+  - "[[Solatha Ormefort]]"
+  - "[[Erzoured Obarskyr]]"
+Niveau: "8"
+Complexité: 5 (8 réussites avant 3 échecs).
+XP:
 ---
-# Installation
+### Installation
 
-_Des bruits de pas résonnent dans le couloir : lourds, cadencés, assurés._  
-_Un éclat métallique vous parvient alors qu’une patrouille de Dragons Pourpres tourne l’angle, torche haute, visière relevée._
-_Leurs armures reflètent la lumière vacillante, projetant des reflets rouge sombre sur les murs de marbre. Leurs regards se posent aussitôt sur vous, méfiants._
-**“Hé, vous là ! Halte ! Identifiez-vous !”**
-_Ils s’avancent d’un pas, la main sur la garde de leur épée. Difficile de savoir combien de temps vous avez avant que le ton monte._
+Après le tunnel, les joueurs débouchent sur ce qui semble être une cave ancienne, abandonnée mais avec une atmosphère lourde, emplie d'une magie incontrôlable. En effet, les joueurs viennent d'arriver aux palais royaux et la zone est normalement protégée par un puissant sort de protection. Malheureusement, depuis la magepeste, le sort est devenu instable et même dangereux pour quiconque traverse cette zone.
 
-Cette scène peut se produire :
+Ensuite, les joueurs vont devoir se frayer un chemin dans le palais jusqu'à réussir à remonter la piste du mystérieux visiteur sans trop se faire remarquer : des personnages dangereusement armés traversant les appartements de la famille royale devraient se faire arrêter rapidement.
 
-- après un échec ou une erreur de discrétion,
-- après un échec à la scène 4 (alerte du personnel),
-- ou simplement parce que les PJ croisent une patrouille au détour d’un couloir noble.
+Lisez : 
 
-Les Dragons Pourpres ne sont pas hostiles d’emblée, mais leur devoir est clair :  
-**aucune personne armée ne circule dans cette partie du palais sans autorisation.**
+*Le tunnel s’ouvre sur une vaste salle de pierre, éclairée seulement par une fissure dans le plafond où s’infiltre la lumière du jour.*
+*Des poussières dorées flottent dans l’air, comme suspendues. Quand vous bougez trop vite, elles frémissent.*
+*Vous sentez que cet endroit n’a pas été foulé depuis longtemps. L’atmosphère est étrange : ni hostile, ni sûre.*
+*À certains endroits, la pierre semble vibrer, ou même changer légèrement de teinte, comme un mirage.*
+*Devant vous, un escalier en colimaçon monte vers un mince filet de lumière et des bruits étouffés*
 
-### Défi de compétences 
+### Défi de compétence 
 
-- **Objectif** : Éviter que les Dragons Pourpres ou les gardes du palais n’interviennent ou ne donnent l’alerte après avoir croisé les PJ.
-- **Complexité :** 1 (4 réussites avant 3 échecs)
+- **Objectif** : Poursuivre et retrouver le shadar-kaï après son entrée dans le tunnel de la tour Est.
+- **Complexité** : 5 (8 réussites avant 3 échecs).
+- **Compétences** : *Spécial*
+- **Succès** : Les joueurs remontent la piste jusqu'aux appartements d'Erzoured
+- **Échec** : Selon le degré de réussite du défi, les joueurs sont soit expulsés du château ou emprisonnés
+
+Ce défi est découpé en plusieurs scènes retraçant le parcours des joueurs au sein du palais royal jusqu'à arriver à Erzoured.
+
+#### Scène 1 : La cave instable (1 succès maximum)
+
+*L’air se densifie, saturé d’une odeur d’ozone et de pierre brûlée. Des filaments d’énergie serpentent le long des murs, comme des éclairs contenus. Le sol vibre légèrement sous vos bottes.*
+
+- **Objectif** : Traverser sans dommage la zone saturée de magie sauvage qui relie le tunnel au reste du palais.   Tous les membres du groupe doivent franchir la pièce.
+- Compétences principal (groupe) : Arcane / Acrobatie / Athlétisme
+- Compétences secondaires (1 utilisation maximum par PJ) : Perception / Intuition / Endurance
+- **Succès** : Le groupe traverse indemne : les flux magiques se dissipent derrière eux.
+- **Échec** : Une onde magique frappe : chacun perd **1 récupération** (sauf ceux ayant réussi Endurance). Le passage reste praticable mais instable.
+
+| Compétence     | Usage narratif                                                | Effet                                                                                         |
+| -------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Perception** | Repérer les fissures et la vibration des pierres.             | Accorde **+2** au test de groupe d’Arcanes.                                                   |
+| **Intuition**  | Sentir les “respirations” du flux magique, guider les autres. | Permet une **relance unique** du test d’Arcanes de groupe si le résultat global est un échec. |
+| **Endurance**  | Supporter les effets de la magie sauvage.                     | En cas d’échec global, celui qui réussit son jet ne perd pas de récupération.                 |
+En cas de succès lisez : 
+
+*Vous avancez lentement, en suivant les pulsations invisibles de la magie. Sous vos pas, les dalles vibrent, mais se taisent aussitôt que vous les franchissez. Le dernier souffle d’énergie s’éteint dans un murmure, et la salle retombe dans le silence.*
+
+En cas d'échec, lisez : 
+
+*Une onde sourde secoue la salle. L’air se fait lourd, irrespirable, et une douleur brûlante vous traverse le corps. Puis tout redevient calme, mais chargé d’une menace muette.*
+
+Après cette scène, les joueurs arrivent réellement dans le palais
+
+#### Scène 2 : Les cuisines du palais (jusqu’à 2 succès)
+
+*Les marches débouchent sur un couloir étroit, puis sur une large pièce voûtée où la chaleur et le bruit remplacent le silence des pierres. Des chaudrons fument, des marmites bouillonnent, et l’odeur du pain chaud se mêle à celle du vin épicé. Des serviteurs s’affairent : porteurs, marmitons, intendants.*
+*Aucun d’eux ne semble avoir remarqué votre arrivée, pour l’instant. Vous distinguez plusieurs portes ouvertes menant plus loin : une vers les réserves, une autre vers un escalier montant, et un dernier couloir où circulent des valets portant des plateaux d’argent.*
+*Derrière vous, le passage d’où vous venez est dissimulé par une lourde tenture*
+
+- **Objectif** : Se fondre dans le personnel des sous-sols pour remonter la piste du mystérieux visiteur et trouver une issue vers les étages **sans attirer l’attention**.
+- **Compétences principales** : Bluff, Diplomatie, Intimidation
+- **Compétences secondaires** (1x max par PJ) : Perception / Intuition / Discrétion
+- **Succès** : Les joueurs arrivent jusqu'à la scène suivante
+- **Échec** : Les gardes sont prévenus, redoublement des rondes
+
+| Compétence       | Usage narratif                                               | Effet en cas de réussite                                           | Échec                                                      |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| **Bluff**        | Inventer une explication crédible à leur présence.           | Le personnel les croit et continue son travail.                    | Suspicion → 1 échec global, le personnel appelle un garde. |
+| **Diplomatie**   | Parler calmement, rassurer ou convaincre de leur importance. | Le cuisinier ou un intendant les informe poliment (succès).        | Méfiance : « Attendez ici ! » → 1 échec.                   |
+| **Intimidation** | Faire taire les questions par le ton ou l’autorité.          | Le personnel obéit par peur (succès).                              | Panique : appel à la garde.                                |
+| **Perception**   | Lire les attitudes, repérer qui semble savoir quelque chose. | Accorde **+2** au jet principal.                                   | -                                                          |
+| **Intuition**    | Deviner la bonne personne à aborder, sentir qui ment.        | Accorde **+2** au jet principal.                                   | -                                                          |
+| **Discrétion**   | Imiter le personnel ou rester en retrait.                    | Réduit la gravité d’un échec (évite un appel immédiat à la garde). | -                                                          |
+
+| Résultat     | Conséquence                                                                                                                                                                       |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2 succès** | Les PJ obtiennent les deux infos : quelqu’un « étrange » est passé récemment vers les **étages nobles**, et personne ne les soupçonne.                                            |
+| **1 succès** | Soit ils obtiennent la direction, soit ils justifient leur présence, mais pas les deux : la tension reste palpable.                                                               |
+| **Échec**    | Le personnel s’alarme : des voix appellent la garde. Les PJ doivent fuir, se cacher ou se défendre → 1 échec global, -1 aux tests de Bluff et de Discrétion sur le reste du défi. |
+- En cas d'échec : Se rendre à la scène 3 : les gardes
+- S'ils décident d'emprunter le couloir, rendez-vous à la scène 4 : Couloir des valets
+- S'ils décident de prendre l'escalier, rendez-vous à la scène 5 : Appartements royaux
+
+#### Scène 3 : Les gardes (1 succès, peut se produire plusieurs fois)
+
+
+Éviter que les Dragons Pourpres ou les gardes du palais n’interviennent ou ne donnent l’alerte après avoir croisé les PJ.  
+
+Plus de détails dans la [[Aventures/S18/Rencontre 3]]
+
+Cette scène peut se produire plusieurs fois au cours du défi global.
+
+#### Scène 4 : Passage de valet (1 succès, peut se produire plusieurs fois)
+
+*Un jeune valet surgit d’un couloir adjacent, les bras chargés de linge. Il s’arrête net, vous regarde, écarquille les yeux.*  
+*“Euh… vous êtes… ?”*
+
+- **Objectif** : Gérer une rencontre surprise avec le personnel du palais sans éveiller la suspicion ni attirer la garde.  Cette scène représente les petits incidents du quotidien du palais : serviteurs, pages, intendants… 
 - **Compétences principales** : Bluff, Diplomatie, Intimidation, Discrétion
-- **Compétences secondaires** : Perception, Intuition, Histoire
-- **Succès :** Les gardes sont dupés, calmés ou intimidés → +1 succès au défi global.
-- **Échec :** Les gardes attaquent (combat). Peu importe l’issue du combat : cela compte pour **1 échec global**.
-- Si les PJ **perdent le combat**, le **défi principal est un échec total** (capture immédiate).
+- **Compétences secondaires** : Perception, Intuition
+- **Succès :** Les PJ gèrent la situation sans alerter qui que ce soit → **+1 succès au défi global.**
+- **Échec :** Le personnel s’enfuit ou crie → **alerte immédiate**, déclenchement de la **Scène 3 (Les gardes)**.
 
-| Compétence       | Usage narratif                                                | Réussite                                        | Échec                                               |
-| ---------------- | ------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| **Bluff**        | Donner une explication crédible à leur présence.              | Les gardes doutent, mais ne réagissent pas.     | Un garde appelle un supérieur.                      |
-| **Diplomatie**   | Calmer le ton, évoquer une mission légitime.                  | Les gardes se détendent et les laissent passer. | Les gardes deviennent suspicieux.                   |
-| **Intimidation** | Imposer le respect ou la peur.                                | Les gardes reculent, pas envie d’un scandale.   | L’un d’eux réagit violemment, la main sur la garde. |
-| **Discrétion**   | Se cacher, éviter la patrouille.                              | Les PJ restent invisibles.                      | Un bruit attire leur attention.                     |
-| **Perception**   | Repérer la patrouille avant qu’elle ne voie les PJ.           | +2 au premier jet du groupe.                    | -                                                   |
-| **Intuition**    | Identifier le chef de patrouille, comprendre sa personnalité. | +2 sur Bluff, Diplomatie ou Intimidation.       | -                                                   |
-| **Histoire**     | Employer les bons titres ou protocole militaire.              | +2 sur Bluff ou Diplomatie.                     |                                                     |
+| Compétence       | Usage narratif                                                                          | Réussite                                                           | Échec                                              |
+| ---------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------- |
+| **Bluff**        | Trouver une excuse rapide (“inspection”, “message du chancelier”, “nettoyage spécial”). | Le valet croit l’histoire et s’éloigne, confus.                    | Il panique et s’enfuit en criant.                  |
+| **Diplomatie**   | Calmer la situation, parler avec assurance.                                             | Le personnel se retire poliment, croyant à une mission officielle. | Trop de nervosité : “Je vais prévenir quelqu’un !” |
+| **Intimidation** | Faire taire les valets par le ton.                                                      | Ils obéissent, baissent la tête, n’osent pas bouger.               | Un d’eux tremble et détale à toutes jambes.        |
+| **Discrétion**   | Éviter la rencontre, se fondre dans le décor.                                           | Les PJ passent inaperçus.                                          | Bruit, maladresse — repérés.                       |
+| Perception       | Voir le valet avant qu’il ne voie les PJ.                                               | +2 au premier test de compétence.                                  | -                                                  |
+| **Intuition**    | Sentir la peur ou la docilité du personnel.                                             | +2 sur Bluff ou Diplomatie.                                        | -                                                  |
 
-### Créatures
+- En cas d'échec : Se rendre à la scène 3 : les gardes
 
-Cette rencontre inclut les créatures suivantes :
-- 3 dragons pourpres
-- 1 Mage de guerre
-- 1 Sergent
-### Échelle de rencontre
+#### Scène 5 : Couloir des nobles (1 succès)
 
-Effectuez les ajustements suivants au combat en fonction du nombre de PJ présents.
-- Quatre PJ : retirez 1 dragon pourpre
-- Six PJ : ajoutez 1 dragon pourpre
-### Caractéristiques de la zone
+*Vous quittez les couloirs de service pour entrer dans un espace plus raffiné.  
+Le sol est couvert de tapis de laine pourpre, les murs décorés de blasons argentés différents.  
+Les conversations sont rares, mais les chuchotements et le froissement des étoffes se devinent derrière les portes closes.*
 
-### Tactique
+- **Objectif** : Poursuivre la piste du shadar-kaï à travers l’aile des nobles sans attirer l’attention,  
+en cherchant des indices matériels ou de comportement qui confirment sa direction.
+- **Compétences principales** :  Perception, Exploration
+- **Compétences secondaires** : Histoire, Intuition
+- **Succès :** Les PJ suivent la trace du shadar-kaï jusqu’à la fin du couloir, partant vers l'aile des appartements royaux
+- **Échec :** Les PJ perdent la trace :les signes deviennent trop anciens pour être fiables.  Au détour d’une porte qui s’ouvre, un serviteur surpris les aperçoit : Lancement de la scène 4.
 
-- En combat : les gardes **tentent d’immobiliser** les PJ plutôt que de tuer (peuvent attaquer à plat du sabre, viser les jambes, etc.).
-- Si le combat tourne mal pour eux (Sergent ou Mage à <20 PV), ils **sonnent l’alarme** et **tentent de se retirer**.
-- Si les PJ se rendent, les gardes confisquent les armes et les escortent vers les geôles, déclenchant l’échec total du défi principal.
+| Compétence      | Utilisation                                                                                          | Résultat                                                                                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Perception      | Examiner les détails du couloir : traces de pas, marques récentes, odeur d’huile ou d’armes.         | Les PJ trouvent des traces de pas légers, laissant penser que leur cible a emprunté ce passage récemment. La piste se poursuit vers le fond du couloir.   |
+| **Exploration** | Fouiller les alentours méthodiquement, observer les portes et les alentours sans se faire remarquer. | Les PJ notent que certaines portes ont été ouvertes récemment — notamment celle portant un **blason en forme de tour stylisée** : la **maison Ormefort**. |
+| Histoire        | Identifier les blasons sur les portes et les noms familiaux.                                         | Donne +2 à Perception ou Exploration. Permet aussi d'accéder à la scène 7 : Solatha Ormefort.                                                             |
+| Intuition       | Sentir où la présence du shadar-kaï aurait pu marquer un trouble ou un passage inhabituel.           | Donne +2 à Perception ou Exploration (les PJ “sentent” la bonne direction).                                                                               |
+#### Scène 6 : Appartements royaux (1 succès)
 
-### Mettre fin à la rencontre
+#### Scène 7 : [[Solatha Ormefort]] (1 succès)
 
-### Trésors
+#### Scène 8 : [[Irvel Obarskyr]] et [[Ospra Plumedor]] (2 succès)
+
+#### Scène 9 : [[Raedra Obarskyr]] (1 succès)
+
+#### Scène 10 : [[Foril Obarskyr]] (1 succès)

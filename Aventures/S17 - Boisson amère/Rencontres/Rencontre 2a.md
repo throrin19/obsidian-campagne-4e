@@ -45,5 +45,5 @@ Après cette rencontre, les joueurs doivent se douter que [[Rémi Hautmont]] est
 
 Les joueurs ont les choix suivants : 
 - Ils peuvent se rendre à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 2b|Rencontre 2b : Épreuve des couteaux]], pour essayer d'obtenir des informations supplémentaires.
-- Ils peuvent se rendre aussi à la [[Rencontre 3|Rencontre 3a : La guilde des tisserands]]
+- Ils peuvent se rendre aussi à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 3|Rencontre 3a : La guilde des tisserands]]
 - Ils peuvent revenir dans la chambre récupérer la bouteille et la ramener à Rivan, confirmant qu'elle était bien empoisonnée.
