@@ -143,12 +143,86 @@ en cherchant des indices matériels ou de comportement qui confirment sa directi
 | **Exploration** | Fouiller les alentours méthodiquement, observer les portes et les alentours sans se faire remarquer. | Les PJ notent que certaines portes ont été ouvertes récemment — notamment celle portant un **blason en forme de tour stylisée** : la **maison Ormefort**. |
 | Histoire        | Identifier les blasons sur les portes et les noms familiaux.                                         | Donne +2 à Perception ou Exploration. Permet aussi d'accéder à la scène 7 : Solatha Ormefort.                                                             |
 | Intuition       | Sentir où la présence du shadar-kaï aurait pu marquer un trouble ou un passage inhabituel.           | Donne +2 à Perception ou Exploration (les PJ “sentent” la bonne direction).                                                                               |
-#### Scène 6 : Appartements royaux (1 succès)
+#### Scène 6 : Appartements royaux (1 succès, plusieurs fois)
 
+*Vous franchissez une arche monumentale gardée par des bannières aux dragons pourpres.*  
+*Ici, la richesse se fait presque silencieuse : tapis de velours, dorures mates, parfums légers.*
+*Le pourpre est partout.*
+*La lumière, diffuse et chaude, glisse sur des tentures représentant la lignée des Obarskyr.*
+*Les pas d’une patrouille de Dragons Pourpres résonnent régulièrement,  
+leur cadence réglée comme une horloge.  
+Il n’y a presque aucun endroit où se dissimuler : seulement quelques alcôves étroites,  
+ou les portes massives des appartements royaux.*
+
+- **Objectif** : Poursuivre la trace du shadar-kaï au cœur de la zone royale sans se faire repérer,  
+et comprendre vers qui, ou quoi, il se dirigeait.
+- **Compétences principales** :  Discrétion (Groupe)
+- **Compétences secondaires** : Perception, Exploration, Intuition
+- **Succès :** Les PJ parviennent à traverser l’aile sans éveiller la méfiance des gardes.
+- **Échec :** Les PJ doivent se réfugier dans une suite (débloque la scène 8, 9 ou 10), ou décident d'affronter les gardes (scène 3)
+
+| Compétence      | Utilisation                                                                                                            | Résultat                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Discrétion**  | Avancer entre les rondes, retenir sa respiration derrière un pilier, ou franchir une porte avant qu’un garde ne passe. | Les PJ évitent d’être vus et progressent prudemment dans le couloir. |
+| **Perception**  | Repérer les mouvements des patrouilles ou les zones d’ombre.                                                           | Donne un bonus de +2 au test de Discrétion pour l'ensemble du groupe |
+| **Exploration** | Analyser la structure du couloir et anticiper les rondes.                                                              | Donne +2 à un PJ en Discrétion.                                      |
+| **Intuition**   | Ressent que les gardes sont fatigués, en fin de service                                                                | Donne un bonus de +2 au test de Discrétion pour l'ensemble du groupe |
+En cas d'échec les PJ doivent choisir : soit se cacher dans un appartement, soit affronter les gardes. S'ils choisissent de se cacher dans un appartement, lancez un D6 et sélectionnez la scène correspondant au résultat. S’ils ont déjà exploré cette aile, relancez 1d6 jusqu’à obtenir une suite non encore visitée. : 
+
+| D6    | Scène cible              |
+| ----- | ------------------------ |
+| 1 - 2 | Scène 8 : Irvel et Ospra |
+| 3 - 4 | Scène 9 : Raedra         |
+| 5 - 6 | Scène 10 : Foril         |
+À chaque fois que les joueurs sortent d'un appartement pour reprendre leurs recherches, ils doivent rejouer la scène 6.
 #### Scène 7 : [[Solatha Ormefort]] (1 succès)
 
+Rencontre sociale. Il suffit de montrer patte blanche pour débloquer la possibilité de discuter avec Solatha et en apprendre plus sur l'histoire d'Erzoured. Voir la Rencontre 4a.
+
+À la fin de la rencontre, reprenez où vous en étiez à la *Scène 5*
 #### Scène 8 : [[Irvel Obarskyr]] et [[Ospra Plumedor]] (2 succès)
+
+Rencontre sociale. Il suffit de montrer patte blanche pour débloquer la possibilité de discuter avec Irvel et Ospra et en apprendre plus sur la famille royale et l'état actuel du roi. Voir la Rencontre 4b.
+
+À la fin de la rencontre, reprenez à la *Scène 6*
 
 #### Scène 9 : [[Raedra Obarskyr]] (1 succès)
 
+Rencontre sociale. Il suffit de montrer patte blanche pour débloquer la possibilité de discuter avec Raedra et en apprendre plus sur la famille royale et l'état actuel du roi. Voir la Rencontre 4c.
+
+À la fin de la rencontre, reprenez à la *Scène 6*
+
 #### Scène 10 : [[Foril Obarskyr]] (1 succès)
+
+Rencontre sociale. Il suffit de montrer patte blanche pour débloquer la possibilité de discuter avec Foril et en apprendre plus sur la famille royale et l'état actuel du roi. Voir la Rencontre 4d
+
+À la fin de la rencontre, reprenez à la *Scène 6*
+
+### Mettre fin à la rencontre
+
+En cas d'échec, les joueurs ont trop attirés l'attention, des gardes arrivent de toutes les issues possibles pour les arrêter. Ils sont en beaucoup trop grand nombre pour que les joueurs tentent quoi que ce soit. Lisez : 
+
+_Un grincement d’armure. Puis deux.  Les bruits de bottes se multiplient dans tous les couloirs à la fois.  Les torches vacillent sous les courants d’air, projetant sur les murs les ombres de dizaines de Dragons Pourpres approchant._
+_Des ordres claquent :_  
+« **Encerclez-les !** »  
+« **Personne ne franchit cette partie du palais sans autorisation du roi !** »
+
+_En un instant, les issues sont bloquées.  Des lames étincellent sous les flammes tremblantes, formant un cercle de pointes et de capes rouges.  Les mages de guerre, en retrait, tiennent leurs symboles d’obsidienne prêts à lancer leurs sorts._
+
+_Une voix forte s’élève, résonnant contre les murs de marbre :_  
+**« Au nom du Roi Foril Obarskyr, déposez vos armes et suivez-nous sans résistance ! »**
+
+
+Rendez-vous à la Rencontre 6 : Arrestation.
+
+En cas de succès, les joueurs continuent la traversé de l'aile des appartements royaux jusqu'à tomber devant la porte d'un appartement ayant toutes les traces de leur mystérieux agent. Lisez :
+
+_Le couloir s’étire dans un silence presque sacré. Vous avancez avec précaution, chaque pas absorbé par les tapis de velours pourpre. Les patrouilles se sont éloignées, et l’air semble plus lourd, saturé d’un parfum de cire chaude et d’encens noble._
+
+_Devant vous, une grande porte à double battant se détache du reste du couloir.  Autour du seuil, la poussière a été déplacée.  Une empreinte légère, presque effacée, marque le tapis juste devant. La même forme de pas que celle de votre mystérieux agent._
+
+_De l’autre côté de la porte, un murmure : deux voix, calmes, mais basses, feutrées.  
+L’une, assurée, familière à qui a déjà entendu un noble parler à un serviteur.  
+L’autre, plus grave, au ton neutre et mesuré…_
+
+Rendez-vous à la Rencontre 5 : Confrontation

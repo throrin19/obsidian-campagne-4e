@@ -30,7 +30,7 @@ Les Dragons Pourpres ne sont pas hostiles d’emblée, mais leur devoir est clai
 - **Complexité :** 1 (4 réussites avant 3 échecs)
 - **Compétences principales** : Bluff, Diplomatie, Intimidation, Discrétion
 - **Compétences secondaires** : Perception, Intuition, Histoire
-- **Succès :** Les gardes sont dupés, calmés ou intimidés → +1 succès au défi global.
+- **Succès :** Les gardes sont dupés, calmés ou intimidés → +1 succès au défi global (non cumulable).
 - **Échec :** Les gardes attaquent (combat). Peu importe l’issue du combat : cela compte pour **1 échec global**.
 - Si les PJ **perdent le combat**, le **défi principal est un échec total** (capture immédiate).
 
