@@ -93,4 +93,4 @@ _Il peut ajouter si les PJ pressent :_
 Les joueurs repartent normalement avec les informations suivantes : 
 
 - Rémi ne semblait pas transporter que des échantillons de tissus dans sa malle. Dans ce cas ils peuvent aller à l'auberge revérifier la malle s'ils n'ont pas découvert le double fond. Allez à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 1|Rencontre 1 : Scène de crime]]
-- Ils ont découvert le nom de [[Vireille Daravan]] et veulent aller l'interroger. S'ils savent où la trouver, ils peuvent directement se rendre à la [[Rencontre 4]].
+- Ils ont découvert le nom de [[Vireille Daravan]] et veulent aller l'interroger. S'ils savent où la trouver, ils peuvent directement se rendre à la [[Aventures/S17 - Boisson amère/Rencontres/Rencontre 4]].
