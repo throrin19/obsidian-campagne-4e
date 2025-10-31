@@ -88,12 +88,18 @@ _Quand ils vous aperçoivent, leurs réactions diffèrent : méfiance chez lui, 
 | **Diplomatie (DD 16)**             | Se présenter calmement, évoquer un malentendu ou un service rendu à la cour.     | Irvel reste sur la défensive mais écoute                                             |
 | **Bluff (DD 18)**                  | Inventer une raison crédible pour être ici (messagers, porteurs d’un pli, etc.). | Ospra les croit un instant                                                           |
 | **Intuition (DD 17)**              | Lire leurs émotions : inquiétude, tension, fatigue.                              | Donne +2 à Diplomatie ou Bluff                                                       |
-| **Histoire (DD 15)**               | Évoquer avec tact la noblesse d’Ormefort, flatter ses origines.                  | Donne +2 à Diplomatie.                                                               |
+| **Histoire (DD 15)**               | Rappeler un fait loyal ou un geste d’Irvel ou de son père.                       | Donne +2 à Diplomatie.                                                               |
 | **Perception (DD 15)**             | Observer les portraits et les lettres sur le bureau.                             | Donne +2 à Bluff : les PJ peuvent prétendre connaître Erzoured.                      |
 | **Soin (DD 15, formé uniquement)** | Remarquer des fioles et herbes sur la table, parler avec tact de remèdes.        | Donne +2 à Diplomatie. Ospra évoque directement le traitement prescrit par Erzoured. |
 ### Informations disponibles
 
-
+- Ils sont **inquiets pour le roi Foril**, dont la santé mentale décline rapidement.
+- Ils ne cherchent pas à précipiter la succession : leur priorité est de **préserver l’image du roi** et la stabilité du royaume.
+- Ospra prépare différents **traitements à base d’herbes** pour soulager Foril, sur recommandation de plusieurs conseillers.
+- _Si un PJ réussit un test de Soins_ : l’une des préparations a été **explicitement conseillée par le seigneur Erzoured**, qui en a fourni lui-même les ingrédients.
+- Irvel **fait confiance à Erzoured comme à un frère**, comprenant sa jalousie passée sans y voir de menace.
+- Ospra **admire profondément Erzoured**, qu’elle considère comme un esprit brillant et sincère, notamment en matière d’herboristerie.
+- Tous deux savent qu’il a fréquenté de **mauvais cercles** à une époque, mais pensent qu’il **a rompu tout lien** et qu’il a été manipulé.
 ### Mettre fin à la rencontre
 
 En cas d'échec: Rendez-vous à la _**Rencontre 3 : À la garde !**_ : des gardes arrivent dans les appartements pour escorter les joueurs en dehors du palais.
@@ -102,5 +108,83 @@ En cas de succès,, les joueurs ont pu interroger Irvel et Ospra et obtenir cert
 
 ## Rencontre 4c : Raedra Obarskyr
 
+_Vous entrez dans un appartement plus sobre, moins décoré que les autres.  
+Les murs sont nus, hormis quelques étagères remplies de livres et de cartes du royaume.  
+Devant une grande fenêtre ouverte, une jeune femme se tient droite, le regard perdu sur les jardins intérieurs du palais._  
+_Ses cheveux dorés tombent librement sur ses épaules, et sa posture, à la fois élégante et tendue, évoque une lame prête à trancher. Elle se retourne lentement. Ses yeux, d’un vert intense, vous scrutent sans peur ni hostilité._
+_« Vous n’êtes pas de la garde. Et je doute que mère vous ait fait venir.  Alors ? Que faites-vous dans ici ? »_
+
+### Défi de compétence : Montrer patte blanche
+
+-  **Objectif** : Gagner la confiance de Raedra sans éveiller ses soupçons,
+- **Complexité :** 2 succès avant 1 échec
+- **Compétences principales** : Diplomatie, Bluff
+- **Compétences secondaires** : Intuition, Histoire, Perception
+- **Succès :** Les PJ apprennent la dégradation de Foril et les soupçons qu'a Raedra pour Erzoured.
+- **Échec :** Raedra ordonne votre arrestation, estimant que vous mentez.
+
+| Compétence             | Utilisation                                                                            | Résultat                                                                                                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Diplomatie (DD 16)** | Se présenter avec franchise, ou sous un titre crédible (émissaires, enquêteurs).       | Raedra garde le silence, puis hoche lentement la tête : _« Vous n’êtes pas les premiers à venir fouiner, mais au moins vous avez le courage de ne pas le cacher. »_ |
+| **Bluff (DD 18)**      | Feindre un mandat ou invoquer l’autorité d’un officier supérieur.                      | Raedra vous observe longuement, puis esquisse un sourire froid : _« Si c’est un mensonge, il est bien tourné. Continuez. »_                                         |
+| **Intuition (DD 17)**  | Déceler qu’elle ne croit pas les mensonges et qu’elle apprécie la franchise.           | Donne +2 à Diplomatie                                                                                                                                               |
+| **Histoire (DD 15)**   | Évoquer les exploits passés de Foril ou d’Irvel, flatter son sens du devoir.           | Donne +2 à Diplomatie.                                                                                                                                              |
+| **Perception (DD 15)** | Noter les documents éparpillés sur la table : rapports militaires, missives cachetées. | Donne +2 à Bluff : les PJ peuvent prétendre connaître Erzoured.                                                                                                     |
+### Informations disponibles
+
+- Raedra est sincèrement **triste et inquiète** de la santé de son grand-père Foril, dont le déclin la préoccupe profondément.
+- Elle pense que ses parents devraient **annoncer publiquement** la situation et que son père, Irvel, devrait assurer la régence pour préserver la stabilité du royaume.  Selon elle, _« Grand-père le comprendrait, si on le lui expliquait clairement. »_
+- Elle n’apprécie pas beaucoup Erzoured : elle n’aime ni son ton ni la manière dont il la regarde, et le juge trop empressé auprès d’Ospra.
+- _Si les joueurs ont réussi le test d’Intuition_ :
+    - Raedra ne fait pas du tout confiance à Erzoured : elle est convaincue qu’il cache quelque chose.
+    - Son majordome la met mal à l’aise : il a un comportement glacial, une façon de se mouvoir trop silencieuse, presque inhumaine.  Elle ne saurait dire pourquoi, mais cet homme n’est pas ce qu’il paraît.
+
+### Mettre fin à la rencontre
+
+En cas d'échec: Rendez-vous à la _**Rencontre 3 : À la garde !**_ : des gardes arrivent dans les appartements pour escorter les joueurs en dehors du palais.
+
+En cas de succès,, les joueurs ont pu interroger Raedra et obtenir certaines informations. Après quoi ils peuvent reprendre leur route à partir de la *Scène 6*.
 ## Rencontre 4d : Foril Obarskyr
 
+### Installation
+
+_La porte s’ouvre sur une grande chambre plongée dans une lumière tamisée.  
+Des rideaux lourds étouffent les bruits du couloir, et un feu crépite faiblement dans la cheminée._  
+_Sur un fauteuil à haut dossier, le roi Foril Obarskyr repose, drapé dans une couverture brodée du dragon royal._  
+_Sa peau est pâle, ses traits tirés, mais ses yeux demeurent d’un bleu perçant. Il relève lentement la tête à votre entrée, cherchant à comprendre._
+« Qui êtes-vous ?… Je ne reconnais pas vos visages. Des soldats ? Non… vos armes sont trop… personnelles. »
+_Son regard se fait plus perçant, puis s’adoucit brusquement._
+« Peut-être des visiteurs du conseil. Ou… non, je ne sais plus. »
+_Il secoue la tête, agacé par sa propre confusion._
+_« Dites-moi plutôt ce que vous faites ici. Et surtout, pourquoi en armes, dans mes appartements ? »_
+
+### Défi de compétence : Se présenter
+
+- **Objectif** : Prouver au roi Foril que vous n’êtes pas des intrus et tenter d’en apprendre davantage sur sa santé et ses préoccupations récentes.
+- **Complexité :** 2 succès avant 1 échec
+- **Compétences principales** : Diplomatie, Bluff
+- **Compétences secondaires** : Intuition, Histoire, Soin
+- **Succès :** Foril se détend, échange avec les PJ et livre des bribes d’informations sur la situation au palais.
+- **Échec :** Sa confusion et sa peur prennent le dessus ; il appelle à la garde.
+
+| Compétence             | Usage narratif                                                                                       | Effet                                                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Diplomatie (DD 14)** | Se présenter avec respect, jurer fidélité à la couronne, rassurer Foril sur leurs intentions.        | Succès direct.                                                                                         |
+| **Bluff (DD 16)**      | Se faire passer pour des agents envoyés par Erzoured ou par le Conseil royal.                        | Succès direct, mais tout nouvel échec déclenche automatiquement l’appel à la garde.                    |
+| **Intuition (DD 14)**  | Comprendre la confusion du roi et adapter le ton, évoquer des souvenirs connus pour l’apaiser.       | Accorde un bonus de +2 à la Diplomatie ou au Bluff.                                                    |
+| **Histoire (DD 12)**   | Citer un fait connu du règne d’Azoun V ou des batailles de Cormyr pour susciter la confiance du roi. | Donne +2 à la Diplomatie.                                                                              |
+| **Soin (DD 14)**       | Observer discrètement les symptômes de Foril : tremblements, confusion, pupilles dilatées.           | Donne +2 au prochain jet d’Intuition ; en cas de succès, révèle un indice sur la nature du traitement. |
+### Informations disponibles
+
+- Le roi Foril se sent décliner depuis plusieurs mois ; il a des absences, parfois même des hallucinations légères.
+- Il sait qu’il perd la mémoire, mais refuse que cela soit su : “Le peuple a besoin d’un roi fort, pas d’un vieillard tremblant.”
+- Il fait confiance à Ospra et Irvel pour gérer le royaume en son absence.
+- Il mentionne Erzoured comme “un jeune homme ambitieux, mais loyal… du moins, je l’espère.”
+- Si les PJ ont réussi le test de **Soin**, ils remarquent que les symptômes ressemblent à une intoxication progressive : un traitement mal dosé, ou volontairement altéré.
+- Foril évoque parfois son frère Emvar, père d’Erzoured, comme s’il était encore vivant, signe d’une confusion avancée.
+
+### Mettre fin à la rencontre
+
+En cas d'échec: Rendez-vous à la _**Rencontre 3 : À la garde !**_ : des gardes arrivent dans les appartements pour escorter les joueurs en dehors du palais.
+
+En cas de succès,, les joueurs ont pu interroger Raedra et obtenir certaines informations. Après quoi ils peuvent reprendre leur route à partir de la *Scène 6*.b 
