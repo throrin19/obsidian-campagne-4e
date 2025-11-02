@@ -4,6 +4,8 @@ Lieu: "[[Palais Royaux]]"
 Niveau:
 XP:
 aliases:
+Personnages:
+  - "[[Erzoured Obarskyr]]"
 ---
 ### Installation
 
