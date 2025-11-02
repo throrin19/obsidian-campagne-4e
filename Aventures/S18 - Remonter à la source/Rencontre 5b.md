@@ -36,7 +36,7 @@ Cette rencontre est spéciale. En effet celle-ci commence avec les créatures su
 
 # Tactique
 
-Erzoured reste en tretrait, ne donnant que des ordres aux différents hommes à portée et essayant de montrer aux joueurs qu'ils sont encerclés et qu'ils ne peuvent rien faire.
+Erzoured reste en retrait, ne donnant que des ordres aux différents hommes à portée et essayant de montrer aux joueurs qu'ils sont encerclés et qu'ils ne peuvent rien faire.
 Tous les hommes essaient de protéger en priorité Erzoured des PJ pour éviter qu'il ne soit blessé.
 Les Dragons pourpres et les Mages de guerres tentent de capturer vivant les PJ : ils les assomment juste, sans les tuer.
 # Mettre fin à la rencontre
