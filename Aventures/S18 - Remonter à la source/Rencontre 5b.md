@@ -13,7 +13,7 @@ Cette rencontre inclut les créatures suivantes :
 - Mage de Guerre
 - Erzoured, Baron Ormefort
 
-Cette rencontre est spéciale. En ffet celle-ci commence avec les créatures suivantes : 
+Cette rencontre est spéciale. En effet celle-ci commence avec les créatures suivantes : 
 
 - 1 Erzoured, Baron Ormefort (E)
 - 4 Gardes dragons pourpres
