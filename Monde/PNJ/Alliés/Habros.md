@@ -12,9 +12,13 @@ Image: "[[habros.png]]"
 ![[habros.png]]
 # Description
 
-**Habros est un demi-elfe d’un âge moyen et travaillant pour les affaires spéciales depuis de nombreuses années.
-Il a le visage émacié, a une posture un peu voutée, et a perdu l’œil gauche pendant l’une de ses missions. On peut voir une cicatrice zébrant son visage partant d’en haut de son œil jusqu’au nez.  
-Il se déplace toujours dans sa grande cape en bure marron sur laquelle il y a un capuchon toujours rabattu sur son visage, de telle manière qu’on ne peut le voir entièrement.
-Il travaille pour [[Gauwyn Meson]]
+Habros est un demi-elfe d’âge mûr, marqué par une vie passée dans les recoins les plus sombres du royaume.  Son visage émacié et sa posture légèrement voûtée trahissent le poids des années et des missions menées sans reconnaissance.  
 
+Une cicatrice nette descend de son front jusqu’au nez, souvenir d’une embuscade qui lui coûta l’œil gauche.  Son unique œil, d’un gris pâle, scrute le monde avec une acuité presque douloureuse, comme s’il voyait plus qu’il ne devrait.
+
+Toujours drapé dans une cape de bure brune au capuchon rabattu, il se fond dans la foule ou les ruelles comme une ombre parmi d’autres.  Il parle peu, se déplace sans bruit, et n’élève jamais la voix.  
+
+Habros n’a pas d’autorité officielle, seulement celle que lui confèrent sa réputation et la confiance du Lord Maréchal [[Gauwyn Meson]].  Pour lui, Gauwyn n’est pas un supérieur, mais un homme juste, l’un des rares encore dignes de servir la couronne.
+
+Habros est avant tout loyal au Cormyr, à sa stabilité, à son peuple, à ce qu’il représente encore de droit et d’honneur. C’est cette fidélité sans visage qui fait de lui un fantôme indispensable : un agent qu’on n’envoie que quand il n’y a plus d’autre solution, et qu’on oublie sitôt sa tâche accomplie.
 # Événements
