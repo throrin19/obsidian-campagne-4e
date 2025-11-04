@@ -7,9 +7,9 @@ Relation: Ami
 Profession: Espion
 Lieu:
 Ville/Village: "[[Suzail]]"
-Image:
+Image: "[[habros.png]]"
 ---
-
+![[habros.png]]
 # Description
 
 **Habros est un demi-elfe d’un âge moyen et travaillant pour les affaires spéciales depuis de nombreuses années.
