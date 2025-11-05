@@ -18,4 +18,4 @@ Ce départ soudain est pour éviter à Erzoured d'être soupçonné lors de la m
 
 Marn est prévu pour être l'initiateur du prochain grand méchant de l'aventure derrière Erzoured. En effet, son but est de préparer le terrain, peu importe les moyens pour permettre au Netheril de prendre possession du Cormyr.
 
-Sa voie la plus rapide a été de trouver Erzoured, d'entrer à son service et de devenir son homme de main pour qu'Erzoured réussisse à prendre la couronne. Après quoi Marn pourra diriger Erzoured comme un pantin et permettre au Netheril 
+Sa voie la plus rapide a été de trouver Erzoured, d'entrer à son service et de devenir son homme de main pour qu'Erzoured réussisse à prendre la couronne. 
