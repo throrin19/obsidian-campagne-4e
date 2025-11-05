@@ -1,10 +1,10 @@
 Rencontre bonus, pour si jamais les joueurs veulent absolument trouver [[Marn Veldrin]] et le combattre.
 
-Cette aventure peut permettre de souffler que Marn est en réalité le BBEG prenant suite après Erzoured, qu'il tire en réalité les ficelles et qu'il prépare le terrain pour une ingérance et une invasion du Néthéril.
+Cette rencontre peut permettre de souffler que Marn est en réalité le BBEG prenant suite après Erzoured, qu'il tire en réalité les ficelles et qu'il prépare le terrain pour une ingérance et une invasion du Néthéril.
 
 Plusieurs moments peuvent être possible pour les joueurs de l'affronter. Ce qui peut changer grandement la zone de la rencontre : 
 
-- Dans les couloirs du palais
+- Dans les couloirs du palais : Marn a les traits du majordome d'Erzoured mais porte toujours sa cape noire qu'il n'a pas eu le temps d'enlever. Si les joueurs le croisent et réussissent un test de *Perception/Intuition (DD 17)*, alors ils font le rapprochement avec le shadar-kaï combattu à la tour Est.
 - Aux cachots : Il veut en finir avec eux afin de les éliminer une bonne foi pour toute de l'échiquier (ce cas peut peut-être éliminer définitivement le majordome de l'aventure)
 - Dans les jardins : lors de leur fuite, ils tombent sur le majordome qui tente de les éliminer.
 
