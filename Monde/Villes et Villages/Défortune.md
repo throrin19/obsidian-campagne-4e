@@ -7,4 +7,5 @@ Capitale: Non
 
 # Description
 
-Le village de XXX fait partie du comté de Défortune, crée lors de la reconnaissance d'[[Erzoured Obarskyr]] comme de sang royal et attribué à sa mère [[Solatha Ormefort]]
+Le village de XXX est le chef lieu du comté de Défortune, crée lors de la confirmation d'[[Erzoured Obarskyr]] et attribué à sa mère [[Solatha Ormefort]] par Azoun V.
+
