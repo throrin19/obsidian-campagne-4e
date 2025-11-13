@@ -17,4 +17,6 @@ Ce village comprends un manoir réservé à l'usage de la comtesse de Défortune
 
 # Bâtiments principaux
 
+![[Batiments.base]]
 
+# PNJ principaux
