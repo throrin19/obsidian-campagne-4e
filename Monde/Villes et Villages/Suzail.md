@@ -38,4 +38,4 @@ marker: , 224, 288, [[Auberge du lion d'or]]
 
 # Personnages
 
-![[PNJ.base#Suzail]]
+![[z_bases/PNJ.base#Suzail]]

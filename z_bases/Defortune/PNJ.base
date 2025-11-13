@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Monde/Lieux/Défortune/PNJ")
+views:
+  - type: table
+    name: Table

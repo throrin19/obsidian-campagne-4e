@@ -1,0 +1,13 @@
+filters:
+  and:
+    - Lieu == link("Défortune")
+    - file.inFolder("Monde/Lieux/Défortune/Bâtiments")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Type
+      - Habitants
+    columnSize:
+      note.Type: 190
