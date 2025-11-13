@@ -1,0 +1,6 @@
+filters:
+  and:
+    - Lieu == link("Défortune")
+views:
+  - type: table
+    name: Table
