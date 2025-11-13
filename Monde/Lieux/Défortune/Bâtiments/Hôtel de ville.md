@@ -1,0 +1,1 @@
+Centre de la ville, abritant les appartements du bourgmestre ainsi que la salle du cons
