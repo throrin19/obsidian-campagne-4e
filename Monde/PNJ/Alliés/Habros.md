@@ -21,4 +21,17 @@ Toujours drapé dans une cape de bure brune au capuchon rabattu, il se fond dans
 Habros n’a pas d’autorité officielle, seulement celle que lui confèrent sa réputation et la confiance du Lord Maréchal [[Gauwyn Meson]].  Pour lui, Gauwyn n’est pas un supérieur, mais un homme juste, l’un des rares encore dignes de servir la couronne.
 
 Habros est avant tout loyal au Cormyr, à sa stabilité, à son peuple, à ce qu’il représente encore de droit et d’honneur. C’est cette fidélité sans visage qui fait de lui un fantôme indispensable : un agent qu’on n’envoie que quand il n’y a plus d’autre solution, et qu’on oublie sitôt sa tâche accomplie.
-# Événements
+
+# Compagnons
+
+### Niveau 6
+
+- Rôle : Cogneur
+- Monstre de base : Capitaine bandit demi-elfe (BF2 p40)
+- Défense :
+	- CA: 21
+	- Vigueur: 17
+	- Réflexe: 19
+	- Volonté: 17
+- PV : 50 ; Péril: 25
+- Récupérations: 10
