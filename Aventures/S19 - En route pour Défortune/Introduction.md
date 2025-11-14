@@ -10,4 +10,9 @@ Les PJ doivent préparer leurs affaires et partir pour Défortune afin de suivre
 
 Erzoured, entendant la mission donnée par son cousin et sachant que les PJ doivent partir pour Défortune décida d'avancer son départ directement après avoir quité les PJ et Irvel. Il en profita pour envoyer des brigands sur leur route le lendemain afin de les empêcher d'arriver à bon port.
 
-### Introduction aux j
+### Introduction au MJ
+
+Pendant cette aventure les joueurs doivent entre autre avoir la confirmation que 
+
+### Introduction aux Joueurs
+
