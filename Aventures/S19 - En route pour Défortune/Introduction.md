@@ -23,3 +23,9 @@ Lors de leur arrêt à Waymoute en fin de la première journée, les joueurs peu
 Le dernier jour de traversé sera un peu plus dur : les bois sont omniprésents, le sentier mal balisé par endroit, et des orcs peuvent aussi apparaître pour tenter d'attaquer les voyageurs. Le soir de ce dernier jour, les joueurs arrivent à Défortune. Les portes du village sont ouvertes mais le manoir reste fermé si les joueurs s'en approchent. Il est lourdement gardé par des hommes de main d'Erzoured. Des préparatifs se font sentir pour la réception du lendemain, tout le village en parle.
 ### Introduction aux Joueurs
 
+Le lendemain matin, les joueurs retrouvent Habros à l'entrée Nord Ouest de Suzail pour faire route vers Défortune. Celui-ci les attend avec des chevaux, spécialement préparés pour l'occasion et les vivres nécessaires jusqu'à Waymoute pour ne pas être trop chargés.
+
+Habros annonce aux joueurs qu'ils auront deux jours de voyage avec une pause le premier soir au village de Waymoute pour essayer de confirmer que la cargaison a pris la route. Selon les indices obtenus, ils aviseront de la suite à donner.
+
+> Habros est un compagnon contrôlé par les joueurs en phase de combat. Par contre, pour les autres phases (défi, ...) Habros ne participe pas et sert juste d'aide au MJ pour faciliter la communication de détails ou d'indices si nécessaire.
+
