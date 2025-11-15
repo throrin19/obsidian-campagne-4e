@@ -3,7 +3,7 @@ Région: "[[Cormyr]]"
 Type: Village
 Capitale: Non
 source: https://le-monde-des-royaumes-oublies.fandom.com/fr/wiki/Dhedluk
-Population: "450"
+Population: "900"
 ---
 # Carte
 
