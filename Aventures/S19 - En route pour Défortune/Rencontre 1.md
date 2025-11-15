@@ -25,6 +25,8 @@ Cette traversée se déroule en deux journées complètes à cheval, chacune dé
 
 ### Défi de compétences : Fées malicieuses
 
+
+
 ### Marchand itinérant
 
 Pendant leur avancée dans la Forêt Royale, les joueurs distinguent le bruit d’un chariot grinçant et de pas pressés. Ils tombent alors sur un Halfelin marchand, _Milo Bombarda_, trottinant joyeusement derrière un âne gris tirant un petit chariot couvert. L’ensemble déborde de sacs, sachets, caisses étroites, bocaux étranges, morceaux de mécanismes et autres bibelots sans logique apparente.
