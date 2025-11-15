@@ -56,4 +56,6 @@ Informations qu’ils peuvent donner
     - la présence de Satyres aux alentours, plus audacieux que d’habitude.
 ### Mettre fin à la rencontre
 
+Quand les joueurs ont fini leur traversée à cheval, ils arrivent en vue de Défortune. Allez à la _**Rencontre 3 : Défortune**_.
 
+Cette rencontre compte comme deux étapes importantes.
