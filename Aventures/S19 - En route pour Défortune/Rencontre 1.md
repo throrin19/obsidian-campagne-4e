@@ -10,16 +10,16 @@ Les joueurs partent de Suzail en direction de [[Défortune]]. Sur cette premièr
 
 Cette traversée se déroule en deux journées complètes à cheval, chacune découpée en deux sous-rencontres. À chaque sous-rencontre, lancez 1d6 pour déterminer l’événement correspondant dans la table ci-dessous (Jour 1 : lancez deux fois 1d6. ; Jour 2 : lancez deux fois 1d6). Si vous obtenez deux fois le même résultat sur une même journée, relancez le second dé ou modulez l’événement pour le rendre légèrement différent.
 
-| **D6** | **Événement**                                                                   | Sous Rencontre            |
-| :----- | ------------------------------------------------------------------------------- | ------------------------- |
-| 1      | Un arbre est tombé en travers de la route et bloque le passage                  | Rencontre Z1              |
-| 2      | Satyres accompagnés d’un ours-hibou, réclamant une « taxe sylvestre ».          | Rencontre Z2              |
-| 3      | Brigands aguerris embusqués, envoyés pour éliminer les PJ.                      | Rencontre Z3              |
-| 4      | Marchand itinérant diffusant rumeurs et commérages sur la Forêt Royale.         | Voir *Marchand itinérant* |
-| 5      | Fées malicieuses tentant de charmer ou égarer les voyageurs.                    | Voir *Fées malicieuses*   |
-| 6      | Patrouille de dragons pourpres en déplacement, croisée brièvement sur la route. | Voir *La patrouille*      |
-| 7      | Un vieux divague par rapport à des ruines où on entend des pleurs               | Voir *Le vieux*           |
-|        |                                                                                 |                           |
+| **D6** | **Événement**                                                                                       | Sous Rencontre            |
+| :----- | --------------------------------------------------------------------------------------------------- | ------------------------- |
+| 1      | Un arbre est tombé en travers de la route et bloque le passage                                      | Rencontre Z1              |
+| 2      | Satyres accompagnés d’un ours-hibou, réclamant une « taxe sylvestre ».                              | Rencontre Z2              |
+| 3      | Brigands aguerris embusqués, envoyés pour éliminer les PJ.                                          | Rencontre Z3              |
+| 4      | Marchand itinérant diffusant rumeurs et commérages sur la Forêt Royale.                             | Voir *Marchand itinérant* |
+| 5      | Fées malicieuses tentant de charmer ou égarer les voyageurs.                                        | Voir *Fées malicieuses*   |
+| 6      | Patrouille de dragons pourpres en déplacement, croisée brièvement sur la route.                     | Voir *La patrouille*      |
+| 7      | Un vieillard, à l'air complètement hagard, divague par rapport à des ruines où on entend des pleurs | Voir *Le vieillard*       |
+| 8      |                                                                                                     |                           |
 
 À la fin du premier jour, les joueurs arrivent dans le village de Waymoute. Rendez-vous à la _**Rencontre 2 : Waymoute**_. Quand les joueurs en repartent, reprenez cette rencontre.
 ### Défi de compétences : Fées malicieuses
