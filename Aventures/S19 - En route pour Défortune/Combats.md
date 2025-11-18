@@ -24,6 +24,8 @@ Rencontre de niveau 6 (1 275 px)
 + 5 laquais humains (sbires de niveau 7, BF1)
 ### Rencontre Z5 : 
 
-
+Rencontre de niveau 6 (1 350 px)  
+- 4 vagabonds halfelins (chasseurs de niveau 6, BF1) 
+- 2 berserkers humains (brutes de niveau 4, BF1)
 
 ### Rencontre Z6 : 
