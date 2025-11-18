@@ -10,22 +10,32 @@ Les joueurs partent de Suzail en direction de [[Défortune]]. Sur cette premièr
 
 Cette traversée se déroule en deux journées complètes à cheval, chacune découpée en deux sous-rencontres. À chaque sous-rencontre, lancez 1d6 pour déterminer l’événement correspondant dans la table ci-dessous (Jour 1 : lancez deux fois 1d6. ; Jour 2 : lancez deux fois 1d6). Si vous obtenez deux fois le même résultat sur une même journée, relancez le second dé ou modulez l’événement pour le rendre légèrement différent.
 
-| **D6** | **Événement**                                                                                       | Sous Rencontre            |
-| :----- | --------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1      | Un arbre est tombé en travers de la route et bloque le passage                                      | Rencontre Z1              |
-| 2      | Satyres accompagnés d’un ours-hibou, réclamant une « taxe sylvestre ».                              | Rencontre Z2              |
-| 3      | Brigands aguerris embusqués, envoyés pour éliminer les PJ.                                          | Rencontre Z3              |
-|        |                                                                                                     |                           |
-| 5      | Marchand itinérant diffusant rumeurs et commérages sur la Forêt Royale.                             | Voir *Marchand itinérant* |
-| 5      | Fées malicieuses tentant de charmer ou égarer les voyageurs.                                        | Voir *Fées malicieuses*   |
-| 6      | Patrouille de dragons pourpres en déplacement, croisée brièvement sur la route.                     | Voir *La patrouille*      |
-| 7      | Un vieillard, à l'air complètement hagard, divague par rapport à des ruines où on entend des pleurs | Voir *Le vieillard*       |
+| **D8** | **Événement**                                                                   | Sous Rencontre            |
+| :----- | ------------------------------------------------------------------------------- | ------------------------- |
+| 1      | Un arbre est tombé en travers de la route et bloque le passage                  | Rencontre B1              |
+| 2      | Satyres accompagnés d’un ours-hibou, réclamant une « taxe sylvestre ».          | Rencontre B2              |
+| 3      | Brigands aguerris embusqués, envoyés pour éliminer les PJ.                      | Rencontre B3              |
+| 4      | Un orage soudain éclate                                                         | Voir * L'orage*           |
+| 5      | Marchand itinérant diffusant rumeurs et commérages sur la Forêt Royale.         | Voir *Marchand itinérant* |
+| 6      | Fées malicieuses tentant de charmer ou égarer les voyageurs.                    | Voir *Fées malicieuses*   |
+| 7      | Patrouille de dragons pourpres en déplacement, croisée brièvement sur la route. | Voir *La patrouille*      |
+| 8      | Rencontre avec un noble mineur se rendant à Défortune                           | Voir *Sir Pelden*         |
 
 À la fin du premier jour, les joueurs arrivent dans le village de Waymoute. Rendez-vous à la _**Rencontre 2 : Waymoute**_. Quand les joueurs en repartent, reprenez cette rencontre.
+
+### Défi de compétences : L'orage
+
+- **Objectif** : Trouver rapidement un abri sûr pour éviter d’être blessé, que les chevaux s’emballent, ou que le groupe termine trempé jusqu’aux os.
+- **Compétences** : Nature,, Athlétisme, Acrobatie
+- **Compétences secondaires** : Endurance, Perception
+- **Succès** : Les joueurs arrivent à s'abriter sans trop de problème
+- **Échec**: Les joueurs finissent trempés jusqu'aux os. Ils perdent tous une récupération. 
 ### Défi de compétences : Fées malicieuses
 
-- Compétences : Nature, Arcane, Endurance, Soins
-
+- **Objectif** : Ne pas se laisser perdre par les fées, ceci occasionnant du retard pour la destination
+- **Compétences** : Nature, Arcane, Endurance, Soins
+- **Succès** : Les joueurs ne se laissent pas charmer par les fées et continuent leur route avec très peu de retard.
+- **Échec** : Les joueurs se laissent charmer par les fées et arrivent à leur destination de la journée qu'à la tombée de la nuit et perdent une récupération chacun.
 ### Marchand itinérant
 
 Pendant leur avancée dans la Forêt Royale, les joueurs distinguent le bruit d’un chariot grinçant et de pas pressés. Ils tombent alors sur un Halfelin marchand, _Milo Bombarda_, trottinant joyeusement derrière un âne gris tirant un petit chariot couvert. L’ensemble déborde de sacs, sachets, caisses étroites, bocaux étranges, morceaux de mécanismes et autres bibelots sans logique apparente.
@@ -56,6 +66,10 @@ Informations qu’ils peuvent donner
 - La patrouille a identifié récemment :
     - une augmentation d’activité de brigands dans la forêt ;
     - la présence de Satyres aux alentours, plus audacieux que d’habitude.
+
+### Sir Pelden
+
+
 ### Mettre fin à la rencontre
 
 Quand les joueurs ont fini leur traversée à cheval, ils arrivent en vue de Défortune. Allez à la _**Rencontre 3 : Défortune**_.
