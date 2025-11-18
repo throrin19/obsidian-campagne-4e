@@ -69,6 +69,14 @@ Informations qu’ils peuvent donner
 
 ### Sir Pelden
 
+Les joueurs croisent un noble mineur du Cormyr, Seigneur Perlen Marth, accompagné d’un valet et de deux gardes armés mais non agressifs. Il chevauche lentement et peste contre les bois grouillant d'insectes. Il aborde les joueurs pour leur demander s'ils n'ont pas un objet utile pour éviter qu'ils viennent l'embêter.
+
+S'ils lui demandent pourquoi il est si loin de chez lui, celui-ci répond qu'il a été invité par le Baron d'Ormefort à assister à une réception dans son manoir de Défortune dans 2 ou 3 jours (selon la journée de la rencontre). Il explique qu'il part en avance car il aimerait beaucoup voir les différentes poteries réputées de Défortune pour en offrir une à sa maîtresse et pose énormément de questions aux joueurs.
+
+Si les joueurs le poussent un peu (Diplomatie DD 12), celui-ci leur dévoile : 
+- Il espère que le Baron a réussi à rouvrir la frontière avec la Sembie, cela lui permettant de lancer des tractations commerciales avec elle et possiblement le Néthéril
+- Il ne comprend pas que le royaume soit aussi fermé avec ses voisins mis à part Port-Ponant et Myth Draenor. Pourtant le Néthéril, avec ses richesses et ses cités volantes amènerait beaucoup dans le commerce avec le Royaume
+- Il a entendu dire que le roi Foril n'irait pas bien, et il ne pense pas Irvel prêt à gouverner, celui-ci ayant tendance à trop faire confiance au conseil. Erzoured, lui, ferait un excellent suzerain qui redonnerait la place que la noblesse mérite.
 
 ### Mettre fin à la rencontre
 
