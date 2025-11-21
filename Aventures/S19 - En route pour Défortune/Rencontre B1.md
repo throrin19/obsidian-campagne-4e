@@ -36,7 +36,7 @@ Intimidation (DD 17) :
 
 - Succès : Sous la pression, tremblant et blessé, le capitaine finit par céder. Lisez ou modifiez au besoin : *« On… on nous a payés, d’accord ?  Un type important. Noble. Bien habillé.  On l’a rencontré à Waymoute. Il avait votre description. Exacte. On devait vous arrêter… ou vous descendre si ça tournait mal. On a touché trente pour cent avant de faire le coup.  Le reste… le reste devait venir après votre mort. »*
 - Échec : Celui-ci regarde les PJ, tout penaud : *« Nous sommes de pauvres bandits, c’est tout… On fait comme on peut pour gagner quelques pièces d’or, voyez-vous. On a juste tenté notre chance, rien de plus. »*
-- Fouilles : En fouillant le capitaine, ils trouvent sur lui une bourse contenant XX Po. S'ils demandent d'òu cela provient après avoir fait un échec au test d'Intimidation, celui-ci dit juste qu'un commanditaire a demandé de tuer des voyageurs ressemblant à leur description, sans plus d'informations.
+- Fouilles : En fouillant le capitaine, ils trouvent sur lui une bourse contenant 200 Po. S'ils demandent d'òu cela provient après avoir fait un échec au test d'Intimidation, celui-ci dit juste qu'un commanditaire a demandé de tuer des voyageurs ressemblant à leur description, sans plus d'informations.
 
 Reprenez la _**Rencontre 1 : En route**_.
 # Trésors
