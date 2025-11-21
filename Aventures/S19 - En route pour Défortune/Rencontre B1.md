@@ -32,6 +32,8 @@ Si les joueurs réalisent un test de *Perception (DD 12)*, ils remarquent que l'
 
 À la fin de la rencontre, si le capitaine bandit est capturé vivant, les PJ peuvent tenter de l’interroger pour comprendre l’origine de l’embuscade.
 
-- Intimidation (DD 17) : 
+- Intimidation (DD 17) : Sous la pression, tremblant et blessé, le capitaine finit par céder. Lisez ou modifiez au besoin : 
+*« On… on nous a payés, d’accord ?  Un type important. Noble. Bien habillé.  On l’a rencontré à Waymoute. Il avait votre description. Exacte. On devait vous arrêter… ou vous descendre si ça tournait mal.
+On a touché trente pour cent avant de faire le coup.  Le reste… le reste devait venir après votre mort. »*
 
 # Trésors
