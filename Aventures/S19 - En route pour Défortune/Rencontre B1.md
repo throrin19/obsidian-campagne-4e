@@ -30,4 +30,8 @@ Si les joueurs réalisent un test de *Perception (DD 12)*, ils remarquent que l'
 
 # Mettre fin à la rencontre
 
+À la fin de la rencontre, si le capitaine bandit est capturé vivant, les PJ peuvent tenter de l’interroger pour comprendre l’origine de l’embuscade.
+
+- Intimidation (DD 17) : 
+
 # Trésors
