@@ -28,6 +28,11 @@ Si les joueurs réalisent un test de *Perception (DD 12)*, ils remarquent que l'
 
 # Tactique
 
+Si les joueurs sont surpris, les bandits en profitent pour les faire tomber de cheval pendant que les vagabonds en profitent pour tirer avec leur arbalète. Le capitaine reste caché le plus longtemps possible, en se contentant d'envoyer une dague sur les joueurs à distance.
+
+Dès que les joueurs ne sont plus surpris, les bandits tentent de les séparer en les gênant pendant que les vagabonds continuent de tirer à l'arbalète. À partir de là, le capitaine rentre dans la mêlée en essayant de faire le plus de dégâts possibles avec *D’estoc et de jet*. S'il ne peut pas effectuer cette attaque, il alterne entre une attaque au corps à corps ou une attaque de dague selon la distance le séparant des joueurs.
+
+Si l'ensemble des bandits et des vagabonds sont éliminés, le capitaine, sentant la fin, préférera se rendre, sinon il combat jusqu'à la mort.
 # Mettre fin à la rencontre
 
 À la fin de la rencontre, si le capitaine bandit est capturé vivant, les PJ peuvent tenter de l’interroger pour comprendre l’origine de l’embuscade.
