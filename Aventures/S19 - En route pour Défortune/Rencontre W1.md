@@ -40,7 +40,7 @@ Les joueurs devraient comprendre qu'ils étaient la cible directe de ces assassi
 
 Après cette rencontre, le  lendemain matin les joueurs peuvent continuer d'enquêter dans Waymoute. Après quoi ils reprennent leur chemin.
 
-Reprenez la *__Rencontre 1 : En route**_.
+Reprenez la _**Rencontre 1 : En route**_.
 
 ### Trésors
 
