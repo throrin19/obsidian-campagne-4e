@@ -30,6 +30,7 @@ Trois satyres bondissent sur le chemin, agitant des instruments en bois et brand
 L’un des satyres désigne l’ours-hibou, qui frappe le sol de sa patte griffue, comme pour appuyer la demande.
 « Une offrande simple, rien de plus ! »*
 
+
 Pour pouvoir passer, les joueurs devront faire une offrande acceptable pour les satyres. Les satyres acceptent volontiers :
 - nourriture inhabituelle,
 - alcool,
