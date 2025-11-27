@@ -11,7 +11,8 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 **Q: Est-ce que le Baron Ormefort est arrivé au village ?**
 **Darric Kasral** : Oui il est arrivé ce matin et s'est rendu directement au manoir. Il se fiche du village ou des gens de son Comté, et cela nous va très bien.
 **Maeron Belthyr** : Il semvblerait aux vues de toutes les allées et venues au manoir. Vous comprenez, certains de nos habitants, comme Loryn, y sont serviteurs lors des passages de ce Baron. Il paraît qu'il organiserait un banquet demain soir.
-**Tirian Noctier** : Oui je l'ai appris à mes dépends, Depuis son arrivée je ne peux plus 
+**Tirian Noctier** : Oui je l'ai appris à mes dépends, Depuis son arrivée je ne peux plus me rendre dans les bois derrière le manoir pour raison de chasse gardée. Il y a d'ailleurs plus loin un camp de gardes devant des chariots, je l'ai vu avant de me faire gentiment renvoyé. 
+**Maela Tarmis** : Ouep, et pour une fois c'est pas pour me déplaire, j'ai quelques chambres qui sont louées par des nobles et des marchands de Suzail, venus sur invitation du Vicomte et ils en profitent pour commercer avec le village.
 
 **Q: Êtes-vous déjà allé au manoir Défortune ?**
 
