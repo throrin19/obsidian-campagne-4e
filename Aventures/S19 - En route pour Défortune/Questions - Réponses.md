@@ -22,4 +22,10 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 
 
 **Q: Est-ce que des personnes bizarres ont fait apparition au village dernièrement ?**
+**Maeron Belthyr** : Le majordome du baron! Quelle personne effrayante. On a l'impression que toute vie s'en va autour de lui. Il me fait vraiment froid dans le dos. Il est arrivé avec d'autres personnes un peu comme lui cette nuit.
+**Darric Kasral** : Des hommes du Baron, ils sont des plus bizarres mais que voulez-vous, tout est en ordre donc après il peut demander qui il veut, je ne vais pas aller les arrêter car ils ne me reviennent pas.
+
+**Q: Que pensez-vous d’Erzoured ?**
+
+
 
