@@ -15,6 +15,11 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 **Maela Tarmis** : Ouep, et pour une fois c'est pas pour me déplaire, j'ai quelques chambres qui sont louées par des nobles et des marchands de Suzail, venus sur invitation du Vicomte et ils en profitent pour commercer avec le village.
 
 **Q: Êtes-vous déjà allé au manoir Défortune ?**
+**Maeron Belthyr** : J'ai été invité une fois à une soirée organisée par le Vicomte. Sinon non, je ne m'y suis jamais rendu.
+**Darric Kasral** : Sauf si le Vicomte m'invite à venir ou si quelquechose de grave s'y passe expliquant ma venue en ces lieux, je ne m'y rend pas et malheureusement ni l'un ni l'autre ne se sont produits.
+**Loryn Sal** : Oui dès que le Baron est ici. Je suis un domestique et je m'occupe surtout de l'approvisionnement en charbon et autres denrées du village, d'où mes multiples aller/retours.
+**Nim Belthyr** : Ils ont une magnifique cheminée en pierre. Par contre la cave fait très peur.
+
 
 **Q: Est-ce que des personnes bizarres ont fait apparition au village dernièrement ?**
 
