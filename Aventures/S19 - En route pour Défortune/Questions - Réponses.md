@@ -24,6 +24,8 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 **Q: Est-ce que des personnes bizarres ont fait apparition au village dernièrement ?**
 **Maeron Belthyr** : Le majordome du baron! Quelle personne effrayante. On a l'impression que toute vie s'en va autour de lui. Il me fait vraiment froid dans le dos. Il est arrivé avec d'autres personnes un peu comme lui cette nuit.
 **Darric Kasral** : Des hommes du Baron, ils sont des plus bizarres mais que voulez-vous, tout est en ordre donc après il peut demander qui il veut, je ne vais pas aller les arrêter car ils ne me reviennent pas.
+**Tirian Noctier** : Les créatures féériques ont l'air de ne pas aimer ce qui se trame dans la région ces derniers temps. Il ne serait pas impossible que l'on trouve certaines de ces créatures plus proches du village que d'habitude.
+**Darran Boisdur** : Certaines créatures féériques que l'on a pas l'habitude de voir sortent des bois depuis la nuit dernière. J'ai croisé plusieurs fées proches de la scierie ce matin, elles ont l'air perturbées.
 
 **Q: Que pensez-vous d’Erzoured ?**
 
