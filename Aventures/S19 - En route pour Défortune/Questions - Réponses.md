@@ -30,6 +30,9 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 **Teldran** : Quelqu'un qui ne part pas de mon bazar sans avoir trouvé son objet est une personne bizarre.
 
 **Q: Que pensez-vous d’Erzoured ?**
-
-
+**Maeron Belthyr** : *Pour moi il n'est que manigance et faux. Cela se voit et rien ne m'étonnerait si on venait à apprendre qu'il a coupé des têtes pour gagner plus de pouvoir.*
+**Darric Kasral** : *C'est un membre de la famille royale, et mon poste m'oblige à dire que nous sommes là pour protéger le peuple, mais aussi la famille royale avant tout.*
+**Darran Boisdur** : *Quand il va chasser dans les bois, il ne nous ddérange pas et ne va pas tuer des arbres vivants, donc je n'ai rien à dire sur lui.*
+**Maela Tarmis** : *Quand quelqu'un me fait venir plus de clients car il organise des soirées faisant venir tout le Cormyr, cela me fait dire que c'est un type bien. En tout cas c'est tout ce qui m'importe. Par contre ce serait mieux s'il venait plus souvent et si on était au courant plus tôt.*
+**Loryn Sal** : *Je l'ai croisé une ou deux fois. Il vous fait bien comprendre quelle est votre place et quelle est la sienne juste d'un regard. Je ne l'aime pas, mais il me donne un travail quand il séjourne ici.*
 
