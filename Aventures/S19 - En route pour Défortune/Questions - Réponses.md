@@ -26,6 +26,8 @@ Les PNJ peuvent répondre directement, éluder des hypothèses ou rester très v
 **Darric Kasral** : Des hommes du Baron, ils sont des plus bizarres mais que voulez-vous, tout est en ordre donc après il peut demander qui il veut, je ne vais pas aller les arrêter car ils ne me reviennent pas.
 **Tirian Noctier** : Les créatures féériques ont l'air de ne pas aimer ce qui se trame dans la région ces derniers temps. Il ne serait pas impossible que l'on trouve certaines de ces créatures plus proches du village que d'habitude.
 **Darran Boisdur** : Certaines créatures féériques que l'on a pas l'habitude de voir sortent des bois depuis la nuit dernière. J'ai croisé plusieurs fées proches de la scierie ce matin, elles ont l'air perturbées.
+**Ysilde Vairn** : Pour moi tous ces nobles qui viennent nous voir et qui font des manières quand ils marchent dans cette magnifique terre rouge sont bizarre. Qu'entendez-vous par bizarre ?
+**Teldran** : Quelqu'un qui ne part pas de mon bazar sans avoir trouvé son objet est une personne bizarre.
 
 **Q: Que pensez-vous d’Erzoured ?**
 
