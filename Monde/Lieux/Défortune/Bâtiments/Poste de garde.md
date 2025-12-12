@@ -2,6 +2,7 @@
 Lieu: "[[Défortune]]"
 Type: Police locale
 Habitants:
+  - "[[Darric Kasral]]"
 ---
 Le Poste de garde se trouve juste à l'entrée de [[Défortune]] et est composé de 10 Dragons pourpres stationnés ici épaulés par un mage de guerre.
 
