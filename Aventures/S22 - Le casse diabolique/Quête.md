@@ -17,4 +17,8 @@ Malgré tout, Vrax garde des informations pour lui, qu'il peut ou non divulguer 
 - Il sait pertinemment la nature de l'objet mais ne dit rien aux PJ car il les utilise pour vérifier si ce qu'il sait est avéré ou non.
 - Il a entendu parlé d'un culte autour de l'idole se déroulant chez Francis et ne regroupant que quelques personnes ayant eu un avenir plutôt favorable dernièrement.
 
-Par contre, il ne lâche rien sur le commanditaire du vol et n'en dira rien aux joueurs
+Par contre, il ne lâche rien sur le commanditaire du vol et n'en dira rien aux joueurs. S'agit-il d'un autre diable voulant arrêter Gloriel ? Une personne connaissant la véritable nature derrière tout ça et voulant en profiter ou la cacher ? 
+
+## Lors de la remise de la statuette
+
+Lorsque Vrax récupère la statuette, il l'enferme directement dans une malle de plomb correspondant à la taille de celle-ci. Ce qui suggère aux joueurs qu'il savait qu'elle était diabolique.
