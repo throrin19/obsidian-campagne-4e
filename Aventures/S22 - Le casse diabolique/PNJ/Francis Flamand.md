@@ -6,7 +6,7 @@ Statut: Vivant
 Relation: Inconnu
 Image: "[[francis_flamand.png]]"
 Profession: Vignoble
-Lieu: "[[Domaine Cheval Gris]]"
+Lieu: "[[Domaine Poney Gris]]"
 Ville/Village: "[[Suzail]]"
 ---
 ![[francis_flamand.png]]

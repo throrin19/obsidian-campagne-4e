@@ -6,4 +6,15 @@ La tâche en question consiste à aller voler une statuette appartenant à [[Fra
 
 ## Informations
 
-Vrax leur dit que l'idôle est en la possession de [[Francis Flamand]], le vignoble et propriétaire du [[Domaine Cheval Gris]]
+Vrax leur dit que l'idôle est en la possession de [[Francis Flamand]], le vignoble et propriétaire du [[Domaine Poney Gris]] se trouvant dans les environs de Suzail, au milieu des vignes et des champs.
+
+Il leur dit aussi que Francis organise chez lui des banquets en l'honneur du roi disparu et de celui prenant sa place tous les soirs pendant le deuil royal. L'idole semble conservé dans ses bureaux, conservés au sein de son coffre-fort.
+
+## Informations complémentaires
+
+Malgré tout, Vrax garde des informations pour lui, qu'il peut ou non divulguer aux joueurs mais qu'il va d'abord leur cacher : 
+
+- Il sait pertinemment la nature de l'objet mais ne dit rien aux PJ car il les utilise pour vérifier si ce qu'il sait est avéré ou non.
+- Il a entendu parlé d'un culte autour de l'idole se déroulant chez Francis et ne regroupant que quelques personnes ayant eu un avenir plutôt favorable dernièrement.
+
+Par contre, il ne lâche rien sur le commanditaire du vol et n'en dira rien aux joueurs
