@@ -1,0 +1,12 @@
+Alors que les joueurs reviennent de [[Défortune]] avec l'arrestation du [[Erzoured Obarskyr|Baron Ormefort]] pour régicide et le lancement d'une guerre civile entre le royaume du Cormyr et des nobles dissidents, ils trouvent la ville de Suzail avec ses drapeaux en berne. La cloche ne cesse de sonner régulièrement pour l'annonce tragique : Le roi est mort, le peuple le pleure.
+
+Arrivés en ville, ils partent faire un rapport au Lord Maréchal, Gauwyn Meson pour voir la suite à donner à toute cette affaire. Il leur explique le déroulé des obsèques, de la passation de pouvoir ainsi que de quelques informations sur les indices qu'ils ont trouvés à Défortune : 
+- Le corps du Roi Foril est visible à tous dans la chambre du Dragon Pourpre, aux Palais du Roi pendant 30 jours. Pour éviter tout désagrément, les prêtres de Tymora ont effectué un rituel de préservation des morts sur le corps du défunt.
+- Après l’inhumation, une semaine de festivité a lieu pour fêter la continuité du règne de la famille Obarskyr. Suite à quoi le couronnement du nouveau roi, dans la chambre du Dragon Pourpre, a lieu.
+- Le majordome d'Erzoured se faisait appeler Marn. Après enquête, le personnel du château ne l'appréciait pas beaucoup et le trouvait plutôt sombre et effrayant. Tous les indices indiquent qu'il s'agit d'un agent shadovar qui a utilisé le baron pour servir ses propres fins : fragiliser le Cormyr en y plaçant un personnage fantoche que le Néthéril pourra contrôler à sa guise.
+- Actuellement Erzoured est au cachot dans le fort des Dragons pourpres avant son transfert pour le Château Irlingstar afin d'y passer le restant de ses jours.
+- Gauwyn a fait des recherches sur Château-Ardran : Il s'agit d'un village se trouvant dans les grands marais. Malheureusement cela fait plus d'un mois que plus aucune nouvelle n'émane de ce lieu. Ce n'est peut-être rien, les lieux si reculés ont parfois du mal à communiquer mais dans le doute, une escouade des Dragons pourpres y a été envoyé afin de s'assurer que tout aille bien.
+
+Aux vues des nouvelles actuelles, Gauwyn invite les PJ à se reposer en cette période de deuil et qu'il les fera mander s'il a besoin de leur service.
+
+our service rendu à la couronne, il leur donne une récompense de 1000 Po ainsi qu'une invitation pour venir participer au couronnement du prince Irvel.
