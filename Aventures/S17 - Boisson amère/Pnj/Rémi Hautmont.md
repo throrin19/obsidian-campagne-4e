@@ -6,7 +6,7 @@ Statut: Mort
 Relation: Inconnu
 Image:
 Profession: Marchand de tissus
-Lieu: "[[Auberge du Lion d'or]]"
+Lieu: "[[Auberge du lion d'or]]"
 Ville/Village: "[[Marsembre]]"
 aliases:
   - Thibaud Vertcuivre

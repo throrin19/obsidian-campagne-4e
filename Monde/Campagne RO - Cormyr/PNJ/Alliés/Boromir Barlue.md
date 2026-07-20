@@ -6,7 +6,7 @@ Statut: Vivant
 Relation: Inconnu
 Image:
 Profession: Aubergiste
-Lieu: "[[Auberge du Lion d'or]]"
+Lieu: "[[Auberge du lion d'or]]"
 Ville/Village: "[[Suzail]]"
 ---
 

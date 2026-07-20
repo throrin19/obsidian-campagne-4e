@@ -1,4 +1,4 @@
-- [[Auberge du Lion d'or]] : Lieu du Meurtre
+- [[Auberge du lion d'or]] : Lieu du Meurtre
 - [[La Lame Rouillée]] : Bar miteux servant de bureau de fortune à l'antenne locale des couteaux enflammés
 - [[Apothicarium de Mère Griotte]] : Herboristerie de Rivan l'informateur
 - [[Guilde des tisserands]] : Bâtiment administratif regroupant les grandes maisons de tisserand de tout le Cormyr.

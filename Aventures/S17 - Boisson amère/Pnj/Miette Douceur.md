@@ -6,7 +6,7 @@ Statut: Vivant
 Relation: Inconnu
 Image:
 Profession: Femme de chambre
-Lieu: "[[Auberge du Lion d'or]]"
+Lieu: "[[Auberge du lion d'or]]"
 Ville/Village: "[[Suzail]]"
 ---
 ![picture]
