@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d96d4de4d1f34ed1","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r1.png","x":0,"y":0,"width":288,"height":400},
+		{"id":"12df821aba3c2944","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/hommel_lane_map_num.png","x":-560,"y":-440,"width":315,"height":400},
+		{"id":"bdb16e980d6cba61","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r2.png","x":288,"y":-580,"width":293,"height":400},
+		{"id":"8165fd10f91a89d6","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r3.png","x":-546,"y":100,"width":287,"height":400},
+		{"id":"da198a5bb4ec1591","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r4.png","x":500,"y":100,"width":355,"height":400},
+		{"id":"7684930267913b03","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r5.png","x":-140,"y":-580,"width":323,"height":400},
+		{"id":"6dbe7c854703face","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r7.png","x":0,"y":0,"width":400,"height":288},
+		{"id":"573fa734b4cea7db","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r8.png","x":140,"y":-40,"width":289,"height":400},
+		{"id":"c9e31ce5cf47dee6","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Contre le cuite du chaos/resources/battlemap_r9.png","x":429,"y":-151,"width":400,"height":295}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
