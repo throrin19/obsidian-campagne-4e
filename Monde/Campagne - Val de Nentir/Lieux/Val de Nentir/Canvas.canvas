@@ -5,5 +5,9 @@
 	],
 	"edges":[
 		{"id":"9b05bd88c744ab5d","fromNode":"f8c68ae136f23622","fromSide":"bottom","toNode":"effac12c5b623248","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

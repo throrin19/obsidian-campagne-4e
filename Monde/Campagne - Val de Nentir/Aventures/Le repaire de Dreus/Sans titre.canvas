@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3af5753765d4296d","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Le repaire de Dreus/resources/battlemap_d1.png","x":-400,"y":-100,"width":214,"height":400},
+		{"id":"9880d5074788731b","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Le repaire de Dreus/resources/battlemap_d3.png","x":-493,"y":-980,"width":400,"height":376},
+		{"id":"095132947e15ca5d","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Le repaire de Dreus/resources/battlemap_d2.png","x":-472,"y":-560,"width":358,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
