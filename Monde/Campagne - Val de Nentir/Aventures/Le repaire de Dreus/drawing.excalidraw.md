@@ -13,9 +13,9 @@ tags: [excalidraw]
 ## Embedded Files
 6b2f5a99fd7639af7f94870e33ae8d11441a3be4: [[battlemap_d1.png]]
 
-cd7a026c976e591835c058797f2350b442c002f0: [[battlemap_d2.png]]
+cd7a026c976e591835c058797f2350b442c002f0: [[Monde/Campagne - Val de Nentir/Aventures/Le repaire de Dreus/resources/battlemap_d2.png]]
 
-5de1b91fb27b6cd7a2400623c4e8626004f7b193: [[battlemap_d3.png]]
+5de1b91fb27b6cd7a2400623c4e8626004f7b193: [[Monde/Campagne - Val de Nentir/Aventures/Le repaire de Dreus/resources/battlemap_d3.png]]
 
 %%
 ## Drawing
