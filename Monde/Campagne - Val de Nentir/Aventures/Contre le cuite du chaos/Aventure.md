@@ -1017,11 +1017,11 @@ The  adventurers' investigations  i n H o m m e l  Lane determine  which  path t
 
 ## 03 H J\L I P  T ] E  1 ^ . · R J . '  HIE CHAOS  CULT
 
-An  ancient  moat  house  near  H o m m e l Lane  was  once the  lair  of evil  humans-part  of a force  that  unsuccess­ f u l l y  attacked  the  village a hundred years  ago. A  site dedicated  to  evil  and  chaos, the  moat  house  was  thank­ f u l l y  overthrown  and  its residents  routed. For  a  century, the  ruins have  lain  abandoned  and  rotting-but  now  a new evil  rises i n the  wilderness.
+An  ancient  moat  house  near  Hommel Lane  was  once the  lair  of evil  humans-part  of a force  that  unsuccess­ fully  attacked  the  village a hundred years  ago. A  site dedicated  to  evil  and  chaos, the  moat  house  was  thank­ fully  overthrown  and  its residents  routed. For  a  century, the  ruins have  lain  abandoned  and  rotting-but  now  a new evil  rises i n the  wilderness.
 
 ## EXPLORE  THE MOAT  HOUSE
 
-This  session  is the  first  part of the  "Chaos  Cult"  section of the  adventure. The  characters have  most  likely  come here  i n response to rumors of bandit  activity i n a  ruined moat  house  four hours  north  of Hommel  Lane.
+This  session  is the  first  part of the  "Chaos  Cult"  section of the  adventure. The  characters have  most  likely  come here  in response to rumors of bandit  activity i n a  ruined moat  house  four hours  north  of Hommel  Lane.
 
 ## The  Story  So Far
 
