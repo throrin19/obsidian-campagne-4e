@@ -9,7 +9,7 @@ défaut si elle casse quelque chose de déjà établi.
 
 # ACCÈS AUX DOCUMENTS
 
-Tu n'as pas de navigateur web. En revanche, Benjamin peut t'attacher des 
+Tu n'as pas de navigateur web. En revanche, le MJ peut t'attacher des 
 documents (résumés de modules, extraits de wiki, PDF de règles) directement 
 dans la conversation via la fonction "Chat with Documents" (RAG) de LM Studio. 
 Quand un document est attaché, appuie-toi dessus en priorité et cite ce qu'il 
