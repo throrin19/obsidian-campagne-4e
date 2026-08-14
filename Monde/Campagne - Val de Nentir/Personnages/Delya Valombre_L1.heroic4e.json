@@ -1,0 +1,214 @@
+{
+  "version": 3,
+  "payloadRev": 1,
+  "level": 1,
+  "raceInternalId": "ID_FMP_RACE_7",
+  "classInternalId": "ID_FMP_CLASS_126",
+  "paragonPathInternalId": null,
+  "epicDestinyInternalId": null,
+  "baseAbilities": {
+    "Str": 11,
+    "Con": 10,
+    "Dex": 14,
+    "Int": 10,
+    "Wis": 18,
+    "Cha": 10
+  },
+  "resolvedChoices": {
+    "Language:ID_FMP_RACE_7": "ID_FMP_LANGUAGE_20",
+    "Race Ability Bonus:ID_FMP_RACE_7": "Wisdom",
+    "Racial Trait:ID_FMP_RACIAL_TRAIT_2966": "ID_FMP_RACIAL_TRAIT_356",
+    "Class Feature:ID_FMP_CLASS_FEATURE_784": "ID_FMP_CLASS_FEATURE_1121"
+  },
+  "trainedSkills": [
+    "Insight",
+    "Arcana",
+    "Heal",
+    "Endurance"
+  ],
+  "selectedPowers": {
+    "At-Will:0": {
+      "id": "a7a832a7-16f2-4a7c-9886-2b0594185fda",
+      "internalId": "ID_FMP_POWER_5036",
+      "name": "Grasping Claws",
+      "className": "Druid"
+    },
+    "At-Will:1": {
+      "id": "c49475e2-efed-4e46-ad25-5e09d6863210",
+      "internalId": "ID_FMP_POWER_5034",
+      "name": "Chill Wind",
+      "className": "Druid"
+    },
+    "At-Will:2": {
+      "id": "65ea3b6f-417a-4c33-aaf0-05655ff78b30",
+      "internalId": "ID_FMP_POWER_5033",
+      "name": "Call of the Beast",
+      "className": "Druid"
+    },
+    "At-Will:3": {
+      "id": "7d84e519-c146-4bd4-9b9e-4a5495345f6d",
+      "internalId": "ID_FMP_POWER_2666",
+      "name": "Thorn Whip",
+      "className": "Druid"
+    },
+    "Encounter:0": {
+      "id": "734a826e-95f3-4c6e-9141-49c1d00fddec",
+      "internalId": "ID_FMP_POWER_5041",
+      "name": "Frost Flash",
+      "className": "Druid"
+    },
+    "Daily:0": {
+      "id": "939567e9-f2ce-435c-b2fb-a4649c04fd0b",
+      "internalId": "ID_FMP_POWER_5506",
+      "name": "Fires of Life",
+      "className": "Druid"
+    }
+  },
+  "selectedFeats": [
+    {
+      "id": "e574ed92-900d-44ac-9319-a93bcd87bd42",
+      "internalId": "ID_FMP_FEAT_1019",
+      "name": "Primal Instinct"
+    },
+    {
+      "id": "bd524bdb-bf4c-4f18-b809-874a41ebce31",
+      "internalId": "ID_FMP_FEAT_127",
+      "name": "Defensive Mobility"
+    }
+  ],
+  "selectedEquipment": [
+    {
+      "id": "c4f3978e-9c64-4e00-94db-c79b6bfa59b4",
+      "internalId": "ID_FMP_GEAR_31",
+      "name": "Ritual Book",
+      "weaponGroup": null,
+      "weaponProperties": null,
+      "handsRequired": null,
+      "armorType": null,
+      "armorCategory": null,
+      "armorBonus": null,
+      "shieldBonus": null,
+      "enhancement": null,
+      "implementGroup": null,
+      "goldCost": 50,
+      "rawRules": [],
+      "isDoubleWeapon": false
+    },
+    {
+      "id": "e0342d82-3b5c-4eb3-a947-bc3c6cc39a62",
+      "internalId": "ID_FMP_WEAPON_10",
+      "name": "Quarterstaff",
+      "equippedSlot": "mainHand",
+      "weaponGroup": "Staff",
+      "weaponProperties": null,
+      "handsRequired": "Two-Handed",
+      "armorType": null,
+      "armorCategory": null,
+      "armorBonus": null,
+      "shieldBonus": null,
+      "enhancement": null,
+      "implementGroup": null,
+      "goldCost": 5,
+      "rawRules": [],
+      "isDoubleWeapon": false
+    },
+    {
+      "id": "cc0b5b23-aac0-41df-99c4-9f21cdea0c73",
+      "internalId": "ID_FMP_GEAR_1",
+      "name": "Adventurer's Kit",
+      "weaponGroup": null,
+      "weaponProperties": null,
+      "handsRequired": null,
+      "armorType": null,
+      "armorCategory": null,
+      "armorBonus": null,
+      "shieldBonus": null,
+      "enhancement": null,
+      "implementGroup": null,
+      "goldCost": 15,
+      "rawRules": [],
+      "isDoubleWeapon": false
+    },
+    {
+      "id": "e92abca7-75b6-4853-8115-848fccc0fbf4",
+      "internalId": "ID_FMP_ARMOR_3",
+      "name": "Hide Armor",
+      "equippedSlot": "armor",
+      "weaponGroup": null,
+      "weaponProperties": null,
+      "handsRequired": null,
+      "armorType": "Light",
+      "armorCategory": "Hide",
+      "armorBonus": 3,
+      "shieldBonus": null,
+      "checkPenalty": -1,
+      "enhancement": null,
+      "implementGroup": null,
+      "goldCost": 30,
+      "rawRules": [
+        {
+          "tag": "statadd",
+          "attrs": {
+            "name": "Armor Class",
+            "type": "Armor",
+            "value": "3"
+          }
+        },
+        {
+          "tag": "statadd",
+          "attrs": {
+            "name": "Armor Penalty",
+            "type": "Hide",
+            "value": "-1"
+          }
+        },
+        {
+          "tag": "statadd",
+          "attrs": {
+            "name": "attack rolls",
+            "value": "-2",
+            "requires": "!Armor Proficiency (Hide)"
+          }
+        },
+        {
+          "tag": "statadd",
+          "attrs": {
+            "name": "Reflex Defense",
+            "value": "-2",
+            "requires": "!Armor Proficiency (Hide)"
+          }
+        },
+        {
+          "tag": "statadd",
+          "attrs": {
+            "name": "Armor Class",
+            "type": "Misc",
+            "value": "-3",
+            "requires": "Companion Class"
+          }
+        }
+      ],
+      "isDoubleWeapon": false
+    }
+  ],
+  "classBaseKeyAbilities": "Wisdom, Dexterity, Constitution",
+  "buildKeyAbilities": "",
+  "customBonuses": [],
+  "acquiredRituals": [],
+  "bonusEntries": [],
+  "abilityOverrides": {},
+  "goldOverride": null,
+  "startingGold": null,
+  "characterNotes": "",
+  "skillTrainingOverride": false,
+  "featPrereqOverride": false,
+  "hybridPairingOverride": false,
+  "inherentBonuses": false,
+  "kiFocusAttunement": false,
+  "powerTextOverrides": {},
+  "alignment": "Unaligned",
+  "backgroundName": "",
+  "deityName": "ID_FMP_DEITY_7",
+  "additionalDeityIds": [],
+  "themeName": ""
+}
