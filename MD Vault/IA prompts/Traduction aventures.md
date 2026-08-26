@@ -15,6 +15,8 @@ Woodsingers -> Chantrebois
 Harkenwold -> Sylvesgourde
 Falkrest -> Cascadonne
 Hamrnerfast -> Martel
+healing surge -> récupération
+bullywug -> brutacien
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
