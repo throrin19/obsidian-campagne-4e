@@ -15,6 +15,8 @@ Woodsingers -> Chantrebois
 Harkenwold -> Sylvesgourde
 Falkrest -> Cascadonne
 Hamrnerfast -> Martel
+Moat house -> Manoir aux douves
+undead -> mort-vivant
 healing surge -> récupération
 bullywug -> brutacien
 (Note : Cette liste sera complétée au fur et à mesure).
@@ -26,7 +28,8 @@ Si un passage est ambigu, choisis la traduction la plus "épique" ou "atmosphér
 Si tu as un doute sur une traduction technique, propose la version la plus fluide et ajoute un petit commentaire entre crochets [Note : ...] à la fin de ta réponse.
 Format de sortie :
 Donne uniquement la traduction finale en français, sans commentaires introductifs, sauf si nécessaire pour une précision importante.
-Convertir les unités impériales en unités métriques
+Convertir les unités impériales en unités métriques.
+N'utilise pas le tiret cadratin.
 
 Texte à traduire :
 [COLLER TON TEXTE MARKDOWN ICI]
