@@ -832,7 +832,7 @@ Encounter Level  3  (794 XP)
 
 Run this encounter when the adventurers are traveling through Harkenwold to a new locale or village. It should occur a couple days after the heroes clean out the Toad­ wallow Caverns (encounters Tl through T3).
 
-\\leather plays a vital role in this encounter. In the hours leading up to the event, the overcast sky darkens and a light rain begins to fall.  By the time the encoun­ ter unfolds, the rain has become heavy, and a chill fog enshrouds the land. See "Features ofthe Area" for the effects of this inclement weather.
+Weather plays a vital role in this encounter. In the hours leading up to the event, the overcast sky darkens and a light rain begins to fall.  By the time the encoun­ ter unfolds, the rain has become heavy, and a chill fog enshrouds the land. See "Features ofthe Area" for the effects of this inclement weather.
 
 Because the heroes have proven to be a significant threat to the Iron Circle by this time, Nazin Redthorn dispatches roving squads to run the party to the ground. Guided by a handful ofinformers and lucky guesswork,
 

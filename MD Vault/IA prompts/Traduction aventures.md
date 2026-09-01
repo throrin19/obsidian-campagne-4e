@@ -19,6 +19,8 @@ Moat house -> Manoir aux douves
 undead -> mort-vivant
 healing surge -> récupération
 bullywug -> brutacien
+bloodied -> péril
+Halfling -> Halfelin
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
