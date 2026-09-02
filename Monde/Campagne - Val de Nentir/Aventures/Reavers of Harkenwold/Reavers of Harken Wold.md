@@ -1499,7 +1499,7 @@ On hearin8 your story, Eriyelgravely nods. "Our thanks, stran8­ ers," she says.
 
 the mercenar­ "Now this. Our scouts have been in touch with Harkemllolders living near theforest. They have heard that the Iron Circle is preparing to march a8ainst those who resist them. Reithann and others who stillfi8ht a8ainst the Iron Circle are Balherin8 at Albridge to 8ive battle. We wUljoin you there in two days' time."
 
-Israfen hears out the heroes and then replies, ''This is a matter for Eriyel. Come, follow me." Two more elves step out of  the shadows to join him, and the three hunters lead the party to a small elven encampment in a clearing by Proceed with encounter B1 (Reavers ofHarken wold Part 2: The Die Is Cast, page 3) when you're ready to continue.
+Proceed with encounter B1 (Reavers ofHarken wold Part 2: The Die Is Cast, page 3) when you're ready to continue.
 
 ## ROLEPLAYING ERIYEL
 
