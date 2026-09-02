@@ -13,6 +13,7 @@ Iron Keeep -> Forteresse de fer
 Toadwallow -> Fossecrapaud 
 Woodsingers -> Chantrebois
 Harkenwold -> Sylvesgourde
+Harken Forest -> forêt de l'Esgourde
 Falkrest -> Cascadonne
 Hamrnerfast -> Martel
 Moat house -> Manoir aux douves
@@ -21,6 +22,7 @@ healing surge -> récupération
 bullywug -> brutacien
 bloodied -> péril
 Halfling -> Halfelin
+Woodsinger -> Chantesylve
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
