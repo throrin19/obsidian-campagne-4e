@@ -23,6 +23,9 @@ bullywug -> brutacien
 bloodied -> péril
 Halfling -> Halfelin
 Woodsinger -> Chantesylve
+Woodsingers -> Chantesylve
+Daggerburg -> Daguebourg
+Stealth -> Discrétion
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
