@@ -26,6 +26,8 @@ Woodsinger -> Chantesylve
 Woodsingers -> Chantesylve
 Daggerburg -> Daguebourg
 Stealth -> Discrétion
+Fortitude -> Vigueur
+Athletics -> Athlétisme
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
