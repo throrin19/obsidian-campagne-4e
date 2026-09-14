@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cf6b77fde4b45931","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Siège/resources/gardmore.png","x":0,"y":0,"width":372,"height":400},
+		{"id":"deaffe14e805c131","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Siège/resources/battlemap_e3.png","x":-140,"y":-480,"width":400,"height":400},
+		{"id":"538d14e9251e47c1","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Siège/resources/battlemap_e4.png","x":-120,"y":-660,"width":400,"height":245},
+		{"id":"d2f6941e2e4f4e9f","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Siège/resources/battlemap_e5.png","x":-280,"y":360,"width":398,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
