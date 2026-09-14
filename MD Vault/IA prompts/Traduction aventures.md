@@ -28,8 +28,14 @@ Daggerburg -> Daguebourg
 Stealth -> Discrétion
 Fortitude -> Vigueur
 Athletics -> Athlétisme
+Fortitude -> Vigueur
+Insight -> Intuition
+Streetwise -> Connaissances de la rue
+Thievery -> Larcin
+Acrobatics -> Acrobatie
 Winterhaven -> Havrefroid
 Deck of Many Things -> Cartes Merveilleuses
+
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
