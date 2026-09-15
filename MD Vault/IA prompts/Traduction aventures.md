@@ -35,6 +35,8 @@ Thievery -> Larcin
 Acrobatics -> Acrobatie
 Winterhaven -> Havrefroid
 Deck of Many Things -> Cartes Merveilleuses
+Villains -> Ennemis
+Feywild -> Féérie
 
 (Note : Cette liste sera complétée au fur et à mesure).
 
