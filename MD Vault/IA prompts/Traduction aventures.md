@@ -37,6 +37,9 @@ Winterhaven -> Havrefroid
 Deck of Many Things -> Cartes Merveilleuses
 Villains -> Ennemis
 Feywild -> Féérie
+Moongem: -> Gemmelune
+Coalstriker -> Cogne-charbon
+Prescient -> Prescient
 
 (Note : Cette liste sera complétée au fur et à mesure).
 
