@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"8e255f4430978ad8","type":"file","file":"z_assets/maps/villes/havrefroid.png","x":-480,"y":-480,"width":400,"height":263},
+		{"id":"5543a4a4b1f4242f","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/Illustration_007.png","x":40,"y":-680,"width":400,"height":265},
+		{"id":"b9ed7361cb5d3bf1","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_008.png","x":80,"y":-348,"width":400,"height":265},
+		{"id":"ccce78be98d1dade","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_009.png","x":-400,"y":-947,"width":185,"height":400},
+		{"id":"6850cd3fb1650388","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_010.png","x":540,"y":-940,"width":221,"height":400},
+		{"id":"4d779088e730a0c8","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_011.png","x":-720,"y":-940,"width":221,"height":400},
+		{"id":"43e60638c031b4e6","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_012.png","x":-800,"y":-460,"width":266,"height":400},
+		{"id":"d39a2cadb3b03a50","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/battlemap_abuse_of_power.png","x":628,"y":-348,"width":267,"height":400},
+		{"id":"4b5b38a54750a8a7","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/battlemap_fey_revenge.png","x":280,"y":-120,"width":400,"height":400},
+		{"id":"acd73e4fb5097433","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_013.png","x":-415,"y":-160,"width":400,"height":291},
+		{"id":"60cbfb55e0a8d0b7","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_014.png","x":-80,"y":-964,"width":400,"height":217},
+		{"id":"44c6531c2f176459","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_015.png","x":-943,"y":-1000,"width":223,"height":400},
+		{"id":"3c51f928771cff27","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_016.png","x":-651,"y":-200,"width":171,"height":400},
+		{"id":"516a4cdc01efaf35","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_017.png","x":0,"y":-440,"width":238,"height":400},
+		{"id":"d8b8dfc129511e6f","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_018.png","x":-200,"y":-880,"width":400,"height":305},
+		{"id":"b8247612ee28de4e","type":"file","file":"Monde/Campagne - Val de Nentir/Aventures/Gardmore Abbey/Madness/resources/illustration_019.png","x":480,"y":-575,"width":400,"height":251}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
