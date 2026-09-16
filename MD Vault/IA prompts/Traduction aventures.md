@@ -40,6 +40,8 @@ Feywild -> Féérie
 Moongem: -> Gemmelune
 Coalstriker -> Cogne-charbon
 Prescient -> Prescient
+Feygrove -> Bosquet Féérique
+Fey -> Fée
 
 (Note : Cette liste sera complétée au fur et à mesure).
 
