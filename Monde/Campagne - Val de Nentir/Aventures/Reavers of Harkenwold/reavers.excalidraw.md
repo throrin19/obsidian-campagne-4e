@@ -21,9 +21,9 @@ tags: [excalidraw]
 
 2364ffc9540d5c188306256470b1f8912697b0ff: [[battlemap_e2.png]]
 
-505f780235fae8ac973174bfd43b6e59d96c0aac: [[battlemap_e3.png]]
+505f780235fae8ac973174bfd43b6e59d96c0aac: [[Monde/Campagne - Val de Nentir/Aventures/Reavers of Harkenwold/resources/battlemap_e3.png]]
 
-a80f77dfd38c6ad4e2f693b6c90f2ae0b0b4b170: [[battlemap_e4.png]]
+a80f77dfd38c6ad4e2f693b6c90f2ae0b0b4b170: [[Monde/Campagne - Val de Nentir/Aventures/Reavers of Harkenwold/resources/battlemap_e4.png]]
 
 51f89f77a3da1b6964abe94417537626a6df2429: [[battlemap_t1.png]]
 
@@ -57,7 +57,7 @@ bf4281cd51a2977eaa5a6f513c06815f8810a856: [[battlemap_k5.png]]
 
 d38a99bd48c933b88e22f12fc6b2bebc64874f24: [[battlemap_k7.png]]
 
-fe92c4382513af50788b128941e157f38d795946: [[battlemap_e5.png]]
+fe92c4382513af50788b128941e157f38d795946: [[Monde/Campagne - Val de Nentir/Aventures/Reavers of Harkenwold/resources/battlemap_e5.png]]
 
 %%
 ## Drawing

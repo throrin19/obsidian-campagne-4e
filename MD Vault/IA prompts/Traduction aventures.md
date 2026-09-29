@@ -13,10 +13,36 @@ Iron Keeep -> Forteresse de fer
 Toadwallow -> Fossecrapaud 
 Woodsingers -> Chantrebois
 Harkenwold -> Sylvesgourde
+Harken Forest -> forêt de l'Esgourde
 Falkrest -> Cascadonne
 Hamrnerfast -> Martel
+Moat house -> Manoir aux douves
+undead -> mort-vivant
 healing surge -> récupération
 bullywug -> brutacien
+bloodied -> péril
+Halfling -> Halfelin
+Woodsinger -> Chantesylve
+Woodsingers -> Chantesylve
+Daggerburg -> Daguebourg
+Stealth -> Discrétion
+Fortitude -> Vigueur
+Athletics -> Athlétisme
+Fortitude -> Vigueur
+Insight -> Intuition
+Streetwise -> Connaissances de la rue
+Thievery -> Larcin
+Acrobatics -> Acrobatie
+Winterhaven -> Havrefroid
+Deck of Many Things -> Cartes Merveilleuses
+Villains -> Ennemis
+Feywild -> Féérie
+Moongem: -> Gemmelune
+Coalstriker -> Cogne-charbon
+Prescient -> Prescient
+Feygrove -> Bosquet Féérique
+Fey -> Fée
+
 (Note : Cette liste sera complétée au fur et à mesure).
 
 Instructions spécifiques :
@@ -26,7 +52,8 @@ Si un passage est ambigu, choisis la traduction la plus "épique" ou "atmosphér
 Si tu as un doute sur une traduction technique, propose la version la plus fluide et ajoute un petit commentaire entre crochets [Note : ...] à la fin de ta réponse.
 Format de sortie :
 Donne uniquement la traduction finale en français, sans commentaires introductifs, sauf si nécessaire pour une précision importante.
-Convertir les unités impériales en unités métriques
+Convertir les unités impériales en unités métriques.
+N'utilise pas le tiret cadratin.
 
 Texte à traduire :
 [COLLER TON TEXTE MARKDOWN ICI]
