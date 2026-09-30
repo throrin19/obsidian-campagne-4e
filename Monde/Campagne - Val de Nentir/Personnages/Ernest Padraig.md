@@ -4,12 +4,12 @@ Race: Humain
 Alignement: Bon
 Statut: Vivant
 Relation: Inconnu
-Image:
+Image: "[[illustration_009.png]]"
 Profession: Bourgmestre
 Lieu:
 Ville/Village: "[[Havrefroid]]"
 ---
-![picture]
+![[illustration_009.png]]
 # Description
 
 Lord Ernest Padraig est le souverain héréditaire de Havrefroid, issu d’une longue lignée de pionniers et d’héros qui ont établi une forteresse à la lisière du monde connu et l’ont maintenue pendant des siècles contre toutes sortes de menaces. C’est un soldat compétent et un dirigeant raisonnable, mais pas un héros. Il est assez sage pour voir les dangers qui rôdent dans la nature sauvage autour de son village, mais il manque non seulement de l’autorité pour envoyer une force militaire au-delà des murs pour affronter ces menaces, mais aussi de l’esprit d’aventure pour les affronter seul. Au lieu de cela, il compte sur des aventuriers pour vaincre les périls des terres sauvages avant qu’ils ne puissent menacer les murs de Havrefroid.
