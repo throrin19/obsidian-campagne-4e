@@ -5,8 +5,8 @@ Alignement: Bon
 Statut: Vivant
 Relation: Inconnu
 Image:
-Profession: Lord Maréchal
-Lieu:
+Profession: Aubergiste
+Lieu: Auberge de Wrafton
 Ville/Village: "[[Havrefroid]]"
 ---
 ![picture]
