@@ -3,7 +3,7 @@ Type: Pnj
 Race: Humain
 Alignement: Non aligné
 Statut: Vivant
-Relation: Ami
+Relation: Inconnu
 Image:
 Profession: Capitaine de la millice, Chef de la guilde des guerriers
 Lieu:
