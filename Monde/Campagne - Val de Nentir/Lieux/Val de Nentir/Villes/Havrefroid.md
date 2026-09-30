@@ -1,4 +1,13 @@
+---
+Région: "[[Val de Nentir]]"
+Type: Village
+Capitale: Non
+---
+# Carte
+
 ![[havrefroid.png]]
+
+# Lieux importants
 
 1. Porte et remparts extérieurs : Deux gardes sont postés à la porte extérieure. 
 2. Auberge de Wrafton : Cette auberge et taverne spacieuse sert de lieu de rencontre public pour la région. 
@@ -14,3 +23,35 @@
 12. Réserves de siège : De l’eau, de la farine et d’autres denrées alimentaires de base sont stockées ici pour nourrir les villageois en cas de siège. 
 13. Caserne : La Milice y dort en dortoir. 
 14. Manoir : Dotée de cinq domestiques, la maison seigneuriale où Lord Padraig vit avec sa femme et ses quatre fils est un bel exemple d’architecture en pierre dans un village par ailleurs construit en bois et en chaume.
+
+# Habitants importants
+
+```base
+properties:
+  note.type:
+    displayName: Type
+  note.statut:
+    displayName: Statut
+  note.updated:
+    displayName: Mis à jour
+  file.name:
+    displayName: Nom
+views:
+  - type: cards
+    name: Notes
+    filters:
+      and:
+        - Type == "Pnj"
+        - note["Ville/Village"] == link("Havrefroid")
+    order:
+      - file.name
+      - statut
+      - Image
+      - Alignement
+      - Profession
+      - Relation
+    sort:
+      - property: file.name
+        direction: ASC
+
+```
