@@ -7,7 +7,7 @@ Relation: Inconnu
 Image:
 Profession: Forgeron
 Lieu:
-Ville/Village:
+Ville/Village: "[[Havrefroid]]"
 ---
 ![picture]
 # Description

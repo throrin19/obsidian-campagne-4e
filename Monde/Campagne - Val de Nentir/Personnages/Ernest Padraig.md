@@ -1,7 +1,7 @@
 ---
 Type: Pnj
 Race: Humain
-Alignement: Bon
+Alignement: Loyal bon
 Statut: Vivant
 Relation: Inconnu
 Image: "[[illustration_009.png]]"

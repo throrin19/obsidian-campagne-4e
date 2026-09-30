@@ -37,7 +37,7 @@ properties:
   file.name:
     displayName: Nom
 views:
-  - type: cards
+  - type: table
     name: Notes
     filters:
       and:
@@ -45,13 +45,12 @@ views:
         - note["Ville/Village"] == link("Havrefroid")
     order:
       - file.name
-      - statut
-      - Image
-      - Alignement
       - Profession
       - Relation
+      - Alignement
     sort:
       - property: file.name
         direction: ASC
+    image: note.Image
 
 ```

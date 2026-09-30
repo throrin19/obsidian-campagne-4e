@@ -7,7 +7,7 @@ Relation: Inconnu
 Image:
 Profession: Mage
 Lieu:
-Ville/Village:
+Ville/Village: "[[Havrefroid]]"
 ---
 ![picture]
 # Description

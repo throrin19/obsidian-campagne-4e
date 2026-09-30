@@ -3,7 +3,7 @@ Type: Pnj
 Race: Humain
 Alignement: Bon
 Statut: Vivant
-Relation: Ami
+Relation: Inconnu
 Image:
 Profession: Prétresse
 Lieu:

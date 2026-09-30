@@ -3,7 +3,7 @@ Type: Pnj
 Race: Elfe
 Alignement: Non aligné
 Statut: Vivant
-Relation: Ami
+Relation: Inconnu
 Image:
 Profession: Fleuriste
 Lieu:
