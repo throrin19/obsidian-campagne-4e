@@ -6,6 +6,6 @@ XP: "550"
 ```encounter
 players: true
 creatures:
-  - 2: Loup gris, 38,16,6
-  - 2: Loup vorace, 25,15,3
+  - 3: Loup gris, 38,16,6
+  - 3: Loup vorace, 25,15,3
 ```
