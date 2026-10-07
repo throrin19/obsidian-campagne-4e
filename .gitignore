@@ -6,5 +6,6 @@
 !.obsidian/core-plugins.json
 !.obsidian/graph.json
 !.obsidian/hotkeys.json
+!.obsidian/plugins/brewvault/*
 
 */.DS_Store
